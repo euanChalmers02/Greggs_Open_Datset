@@ -1,0 +1,4292 @@
+Unnamed: 0,name,address,postcode,id_store_euan,lat,log,itr,square
+0,Swadlincote," 6 High St,Swadlingcote"," DE11 8HY
+",0,52.77342528,-1.55671424,2,65-31
+1,Ashby De La Zouch," 25 Market Pl,Ashby De La Zouch"," LE65 1AF
+",1,52.74690744,-1.472623857,2,66-31
+2,Burton Upon Trent," 2 Cooper Sq SC,Burton Upon Trent"," DE14 1DF
+",2,52.80207385,-1.6319836,2,65-31
+3,Nottingham Road," LE65 1JP,"," LE65 1JP
+",3,52.75128569,-1.447824063,,66-31
+4,Burton on Trent," U33 Albion Gateway,Burton on Trent"," DE13 0FW
+",4,52.8253173,-1.6222121,2,65-31
+5,Derby," DE65 6GY,"," DE65 6GY
+",5,52.85488156,-1.58257904,,65-32
+6,Chellaston," Riber Dr,Chellaston"," DE73 6WS
+",6,52.8616432,-1.4338781,,66-32
+7,Coalville," U17 Belvoir SC,Coalville"," LE67 3XB
+",7,52.72411257,-1.3724241,2,67-30
+8,Derby," 830 Osmaston Rd,Allenton"," DE24 9AA
+",8,52.8905823,-1.452461654,,66-32
+9,East Midlands Airport," Arrivals,Castle Donnington"," DE74 2SA
+1",9,52.82629405,-1.325778138,3,67-31
+10,Fradley, U2A Stirling Ctr," WS13 8NQ
+1",10,52.70987,-1.77764,3,64-30
+11,Derby," UP2 Kingsway RP,Derby"," DE22 3FA
+1",11,52.92054581,-1.505798014,3,66-33
+12,Derby," DE1 2RU,1"," DE1 2RU
+1",12,52.9120661,-1.410379052,,66-32
+13,Derby," USU164 Intu Derby,Derby"," DE1 2PL
+1",13,52.91933798,-1.472984351,3,66-33
+14,Derby," Pride Park Stadium Ground Fl,Derby"," DE24 8XL
+1",14,52.91498676,-1.4476353,3,66-32
+15,Derby, U2A Ctrl Hall," DE1 2AF
+1",15,52.92101261,-1.475293173,3,66-33
+16,Castle Donington," DE74 2TN,1"," DE74 2TN
+1",16,52.8739774,-1.3018161,,67-32
+17,Derby," 40 Cornmarket,Derby"," DE1 2DG
+1",17,52.9220013,-1.4768889,,66-33
+18,Mackworth," 91 Prince Charles Ave,Mackworth"," DE22 4BG
+1",18,52.9281286,-1.5187871,,66-33
+19,Tamworth," 17 Middle Entry SC,Tamworth"," B79 7NJ
+1",19,52.63335426,-1.69502175,3,64-29
+20,Worthing," 111 Montague St,Worthing"," BN11 3BP
+",20,50.8099778,-0.3750411,,73-9
+21,Rustington," 11 Churchill Pde,Rustington"," BN16 3DJ
+",21,50.8107448,-0.5072596,,72-9
+22,Portslade," 78 Boundary Rd,Portslade"," BN3 5TD
+",22,50.83028755,-0.208656312,,75-9
+23,Littlehampton," 53 High St,Littlehampton"," BN17 5EJ
+",23,50.8093447,-0.5408111,,72-9
+24,Brighton," 51 Western Rd,Brighton"," BN1 2EB
+",24,50.8240056,-0.1479196,,75-9
+25,Brighton," 96 Queens Rd,Brighton"," BN1 3XJ
+1",25,53.4900852,-3.0225944,,55-39
+26,Brighton," 150 North St,Brighton"," BN1 1RE
+1",26,50.8232172,-0.1408954,,75-9
+27,Brighton," 112 London Rd,Brighton"," BN1 4JG
+1",27,50.8306645,-0.1360685,,75-9
+28,Bognor Regis," U6 Saltbox Rd Drive Thru,Bognor Regis"," PO22 9PF
+1",28,50.81945,-0.66774,3,71-9
+29,Burgess Hill," U17 Market Place SC,Burgess Hill"," RH15 9NP
+1",29,50.9549922,-0.13116774,3,75-10
+30,Bognor Regis," PO21 5DS,1"," PO21 5DS
+1",30,50.803045,-0.6989079,3,71-9
+31,Peacehaven," 165 South Coast Rd,Peacehaven"," BN10 8NP
+1",31,50.7950082,-0.0192284,,76-9
+32,Haywards Hth," 28 South Rd,Haywards Heath"," RH16 4LA
+1",32,50.99646695,-0.101328537,,75-11
+33,Chichester," 81 East St,Chichester"," PO19 1HX
+1",33,50.8361111,-0.7744569,,71-9
+34,Crawley Avenue," RH10 8BA,2"," RH10 8BA
+2",34,51.11202075,-0.186973082,,75-12
+35,Crawley," 26 The Martletts,Crawley"," RH10 1ES
+2",35,51.1141378,-0.1870906,,75-12
+36,Crawley," 17 Queensway,Crawley"," RH10 1EB
+2",36,51.1154911,-0.183722,,75-12
+37,Crawley," Three Bridges Railway Stn,Crawley"," RH10 1LY
+2",37,51.1174709,-0.1610653,3,75-12
+38,Haselmere," GU27 1LE,2"," GU27 1LE
+2",38,51.08780549,-0.7329353,3,71-12
+39,Copthorne Common," RH10 3LF,2"," RH10 3LF
+2",39,51.11202075,-0.186973082,,75-12
+40,Colchester," 16 High St,Colchester"," CO1 1DA
+",40,45.3660295,-63.2598579,,
+41,Colchester," 36 Long Wyre St,Colchester"," CO1 1LJ
+",41,51.88835165,0.902536907,,82-21
+42,Colchester," 58 St Christopher Rd,Colchester"," CO4 0NB
+",42,51.90302975,0.929191234,,82-21
+43,Colchester," Stanway RP,Colchester"," CO3 0JS
+",43,51.8844655,0.8350664,,82-21
+44,Colchester, UF Stane RP," CO3 8DW
+",44,51.88906956,0.825686,2,82-21
+45,Colchester," CO5 9EL,"," CO5 9EL
+",45,51.85322726,0.73235568,,81-20
+46,Hadleigh," 58 High St,Hadleigh"," IP7 5AL
+1",46,52.04373855,0.954157207,,82-23
+47,Witham," CM8 3HB,1"," CM8 3HB
+1",47,51.80591235,0.639671581,,80-20
+48,Maldon," Blackwater RP,Maldon"," CM9 4DY
+1",48,51.6920043,0.7952238,,81-19
+49,Sudbury," 5 Market Hill,Sudbury"," CO10 2EA
+1",49,52.0384241,0.7298239,,81-23
+50,Witham," 52 Newlands SC,Witham"," CM8 2BB
+1",50,51.799825,0.6399366,3,80-20
+51,Clacton-On-Sea," U2A Clacton FO,Clacton-On-Sea"," CO15 4TL
+1",51,51.81877974,1.165982032,3,84-20
+52,Clacton-On-Sea," 19 Station Rd,Clacton-on-Sea"," CO15 1TD
+1",52,51.78920315,1.152915562,,84-20
+53,Maldon," 34 High St,Maldon"," CM9 5PN
+1",53,51.73128605,0.676655327,,81-19
+54,Braintree," 5 George Yard SC,Braintree"," CM7 1RB
+1",54,-34.19468,-62.682459,2,
+55,Ipswich," IP1 5FG,1"," IP1 5FG
+1",55,52.06367,1.10975,3,83-23
+56,Ipswich, U3 Ipswich Station," IP2 8AL
+1",56,29.52028,-98.668375,,
+57,Frinton-On-Sea," 66 Connaught Ave,Frinton-On-Sea"," CO13 9PT
+1",57,51.8327176,1.2453751,,84-20
+58,Ipswich," 35 Upper Brook St,Ipswich"," IP4 1ED
+1",58,52.056637,1.1563491,,84-23
+59,Harwich," U1A Harwich Gateway RP,Harwich"," CO12 4EN
+1",59,51.94100028,1.2588263,3,84-21
+60,Wickford," 26 High St,Wickford"," SS12 9AZ
+",60,51.6114803,0.520082,,79-18
+61,Pitsea," 5 Northlands Pavement,Pitsea"," SS13 3DU
+",61,51.56623,0.50403,2,79-17
+62,Basildon," 44 East Wlk,Basildon"," SS14 1HE
+",62,51.5703778,0.4611063,,79-17
+63,Basildon," 20 South Wlk,Basildon"," SS14 1BZ
+",63,51.56904,0.45885,2,79-17
+64,Basildon," 54 Town Sq,Basildon"," SS14 1DT
+",64,51.569853,0.4571879,,79-17
+65,Rayleigh," 81 High St,Rayleigh"," SS6 7EJ
+",65,51.5834278,0.601038,,80-17
+66,Benfleet," 281 High Rd,Benfleet"," SS7 5HA
+",66,51.5669197,0.5504924,,80-17
+67,Billericay," 121 High St,Billericay"," CM12 9AH
+",67,51.62407395,0.415934544,,79-18
+68,Corringham," 19 Grover Wlk,Corringham"," SS17 7LP
+",68,51.52465,0.44672,2,79-17
+69,Canvey Island," 30 Furtherwick Rd,Canvey Island"," SS8 7AE
+",69,51.520432,0.5926889,,80-17
+70,Great Baddow," 12 Vineyards CTR,Great Baddow"," CM2 7QS
+",70,51.7176337,0.5011053,2,79-19
+71,Chelmsford," 146 Gloucester Ave,Chelmsford"," CM2 9LG
+",71,51.7179622,0.4665857,,79-19
+72,Rochford," 12 West St,Rochford"," SS4 1AL
+",72,51.5822801,0.7069007,,81-17
+73,Chelmsford," Chelmer SC,Chelmsford"," CM1 1XD
+",73,51.7427561,0.4694692,,79-19
+74,Chelmsford," CM1 2RY,"," CM1 2RY
+",74,51.73282018,0.45610664,,79-19
+75,Chelmsford," U5C Interchange,Chelmsford"," CM1 1GZ
+",75,51.73629049,0.466638678,2,79-19
+76,Westcliff On Sea," 163 Hamlet Crt Rd,Westcliff-on-Sea"," SS0 7EL
+",76,51.5374269,0.6925423,,81-17
+77,Brentwood," 19 High St,Brentwood"," CM14 4RG
+",77,51.6210506,0.3049329,,78-18
+78,Brentwood," 68 High St,Brentwood"," CM14 4AN
+",78,51.6210506,0.3049329,,78-18
+79,Southend," 2 Southchurch Rd,Southend-on-Sea"," SS1 2NE
+",79,51.540238,0.7183886,,81-17
+80,Stockley Pk," U4 The Arena,Stockley Park"," UB11 1AA
+",80,51.5127133,-0.4446693,2,73-17
+81,Hayes," 25 Station Rd,Hayes"," UB3 4BD
+",81,51.4997763,-0.4250924,,73-17
+82,Shepiston Lane," UB3 1LL,"," UB3 1LL
+",82,51.49438,-0.4316736,,73-16
+83,Hillingdon," 370 Long Lane,Hillingdon"," UB10 9PG
+",83,51.5328312,-0.4528047,,73-17
+84,Heston," TW5 9NB,"," TW5 9NB
+",84,51.48837864,-0.3949529,,73-16
+85,Southall," 43 The Broadway,Southall"," UB1 2PS
+",85,51.5113814,-0.376639,,73-17
+87,Uxbridge," 148 High St,Uxbridge"," UB8 1JY
+",87,42.070689,-71.637423,,
+88,Southall," Ealing Hospital,Southall"," UB2 4GB
+",88,51.5078786,-0.34516025,,74-17
+91,Greenford," UB6 9RP,"," UB6 9RP
+",91,51.53237,-0.37103,,73-17
+92,Hounslow," TW5 0RG,"," TW5 0RG
+",92,51.4883407,-0.3713631,,73-16
+93,Greenford," 16 The Broadway,Greenford"," UB6 9PR
+",93,51.5284931,-0.3562385,,74-17
+94,South Ruislip," 708 Field End Rd,South Ruislip"," HA4 0QP
+",94,51.56081065,-0.380987017,2,73-17
+95,Southern Perimeter Road," TW6 3PF,"," TW6 3PF
+",95,51.46126,-0.48185,,73-16
+96,Feltham, Bedfont," TW14 8BT
+",96,51.4530683,-0.4334413,,73-16
+97,Hounslow," 8 High St,Hounslow"," TW3 1HG
+",97,51.44226895,-0.41270895,,73-16
+98,Uxbridge," UB9 4DF,"," UB9 4DF
+",98,51.56431,-0.49969,,73-17
+99,Hounslow," 181 High St,Hounslow"," TW3 1BL
+",99,51.4707592,-0.3541687,,74-16
+100,Consett," 34 Middle St,Consett"," DH8 5QJ
+",100,54.8522353,-1.8331876,,64-54
+101,Prudhoe," 55 Front St,Prudhoe"," NE42 5AA
+",101,54.9612516,-1.8491459,,63-56
+102,Stanley," 52 Front St,Stanley"," DH9 0HU
+",102,54.8700049,-1.6987009,,64-55
+103,Prudhoe, U2A Tyneview RP," NE42 6BU
+",103,54.96860954,-1.83708412,2,63-56
+104,Blaydon," U15 The PCT,Blaydon"," NE21 5BT
+",104,54.9656572,-1.7146409,,64-56
+105,Whickham," 3 Saint Marys Green,Whickham"," NE16 4DN
+",105,54.94610913,-1.677239142,2,65-55
+106,Tow Law," 47A High St,Tow Law"," DL13 4DH
+",106,54.744255,-1.8142473,,64-53
+107,Gateshead, Metro Pk West," NE11 9YA
+",107,54.9594242,-1.67778932,,65-56
+108,Gateshead, Metrocentre," NE11 9YR
+",108,54.9571318,-1.671827774,,65-56
+111,Team Valley IE," U3 Tenth Ave,Team Valley"," NE11 0HL
+1",111,54.9241639,-1.6153756,,65-55
+112,West Denton," U10 Denton Pk SC,West Denton"," NE5 2QZ
+1",112,54.9930677,-1.6986638,3,64-56
+113,Team Valley," U4 Maingate,Team Valley"," NE11 0BE
+1",113,54.9431099,-1.624086471,3,65-55
+114,Benwell," 9 Adelaide SC,Benwell"," NE4 8BE
+1",114,54.97008826,-1.655475071,3,65-56
+115,Newcastle," 112 West Rd,Newcastle Upon Tyne"," NE4 9QA
+1",115,54.9794947,-1.6727543,,65-56
+116,Newcastle," 1 Penn St,Newcastle Upon Tyne"," NE4 7BG
+1",116,54.9630989,-1.6308988,,65-56
+117,Newcastle," Binswood Ave,Blakelaw"," NE5 3PN
+1",117,54.994159,-1.6724795,,65-56
+118,Fenham," 313 Two Ball Lonnen,Fenham"," NE4 9RX
+1",118,54.98660735,-1.662578359,,65-56
+119,Outlet: Newcastle," 403 Westgate Rd,Newcastle Upon Tyne"," NE4 6PB
+1",119,54.9732617,-1.6393087,,65-56
+122,Crawley Avenue," RH10 8BA,"," RH10 8BA
+",122,51.1097899,-0.2059699,,75-12
+124,Copthorne Common," RH10 3LF,"," RH10 3LF
+",124,51.1362506,-0.097468933,,75-12
+125,East Grinstead, U2 Swan Crt," RH19 1AG
+",125,51.4791112,-0.2005032,,75-16
+127,Redhill," 35 Station Rd,Redhill"," RH1 1QH
+",127,51.2404677,-0.1706714,,75-14
+129,Edenbridge," U3 Fircroft Way,Edenbridge"," TN8 6EL
+1",129,51.205091,0.0661604,,76-13
+130,Caterham," U38 Church Wlk SC,Caterham"," CR3 6RT
+1",130,51.28148331,-0.07736094,3,75-14
+131,Leatherhead," 4 High St,Leatherhead"," KT22 8AN
+1",131,51.2951803,-0.3291187,,74-14
+132,Epsom," 48 High St,Epsom"," KT19 8AJ
+1",132,51.3338141,-0.2660993,,74-15
+133,Cobham," KT11 3DB,1"," KT11 3DB
+1",133,51.35607085,-0.3322843,,74-15
+134,Wallington," 86 Woodcote Rd,Wallington"," SM6 0LY
+1",134,51.3586228,-0.1498137,,75-15
+135,Sutton," 72 High St,Sutton"," SM1 1EZ
+1",135,51.3618988,-0.1921976,,75-15
+136,New Addington," 33 Central Pde,New Addington"," CR0 0JD
+1",136,51.3415079,-0.0146891,,76-15
+137,Sutton," 194 High St,Sutton"," SM1 1NR
+1",137,51.3658143,-0.19402,,75-15
+138,North Cheam," 522 London Rd,North Cheam"," SM3 8HW
+1",138,51.3682963,-0.2310188,,74-15
+139,Croydon," 66 High St,Croydon"," CR0 1NA
+1",139,51.3714371,-0.1006147,,75-15
+140,Crosby," 9 Moor Lane,Crosby"," L23 2SE
+",140,53.4937158,-3.0217218,,55-39
+141,Waterloo," 100 South Rd,Waterloo"," L22 0ND
+",141,53.4756584,-3.0242686,,55-39
+142,Formby," L38 1QA,"," L38 1QA
+",142,53.5278329,-3.0321147,,55-39
+143,Bootle," 2 Marian Sq,Netherton"," L30 5QA
+",143,53.4882144,-2.9736776,,56-39
+144,Bootle, 156 Parkway," L20 4XX
+",144,51.12640295,-2.983182915,,56-12
+145,Liverpool," U14 Aintree SP,Liverpool"," L9 5AN
+",145,53.4812299,-2.94966,2,56-39
+146,Wallasey," 20 Liscard Way,Wallasey"," CH44 5TP
+",146,53.4194078,-3.0435008,,55-38
+147,Formby," L37 7AE,"," L37 7AE
+",147,53.5685648,-3.0484275,,55-40
+148,East Lancashire Road," L11 2ST,"," L11 2ST
+",148,53.45698,-2.91671,,56-39
+149,Norris Green," 17 Broadway,Norris Green"," L11 1BX
+",149,53.4418764,-2.9303595,,56-38
+150,Maghull," L31 1FP,"," L31 1FP
+",150,53.4925,-2.90875,,56-39
+151,Liverpool," 38 Old Hall St,Liverpool"," L3 9PP
+",151,53.4107745,-2.9959491,,56-38
+152,Liverpool," 17 Castle St,Liverpool"," L2 4SX
+",152,53.3925186,-3.012317073,,56-38
+153,Liverpool," Queens Square Bus Station,Liverpool"," L1 1RG
+",153,53.40715,-2.98272,2,56-38
+154,Liverpool," 51 North John St,Liverpool"," L2 6SG
+",154,53.4057948,-2.9883826,,56-38
+155,Liverpool," 18 Richmond St,Liverpool"," L1 1EF
+",155,53.4391459,-3.041063078,,55-38
+156,Liverpool," 64 Lord St,Liverpool"," L2 1TD
+",156,53.4052306,-2.9896543,,56-38
+157,Liverpool, St Johns SC," L1 1LP
+",157,33.1207254,-80.0689747,,
+158,Liverpool, UD1 Prospect Point," L6 1BA
+",158,53.41123,-2.96524,2,56-38
+159,Liverpool," 4 Wall St,Liverpool"," L1 8BU
+",159,53.4045434,-2.9877788,,56-38
+160,Merthyr Tydfl, 16 Nwmrkt Wlk," CF47 8EL
+",160,51.74548165,-3.380236425,2,53-19
+161,Merthyr Tydfil," U6 Beacons Place SC,Merthyr Tydfil"," CF47 8DF
+",161,51.74547607,-3.377897533,2,53-19
+162,Merthyr Tydfl," 21 Chestnut Way,Merthyr Tydfl"," CF47 9SB
+",162,51.76262272,-3.380408618,2,53-19
+163,Merthyr Tydfil," Pentrebach RP,Merthyr Tydfil"," CF48 4TQ
+",163,51.7239358,-3.3566675,,53-19
+164,Merthyr Tydfil," U7 Pant IE,Merthyr Tydfil"," CF48 2SR
+",164,51.76912854,-3.362581256,2,53-20
+165,Aberdare," 22A Victoria Sq,Aberdare"," CF44 7LB
+",165,51.7130207,-3.4443601,,53-19
+166,Tredegar," U12B Gwent SC,Tredegar"," NP22 3EJ
+",166,51.774927,-3.2446173,2,54-20
+167,Ferndale," 64 High St,Ferndale"," CF43 4RR
+",167,51.1278573,0.2611855,,78-12
+168,Ebbw Vale," U21 Market St,Ebbw Vale"," NP23 6HL
+",168,51.7807032,-3.2072393,,54-20
+169,Treharris," CF46 6PE,"," CF46 6PE
+",169,51.6471531,-3.2907731,,54-18
+170,Treorchy," 110 Bute St,Treorchy"," CF42 6AU
+",170,51.6622516,-3.5107479,,52-18
+171,Blackwood, U13 St Davids IE," NP12 3SW
+",171,51.66942,-3.22001,2,54-18
+172,Tonypandy," 37 Dunraven St,Tonypandy"," CF40 1AL
+",172,51.6216879,-3.453916,,53-18
+173,Porth," 18 Cymmer Rd,Porth"," CF39 9BL
+",173,51.6127325,-3.4107876,,53-18
+174,Brynmawr, U4 Brynmawr RP," NP23 4PW
+",174,51.79613,-3.17638,2,54-20
+175,Porth," 69 Hannah St,Porth"," CF39 9PY
+",175,51.6113024,-3.4067357,,53-18
+176,Blackwood," 124 High St,Blackwood"," NP12 1AF
+",176,51.6707381,-3.195183,,54-18
+177,Pontypridd, U1 Taffs Fall Rd," CF37 5YG
+1",177,51.5721642,-3.2916012,,54-17
+178,Pontypridd," 79A Taff St,Pontypridd"," CF37 4SU
+1",178,51.6048551,-3.3393024,,53-18
+179,Arbertillery," 13 Church St,Arbertillery"," NP13 1DA
+1",179,51.7305331,-3.1349099,3,55-19
+180,Lancaster," 9 Cheapside,Lancaster"," LA1 1LY
+",180,54.048979,-2.7997145,,57-45
+181,Lancaster," LA1 2LL,"," LA1 2LL
+",181,54.05815747,-2.8013452,,57-45
+182,Morecambe," 22 Glentworth Rd Wst,Morecambe"," LA4 4SZ
+",182,54.06165022,-2.852822669,2,57-45
+183,Lancaster Uni," 8 Alexandra Sq,Bailrigg"," LA1 4XX
+",183,54.0103628,-2.7846304,,57-45
+184,Morecambe," U8 Arndale CTR,Morecambe"," LA4 5DH
+",184,54.0718194,-2.865620494,2,57-46
+185,Carnforth," 11 Market St,Carnforth"," LA5 9JX
+",185,54.1289153,-2.7691143,,57-46
+186,Bay Horse," LA2 9DU,"," LA2 9DU
+",186,53.96164,-2.76058,,57-44
+190,Burton-In-Kendal," LA6 1JF,"," LA6 1JF
+",190,54.17921494,-2.73410544,,57-47
+191,Ulverston," 15 Market St,Ulverston"," LA12 7AY
+1",191,54.1960318,-3.0952862,,55-47
+192,Fleetwood Road," PR4 3HE,1"," PR4 3HE
+1",192,53.84820465,-2.98928506,,56-43
+193,Ulverston," LA12 8ND,1"," LA12 8ND
+1",193,54.2632264,-2.962109957,3,56-48
+194,Dalton In Furness," 79 Market St,Dalton in Furness"," LA15 8DL
+1",194,54.15651915,-3.181028161,,54-47
+195,Wesham," PR4 3HD,1"," PR4 3HD
+1",195,53.84820465,-2.98928506,,56-43
+196,Preston," U6 Sharoe Green Lane,Preston"," PR2 9HD
+1",196,53.7911996,-2.7116447,,58-42
+197,Barrow In Furness," 136 Dalton Rd,Barrow In Furness"," LA14 1JH
+1",197,54.1132143,-3.2250521,,54-46
+198,Barrow In Furness," 171 Dalton Rd,Barrow In Furness"," LA14 1PX
+1",198,54.1138263,-3.225751,,54-46
+199,Blackpool," FY3 9TN,1"," FY3 9TN
+1",199,53.7765232,-3.0426873,,55-42
+200,Aberdeen," 55 Union St,Aberdeen"," AB11 5BJ
+",200,57.1470039,-2.0965814,,62-80
+201,Aberdeen," 166 George St,Aberdeen"," AB25 1BS
+",201,57.1504204,-2.1016472,,62-80
+202,Aberdeen," U10 Trinity SC,Aberdeen"," AB11 6BE
+",202,57.14534,-2.10066,2,62-80
+203,Aberdeen," 4 East Mall,Aberdeen"," AB11 5RA
+",203,57.14437025,-2.0968191,2,62-80
+204,Aberdeen," 65A Wellington Rd,Aberdeen"," AB12 3DP
+",204,57.1297514,-2.091727143,,62-80
+205,Dyce," U2 Burnside Rd,Dyce"," AB21 0HZ
+",205,57.1997132,-2.1815822,,61-81
+206,Aberdeen," U21 Westhill SC,Aberdeen"," AB32 6RL
+",206,57.1541369,-2.286746857,2,60-80
+207,Stonehaven," 31 Market Sq,Stonehaven"," AB39 2BA
+1",207,56.9637366,-2.209051,,61-78
+208,Peterhead," AB42 3GT,2"," AB42 3GT
+2",208,57.4864,-1.80452,3,64-84
+209,Peterhead," AB42 5EL,2"," AB42 5EL
+2",209,57.52388097,-2.000655867,3,62-85
+210,Irvine," U23 Rivergate SC,Irvine"," KA12 8EH
+",210,55.6120518,-4.6732594,2,44-63
+211,Irvine," New St,Irvine"," KA12 8NU
+",211,55.6118959,-4.6705011,,44-63
+212,Irvine," KA12 8AY,"," KA12 8AY
+",212,55.60841545,-4.6719298,,44-63
+213,Irvine," KA11 4HJ,"," KA11 4HJ
+",213,55.60897,-4.63854,,45-63
+214,Kilwinning," 72 Main St,Kilwinning"," KA13 6AG
+",214,55.65405685,-4.698184757,,44-63
+215,Stevenston," U3 Ashenyards RP,Stevenston"," KA20 3EG
+",215,55.64877,-4.73182,2,44-63
+216,Troon," 26 Portland St,Troon"," KA10 6EA
+",216,55.5449657,-4.6616481,,44-62
+217,Saltcoats," 29 Dockhead St,Saltcoats"," KA21 5ED
+",217,55.63304,-4.7870799,2,44-63
+218,Kilmarnock," U10 Glencairn RP,Kilmarnock"," KA1 4AY
+",218,55.59959495,-4.4988288,2,45-63
+219,Prestwick," 85 Main St,Pretwick"," KA9 1JS
+",219,55.49937,-4.61065,2,45-62
+220,Ayr," U15 Heathfield RP,Ayr"," KA8 9BF
+",220,55.47907789,-4.59456981,2,45-61
+221,Ayr," Allison St RP,Ayr"," KA8 8HD
+",221,55.4706644,-4.6270184,,45-61
+222,Ayr," 85 High St,Ayr"," KA7 1QL
+1",222,55.4618328,-4.6295792,,45-61
+223,Ayr," 239 High St,Ayr"," KA7 1RB
+1",223,55.4603714,-4.6288976,,45-61
+224,Largs," 62 Main St,Largs"," KA30 8AL
+1",224,55.793857,-4.8685473,,43-65
+225,Johnstone," 40 High St,Johnstone"," PA5 8AN
+1",225,55.8390373,-4.518558,,45-66
+226,Barrhead," 186 Main Street,Barrhead"," G78 1SL
+1",226,55.8020987,-4.3862925,,46-65
+227,Linwood," U4 Bridge St,Linwood"," PA3 3DB
+1",227,55.8493289,-4.4903577,,46-66
+228,Paisley," U13 Phoenix RP,Paisley"," PA1 2AB
+1",228,55.84432949,-4.470335618,3,46-66
+229,Paisley, U2," PA1 2QT
+1",229,51.7808347,1.5058344,,86-20
+230,Darwen," 18 Market St,Darwen"," BB3 1AZ
+",230,53.6956155,-2.4675559,,59-41
+231,Darwen," BB3 0DB,"," BB3 0DB
+",231,53.7127275,-2.4779053,,59-42
+232,Haslingden Road," BB1 2EE,"," BB1 2EE
+",232,53.73068,-2.45258,,59-42
+233,Blackburn," U29 Lord Street Mall,Blackburn"," BB1 7JG
+",233,53.7483447,-2.4829819,,59-42
+234,Blackburn, The Mall SC," BB1 7DP
+",234,34.8492433,-82.32949635,,
+235,Blackburn," UC Crabtree St,Blackburn"," BB1 3HD
+",235,53.75029,-2.46033,2,59-42
+236,Rishton," BB1 3HR,"," BB1 3HR
+",236,53.75395,-2.44542,,59-42
+237,Accrington, The Viaduct," BB5 1QF
+",237,51.8605526,-8.5277537,,18-21
+238,Haslingden," 43 Deardengate,Haslingden"," BB4 5QN
+",238,53.7054433,-2.3257934,,60-41
+239,Bolton," BL1 7LR,"," BL1 7LR
+",239,53.61062835,-2.4320409,,59-40
+240,Lancashire," BL0 0PU,"," BL0 0PU
+",240,53.6518443,-2.3160258,,60-41
+241,Chorley, U1 Calder House," PR7 1FH
+",241,53.7939979,-1.5384293,,66-42
+242,Chorley," 18 Market Wlk,Chorley"," PR7 1DE
+",242,53.6531915,-2.6294313,,58-41
+243,Samlesbury," PR5 0UX,"," PR5 0UX
+",243,53.7661304,-2.6024704,,58-42
+244,Rawtenstall," 48 Bank St,Rawtenstall"," BB4 8DY
+",244,53.7020222,-2.2857996,,60-41
+245,," BL6 5UZ,"," BL6 5UZ
+",245,53.60068115,-2.5729331,,59-40
+246,Bolton," 64 Deansgate,Bolton"," BL1 1BG
+",246,53.5790654,-2.4327208,,59-40
+247,Horwich," Middlebrook RP,Horwich"," BL6 6JA
+",247,53.5823688,-2.5355964,,59-40
+248,Bolton," 7 Newport St,Bolton"," BL1 1NE
+",248,53.57769665,-2.429221302,,59-40
+249,Bolton," Bolton Interchange,Bolton"," BL1 1NS
+",249,53.5754269,-2.42720123,,59-40
+250,Newcastle," U1B Haymarket,Newcastle Upon Tyne"," NE1 7PF
+",250,54.97734817,-1.613983869,2,65-56
+251,Newcastle," 3 St Marys Pl,Newcastle Upon Tyne"," NE1 7PG
+",251,54.97770113,-1.612483043,2,65-56
+252,Newcastle," U8 Eldon Sq,Newcastle Upon Tyne"," NE1 7JD
+",252,54.9744011,-1.6146144,,65-56
+253,Newcastle," U2 Wellbar Central,Newcastle Upon Tyne"," NE1 4TD
+",253,54.97389845,-1.61953175,2,65-56
+254,Newcastle," 44 Blackett St,Newcastle Upon Tyne"," NE1 7UG
+",254,54.9741827,-1.6144143,,65-56
+255,Newcastle," 24 Northumberland St,Newcastle Upon Tyne"," NE1 7DE
+",255,54.974843,-1.6119694,,65-56
+256,Newcastle," 39 Clayton St,Newcastle Upon Tyne"," NE1 5PN
+",256,54.9725926,-1.6158686,,65-56
+257,Newcastle," 95 Grey St,Newcastle Upon Tyne"," NE1 6EG
+",257,54.9732577,-1.6129618,,65-56
+258,Newcastle," 73 Grainger St,Newcastle Upon Tyne"," NE1 5JE
+",258,54.9713991,-1.6153285,,65-56
+259,Newcastle," 42 Neville St,Newcastle Upon Tyne"," NE1 5DF
+",259,54.9693129,-1.6176416,,65-56
+260,Newcastle, U9 Central Station," NE1 5DL
+",260,39.2939714,-80.8256612,,
+261,Newcastle," 31 Quayside,Newcastle Upon Tyne"," NE1 3DE
+",261,54.9690902,-1.6049181,,65-56
+263,Jesmond," 34 Acorn Rd,Jesmond"," NE2 2DJ
+",263,54.992372,-1.604587339,,65-56
+265,Gateshead," Interchange SC,Gateshead"," NE8 1BH
+",265,54.9401248,-1.6309669,,65-55
+266,Gateshead," G109 Trinity Sq,Gateshead"," NE8 1BF
+",266,54.96261425,-1.601926571,,65-56
+267,Byker," 24 Shields Rd,Byker"," NE6 1DR
+",267,54.9763422,-1.585547,,65-56
+269,Gateshead," U3 Saltmeadows Rd,Gateshead"," NE8 3AH
+",269,54.966925,-1.588207,,65-56
+270,Wimborne, Ferndown IE," BH21 7PQ
+",270,50.8137736,-1.9131471,2,63-9
+271,Hampshire," BH24 2NR,"," BH24 2NR
+",271,50.8291275,-1.83828615,,63-9
+272,Winton," 379 Wimborne Rd,Winton"," BH9 2AQ
+",272,50.7419157,-1.878817491,,63-8
+273,347 Ringwood Road," BH12 3JN,"," BH12 3JN
+",273,50.7425157,-1.9468158,,63-8
+274,Wimborne," BH21 3HA,"," BH21 3HA
+",274,50.7893348,-2.0136105,,62-8
+275,Poole," Nuffield IE,Poole"," BH17 0RA
+",275,50.74139,-1.97785,2,63-8
+276,Bournemouth," 60 Old Christchurch Rd,Bournemouth"," BH1 1LL
+",276,50.721137,-1.876328759,,63-8
+277,Bournemouth," 35 Commercial Rd,Bournemouth"," BH2 5RH
+",277,50.72046245,-1.882952955,,63-8
+278,Boscombe," 619 Christchurch Rd,Boscombe"," BH1 4AP
+",278,50.7259187,-1.8419392,,63-8
+279,Poole," U14 Dolphin SC,Poole"," BH15 1SU
+",279,50.7181533,-1.9815447,2,63-8
+280,Christchurch," U1 Saxon Sq SC,Christchurch"," BH23 1QA
+",280,50.73542914,-1.777682875,2,64-8
+281,New Milton, 9 Old Grn Pde," BH25 6QA
+1",281,51.7714752,-0.233342,,74-20
+282,Swanage," 14 Station Rd,Swanage"," BH19 1AE
+1",282,50.6095986,-1.957945675,,63-6
+283,Wiltshire," SP5 3HZ,1"," SP5 3HZ
+1",283,50.9979931,-1.7595084,3,64-11
+284,Lymington," 37 High St,Lymington"," SO41 9AF
+1",284,50.75828245,-1.541291018,,65-8
+285,Salisbury," 2 Old George Mall,Salisbury"," SP1 2AG
+1",285,51.06769735,-1.797122848,,64-12
+286,Shaftesbury," SP7 8DS,1"," SP7 8DS
+1",286,51.0106816,-2.192353175,3,61-11
+287,Southampton, Totton," SO40 3BX
+1",287,50.92466935,-1.501620353,,66-10
+288,Longhedge," SP4 6SA,2"," SP4 6SA
+2",288,51.10518,-1.79296,3,64-12
+289,Gillingham," SP8 5FB,2"," SP8 5FB
+2",289,51.02906,-2.25533,3,61-11
+290,Nottingham," 178 Broxtowe Lane,Broxtowe"," NG8 5NG
+",290,52.9792965,-1.2083083,,68-33
+291,Nottingham," 331 Nuthall Rd,Aspley"," NG8 5BU
+",291,52.9746323,-1.1877187,,68-33
+292,Kimberley," 41 Greens Lane,Kimberley"," NG16 2PB
+",292,52.9968815,-1.256017815,,67-33
+293,Nottingham," U1 Beechdale RP,Nottingham"," NG8 3LL
+",293,52.9602058,-1.1918906,2,68-33
+294,Nottingham," 65 Bracebridge Dr,Bilborough"," NG8 4PH
+",294,52.9647814,-1.2275446,,68-33
+295,Arnold," 51 Front St,Arnold"," NG5 7EA
+",295,53.00256635,-1.128485765,,68-33
+296,Hucknall," 54 High St,Hucknall"," NG15 7AX
+",296,53.03833995,-1.203016973,,68-34
+297,Nottingham," U7 Midland Way RP,Nottingham"," NG7 3NY
+",297,52.95595003,-1.183347033,2,68-33
+298,Nottingham," U32 Victoria CTR,Nottingham"," NG1 3QE
+",298,52.95737517,-1.147389145,2,68-33
+299,Nottingham," 25 Upper Parliament St,Nottingham"," NG1 2AP
+",299,52.9549943,-1.1489985,,68-33
+300,Nottingham," 3 Beast Market,Nottingham"," NG1 6FB
+",300,52.95315264,-1.151381314,2,68-33
+301,Nottingham," 4 Clumber St,Nottingham"," NG1 3GA
+",301,52.95384,-1.147352105,,68-33
+302,Nottingham," 6 Listergate,Nottingham"," NG1 7DD
+",302,52.95105339,-1.148893607,2,68-33
+303,Trowell," NG9 3PL,"," NG9 3PL
+",303,52.96173414,-1.267954564,,67-33
+306,Nottingham," 93 Carrington St,Nottingham"," NG1 7FE
+",306,52.9482683,-1.147549,,68-33
+307,Nottingham," U13 Lady Bay RP,Nottingham"," NG2 3GZ
+",307,52.94585533,-1.132466309,2,68-33
+308,Eastwood," 67 Nottingham Rd,Eastwood"," NG16 3AL
+",308,53.0179062,-1.304474206,,67-34
+309,Beeston," 27 High Rd,Beeston"," NG9 2JQ
+",309,52.92743255,-1.215066005,,68-33
+310,Falkirk," 4 Lintriggs,Falkirk"," FK1 1DG
+",310,56.00025,-3.78691,2,50-67
+311,Falkirk," 163 High St,Falkirk"," FK1 1DU
+",311,55.9991402,-3.7842455,,50-67
+312,Falkirk," U1 Carron Rd,Falkirk"," FK2 7RS
+",312,56.0189938,-3.7928401,,50-68
+313,Camelon," 332 Main St,Camelon"," FK1 4EG
+",313,56.0028126,-3.8106097,,50-67
+314,Stenhousemuir," 35 King St,Stenhousemuir"," FK5 4HD
+",314,56.0336183,-3.7984032,,50-68
+315,Grangemouth," 21 La Porte PCT,Grangemouth"," FK3 8AZ
+",315,56.0176979,-3.7238343,,51-68
+316,Bonnybridge," U3 Bridge St,Bonnybridge"," FK4 1AA
+",316,55.9997363,-3.8877336,,50-67
+317,Denny," U7 Stirling St,Denny"," FK6 6DF
+",317,56.0246843,-3.910205,,49-68
+318,Linlithgow," U22 Regent Sq,Linlithgow"," EH49 7HU
+",318,55.9776833,-3.5942965,,52-67
+319,Alloa," 8 High St,Alloa"," FK10 1JE
+",319,56.1153275,-3.7916012,,50-69
+320,Cumbernauld," U32 Antonine CTR,Cumbernauld"," G67 1PZ
+",320,55.95486,-3.98049,2,49-67
+321,Cumbernauld," U4B South Muirhead Crt,Cumbernauld"," G67 1AW
+",321,55.9500363,-3.9852279,2,49-67
+322,Bathgate," 2 George Pl,Bathgate"," EH48 1PW
+",322,55.9007497,-3.6416538,,51-66
+323,Stirling," U2 Springkerse TP,Stirling"," FK7 7GN
+",323,56.11166,-3.9180522,2,49-69
+324,Bathgate," EH47 0HT,"," EH47 0HT
+",324,fail,fail,,
+325,Stirling," U48 The Thistles SC,Stirling"," FK8 2EW
+",325,56.11661,-3.93662,2,49-69
+326,Whitburn," 19 West Main St,Whitburn"," EH47 0QB
+1",326,55.8666496,-3.685214,,51-66
+327,Cumbernauld," 16 St Maurices Gate,Cumbernauld"," G68 9FW
+1",327,55.9441261,-4.0341441,3,49-67
+328,Glasgow," G65 9AE,1"," G65 9AE
+1",328,55.946686,-3.9908727,,49-67
+329,Stirling," FK9 4UA,1"," FK9 4UA
+1",329,56.1316121,-3.96000405,3,49-69
+334,Worcester Park," 125 Central Rd,Worcester Park"," KT4 8DY
+",334,51.3788127,-0.242506092,,74-15
+335,Morden," 54 London Rd,Morden"," SM4 5BE
+",335,51.3952915,-0.2015972,,75-15
+336,Mitcham," 11 Fairgreen Pde,Mitcham"," CR4 3NA
+",336,51.40552575,-0.16467485,2,75-15
+338,Raynes Park," 36 Coombe Ln,Raynes Park"," SW20 0LA
+",338,51.40962005,-0.230436201,,74-15
+339,New Malden," 148 High St,New Malden"," KT3 4EP
+",339,51.3996098,-0.25535675,,74-15
+341,Thornton Heath," 758 London Rd,Thornton Hth"," CR7 6JA
+",341,51.3940664,-0.1141913,2,75-15
+342,Wimbledon," 17 Wimbledon Bridge,Wimbledon"," SW19 7NH
+",342,51.4210271,-0.2065451,,75-16
+343,Wimbledon," U2BH Wimbledon Railway Stn,Wimbledon"," SW19 7NL
+",343,51.4216403,-0.20635,2,75-16
+344,Croydon," 51 North End Rd,Croydon"," CR0 1TG
+",344,51.37526741,-0.101414538,2,75-15
+345,Raynes Park," SW20 0AB,"," SW20 0AB
+",345,51.4160504,-0.2512907,,74-16
+346,Tooting," 41 Mitcham Rd,Tooting"," SW17 9PB
+",346,51.4273238,-0.1667129,,75-16
+347,Thornton Heath," CR7 8RX,"," CR7 8RX
+",347,51.39859954,-0.100417833,,75-15
+348,Chessington," 332 Hook Rd,Chessington"," KT9 1NU
+",348,51.3707664,-0.3058634,,74-15
+349,Streatham," SW16 6HP,"," SW16 6HP
+",349,51.4254741,-0.1316922,,75-16
+350,Lisburn, U10 Wallace Building," BT28 1AN
+",350,54.5120724,-6.0491327,2,35-51
+351,Co.Down," BT27 5SG,"," BT27 5SG
+",351,fail,fail,,
+353,Belfast, U48 Kennedy Centre," BT11 9AE
+",353,47.90848115,1.954352522,,
+354,Belfast, U9B Boucher SP," BT12 6HU
+",354,fail,fail,,
+355,Belfast," 52 Botanic Ave,Belfast"," BT7 1JR
+",355,54.5894007,-5.9336223,,36-51
+356,Belfast," U5 Twin Spires Complex,Belfast"," BT13 2JF
+",356,54.60137033,-5.9473713,2,36-52
+357,Belfast," 8 Donegall Square West,Belfast"," BT1 6JH
+",357,54.5967201,-5.931575,,36-52
+358,Belfast," 41 Royal Ave,Belfast"," BT1 1FD
+",358,54.6028592,-5.9308504,,36-52
+359,Belfast," 4 Castle Lane,Belfast"," BT1 5DA
+",359,54.5985893,-5.9292777,,36-52
+360,Belfast, U3 Dargan Rd," BT3 9JZ
+1",360,39.3769117,-77.7332583,,
+361,Browns Road," BT36 4RN,1"," BT36 4RN
+1",361,fail,fail,,
+362,Portadown," U18 High St Mall,Portadown"," BT62 1HZ
+1",362,54.4228563,-6.44304835,3,32-50
+363,Bangor," 70 Main St,Bangor"," BT20 5AE
+1",363,44.8002777,-68.7717181,,
+364,Larne," BT40 2PH,2"," BT40 2PH
+2",364,fail,fail,,
+372,Lancaster," LA1 2LL,1"," LA1 2LL
+1",372,54.07429,-2.7155453,,58-46
+376,Burton-In-Kendal," LA6 1JF,2"," LA6 1JF
+2",376,54.0745917,-2.7034748,,58-46
+377,," LA2 9DU,2"," LA2 9DU
+2",377,54.0781914,-2.761167,,57-46
+378,Blackpool," 72 Church St,Blackpool"," FY1 1HP
+2",378,53.8183494,-3.0445094,,55-43
+382,Blackpool," Houndshill SC,Blackpool"," FY1 4HU
+2",382,53.81587565,-3.053101518,3,55-43
+383,Blackpool," Oxford Sq,Blackpool"," FY4 4DP
+2",383,53.8039533,-3.0269439,,55-43
+384,Windermere," 19 Crescent Rd,Windermere"," LA23 1EA
+2",384,54.378447,-2.9055117,,56-49
+385,Jarrow," 17 Bede PCT,Jarrow"," NE32 3LW
+",385,54.9807737,-1.4891569,2,66-56
+386,Jarrow," U2 Bede IE,Jarrow"," NE32 3HE
+",386,54.9766659,-1.4685071,2,66-56
+387,Outlet: Howdon," 18 Tynemouth Rd,Howdon"," NE28 0LF
+",387,54.9965707,-1.5022301,,66-56
+388,Jarrow," NE32 5JX,"," NE32 5JX
+",388,fail,fail,,
+389,Hebburn," U21 St James Mall SC,Hebburn"," NE31 1LF
+",389,54.97311,-1.51911,2,66-56
+390,Outlet: South Shields," 4 Frederick St,South Shields"," NE33 5EA
+",390,54.9893451,-1.4374931,,66-56
+391,Wallsend, 28 Segedunum Way," NE28 8JP
+",391,54.99144487,-1.535852333,2,66-56
+392,Battle Hill," U6 Battle Hill SC,Battle Hill"," NE28 9PA
+",392,55.00543564,-1.51859814,2,66-56
+393,South Shields," 15 King St,South Shields"," NE33 1DA
+",393,54.9984765,-1.4330461,,66-56
+394,Boldon Colliery," NE35 9AR,"," NE35 9AR
+",394,54.9475806,-1.46297265,,66-55
+395,South Shields, Interchange," NE33 1NE
+",395,47.4335102,19.2610295,,
+396,North Shields," 40 Bedford St,North Shields"," NE29 6QA
+",396,55.0086675,-1.446717,,66-56
+397,Walker," 15 Churchwalk SC,Walker"," NE6 3DW
+",397,54.97427,-1.54544,2,65-56
+398,Gateshead," NE10 8YB,"," NE10 8YB
+",398,54.94739477,-1.515207233,,66-55
+399,Newcastle," U3 Cobalt BP,Newcastle Upon Tyne"," NE27 0QJ
+",399,55.02081511,-1.507813693,2,66-56
+400,South Shields," 285 Prince Edward Rd,South Shields"," NE34 7LZ
+",400,54.9732299,-1.3995475,,66-56
+401,Outlet: Walker," 265 Welbeck Rd,Walker"," NE6 2QX
+",401,54.9740908,-1.562117,,65-56
+402,Pelaw," 1 Brookfield Tce,Pelaw"," NE10 0QU
+",402,54.9538,-1.54405,2,65-56
+403,Leam Lane," U2 Fewster Sq,Leam Lane"," NE10 8XQ
+",403,54.94067458,-1.545336115,2,65-55
+404,Byker," 209 Shields Rd,Byker"," NE6 1DQ
+",404,54.97775035,-1.57772555,,65-56
+405,Houghton Le Spring," 36 Newbottle St,Houghton le Spring"," DH4 4AB
+",405,54.8443644,-1.4717952,,66-54
+406,Hetton Le Hole," 15 Front St,Hetton le Hole"," DH5 9PF
+",406,54.82097105,-1.452599773,,66-54
+407,Sunderland," Doxford BP,Sunderland"," SR3 3XL
+",407,54.8639947,-1.4346657,2,66-55
+408,Pennywell," 4 Pennywell SC,Pennywell"," SR4 9AS
+",408,54.8969242,-1.4397946,2,66-55
+409,Grindon, U4 Broadway House," SR4 8NW
+",409,51.3170065,-0.6189444,,72-14
+410,Chester Le Street," 54 Front St,Chester Le Street"," DH3 3BD
+",410,54.85709,-1.5737987,,65-54
+411,Washington," U3B Peel RP,Washington"," NE37 2PA
+",411,54.90696435,-1.502980463,2,66-55
+412,Washington," U69 The Galleries SC,Washington"," NE38 7RR
+",412,54.9000525,-1.5326597,2,66-55
+413,Birtley," DH3 2SJ,"," DH3 2SJ
+",413,54.88954704,-1.55914748,,65-55
+414,Sunderland," 220 Chester Rd,Sunderland"," SR4 7HR
+",414,54.8899167,-1.4599433,,66-55
+416,Durham," UO Arnison RC,Durham"," DH1 5GB
+",416,54.80730494,-1.582069739,2,65-54
+417,Sunderland," 31 St Lukes Tce,Sunderland"," SR4 6NQ
+",417,54.90854,-1.41418,2,66-55
+418,Outlet: Hendon," 62 Villette Rd,Hendon"," SR2 8RW
+",418,54.894406,-1.3741083,,67-55
+419,Durham," U3 Dragonville RP,Durham"," DH1 2WP
+",419,54.77630747,-1.5408338,2,65-54
+420,Washington," U1 Arndale House SC,Concord"," NE37 2SW
+",420,54.91304703,-1.522400567,2,66-55
+421,Sunderland," Park Lane Interchange,Sunderland"," SR1 3NX
+",421,54.9028835,-1.3842578,,67-55
+422,Seaham," Byron Pl SC,Seaham"," SR7 7DR
+",422,54.836056,-1.330723982,,67-54
+423,Sunderland," Hylton Riverside RP,Sunderland"," SR5 3XG
+",423,54.9182249,-1.431524205,,66-55
+424,Sunderland, Cafe Mall," SR1 3LB
+",424,53.4305569,58.9730052,,
+428,Blackpool," FY3 9TN,"," FY3 9TN
+",428,53.80296957,-3.006873183,,56-43
+429,Blackpool," UB Squires Gate RP,Blackpool"," FY4 2AY
+",429,53.77964412,-3.03486948,2,55-42
+430,Fleetwood Road," PR4 3HE,"," PR4 3HE
+",430,53.81154137,-2.893267233,,56-43
+431,Wesham," PR4 3HD,"," PR4 3HD
+",431,53.79836,-2.88761,,56-42
+432,Preston, U4 Tulkth Mill RP," PR2 2DZ
+1",432,53.7718858,-2.723872175,3,57-42
+434,Preston," 91 Fishergate,Preston"," PR1 2NJ
+1",434,53.7577632,-2.7040202,,58-42
+435,Preston, St George SC," PR1 2EN
+1",435,33.1859958,-80.5756534,,
+437,Preston," UFC2B Deepdale SP,Preston"," PR1 6QY
+1",437,53.77370756,-2.677872361,3,58-42
+438,," LA2 9DU,1"," LA2 9DU
+1",438,54.0765125,-2.7583369,,57-46
+442,Preston," PR1 4TE,1"," PR1 4TE
+1",442,53.6530394,-2.627050411,,58-41
+443,Fulwood," U5 Eastway RP,Fulwood"," PR2 9BQ
+1",443,53.79763,-2.69494,3,58-42
+453,Felixstowe," 35 Hamilton Rd,Felixstowe"," IP11 7BB
+1",453,51.9618568,1.3511252,,85-22
+455,Ipswich, U6 Hines Rd," IP3 9BG
+1",455,40.879306,-72.9738712,,
+458,Colchester," CO5 9EL,1"," CO5 9EL
+1",458,51.9253888,0.758267219,,81-21
+459,Ipswich," 41 Woodbridge Rd East,Ipswich"," IP4 5QN
+1",459,52.0614928,1.1982607,,84-23
+462,Martlesham Heath," U1A Betts Ave,Martlesham Heath"," IP5 3RH
+1",462,52.0615114,1.2785385,,85-23
+463,Ipswich, Quantum BP," IP1 5NX
+2",463,52.08186487,1.1164805,3,83-23
+464,Witham," CM8 3HB,2"," CM8 3HB
+2",464,51.80593145,0.639589438,,80-20
+465,Canterbury," 126 Sturry Rd,Canterbury"," CT1 1HJ
+",465,51.28863215,1.09674915,,83-14
+466,Canterbury," 22 St Georges St,Canterbury"," CT1 2SS
+",466,51.2770699,1.083639,,83-14
+467,Faversham," ME13 9EL,"," ME13 9EL
+",467,51.3258701,0.987310617,,83-15
+468,Kent," ME13 9LN,"," ME13 9LN
+",468,51.2894232,0.994856,,83-14
+469,Sandwich," CT13 9FA,1"," CT13 9FA
+1",469,51.3812751,1.3383104,,85-15
+470,Margate," 106 High St,Margate"," CT9 1JW
+1",470,51.3867728,1.3810504,,85-15
+471,Broadstairs," U27 Westwood Cross,Broadstairs"," CT10 2BF
+1",471,51.3587079,1.391783574,,85-15
+472,Kent," CT14 9TF,1"," CT14 9TF
+1",472,51.2345667,1.3759482,,85-14
+473,Minster On Sea," ME12 3EN,1"," ME12 3EN
+1",473,51.3535692,0.66588984,,80-15
+474,Sheerness," 52 High St,Sheerness"," ME12 1NL
+1",474,51.4405084,0.7613799,,81-16
+475,Sittingbourne," 95 High St,Sittingbourne"," ME10 4AJ
+1",475,51.3400243,0.735071294,,81-15
+476,Sittingbourne," ME10 1QB,1"," ME10 1QB
+1",476,51.3535692,0.66588984,,80-15
+477,Dover," 71 Biggin St,Dover"," CT16 1BB
+1",477,51.1269448,1.3110052,,85-12
+478,Dover," U23 St James St,Dover"," CT16 1QD
+1",478,51.1261211,1.3176301,,85-12
+479,Dover," CT17 9EF,1"," CT17 9EF
+1",479,51.1022926,1.2621096,,84-12
+480,Ashford, Ashford RP," TN24 0SG
+1",480,33.6631588,-117.7831514,,
+481,Southend," 67 High St,Southend-on-Sea"," SS1 1HZ
+2",481,51.5408159,0.6476144,,80-17
+482,Southend," 100 High St,Southend-on-Sea"," SS1 1JN
+2",482,51.5408159,0.6476144,,80-17
+485,Yeovil," 11 Middle St,Yeovil"," BA20 1LE
+",485,50.9418745,-2.6257433,,58-10
+486,Yeovil, U3 Lynx Trade Park," BA20 2TJ
+",486,50.9341251,-2.6595018,2,58-10
+487,Yeovil," BA22 8JG,"," BA22 8JG
+",487,51.0231,-2.65991,,58-11
+488,Somerset," TA13 5JG,"," TA13 5JG
+",488,50.94079,-2.80568,,57-10
+489,Ilminster," TA19 9PT,1"," TA19 9PT
+1",489,51.0135406,-2.8675085,,57-11
+490,Street," 98B High St,Street"," BA16 0EN
+1",490,51.1235518,-2.7451552,,57-12
+491,Glastonbury, Somerset," BA6 9XE
+1",491,51.16175085,-3.075386706,,55-13
+492,Shepton Mallet," U2 Townsend Rd,Shepton Mallet"," BA4 5SB
+1",492,51.18864853,-2.5493365,3,59-13
+493,Gillingham," SP8 5FB,1"," SP8 5FB
+1",493,51.02906,-2.25533,3,61-11
+494,Dorchester," 55 South St,Dorchester"," DT1 1DQ
+1",494,50.7146248,-2.437053105,,59-8
+495,Wells," 39 High St,Wells"," BA5 2AE
+1",495,51.2086308,-2.6471961,,58-13
+496,Bridgwater," TA6 6TS,1"," TA6 6TS
+1",496,51.13601365,-2.98842377,,56-12
+499,Bridgwater, Carvers Mill BP," TA6 4BH
+2",499,51.13938539,-2.995845392,3,56-12
+500,Taunton," U26 Orchard SC,Taunton"," TA1 3TP
+2",500,51.01392434,-3.102366945,3,55-11
+501,Frome," BA11 4NZ,2"," BA11 4NZ
+2",501,51.2010009,-2.3768405,3,60-13
+502,Taunton," 8 North St,Taunton"," TA1 1LH
+2",502,51.01589015,-3.103528419,,55-11
+503,Dunball," TA6 4BQ,2"," TA6 4BQ
+2",503,51.1362456,-2.9886375,,56-12
+504,Wembdon," TA5 2AX,2"," TA5 2AX
+2",504,51.1362456,-2.9886375,,56-12
+505,Twickenham," 8 King St,Twickenham"," TW1 3SN
+",505,51.44658465,-0.328563968,,74-16
+506,Whitton," 83 High St,Whitton"," TW2 7LD
+",506,52.3598858,-2.8765769,,56-26
+507,Ham," 430 Richmond Rd,Ham"," KT2 5PU
+",507,51.43104245,-0.306797333,,74-16
+509,Richmond," 35 The Quadrant,Richmond"," TW9 1DN
+",509,51.4622524,-0.30265117,,74-16
+511,Hanworth," 8 Market Pde,Feltham"," TW13 6AL
+",511,51.44024,-0.38695,2,73-16
+512,Kingston," 14 Castle St,Kingston"," KT1 1SS
+",512,51.4108402,-0.3018597,,74-15
+517,Surbiton," 77 Victoria Rd,Surbiton"," KT6 4NS
+",517,51.3924992,-0.3056016,,74-15
+519,Sunbury On Thames," 17 Staines Rd Wst,Sunbury on Thames"," TW16 7AB
+",519,51.4196758,-0.4200246,2,73-16
+521,Roehampton," 37 Danebury Ave,Roehampton"," SW15 4DQ
+",521,51.44943525,-0.2417898,,74-16
+524,Chiswick," 364 Chiswick High Rd,Chiswick"," W4 5TA
+",524,51.4928891,-0.2503183,,74-16
+541,Upminster," 72 Station Rd,Upminster"," RM14 2TD
+",541,51.55885485,0.250563559,,78-17
+542,Harold Hill, Romford," RM3 8DX
+",542,51.5760462,0.1822646,,77-17
+543,Hornchurch," 148 High St,Hornchurch"," RM12 6QX
+",543,51.5623085,0.2202025,,77-17
+544,South Ockendon," 9 Derwent Pde,South Ockendon"," RM15 5EF
+1",544,51.5101428,0.2827613,,78-17
+545,Lincoln," U4 Brant Rd SC,Lincoln"," LN5 9TR
+",545,53.1913396,-0.5568717,2,72-36
+546,Lincoln," 188 High St,Lincoln"," LN5 7AL
+",546,53.22716005,-0.541596441,,72-36
+547,Lincoln, U3 St Peter At Arches," LN2 1AJ
+",547,53.2297332,-0.539893025,2,72-36
+548,Lincoln," LN1 3AP,"," LN1 3AP
+",548,53.23639538,-0.538474274,,72-36
+549,Lincoln," LN6 9AJ,"," LN6 9AJ
+",549,53.17751,-0.62641,,72-35
+550,Sleaford," 42 Southgate,Sleaford"," NG34 7RR
+1",550,52.9975448,-0.4096514,3,73-33
+551,Newark," NG24 2NY,1"," NG24 2NY
+1",551,53.0799231,-0.8135779,,70-34
+552,Newark," NG23 6JG,1"," NG23 6JG
+1",552,53.0799231,-0.8135779,,70-34
+553,Newark-on-Trent," NG23 6HT,1"," NG23 6HT
+1",553,53.0799231,-0.8135779,,70-34
+554,Newark," 46/46A Market Pl,Newark"," NG24 1EG
+1",554,53.0759797,-0.8091883,,70-34
+555,Newark," NG24 4EQ,1"," NG24 4EQ
+1",555,53.0799231,-0.8135779,,70-34
+556,Grantham," U3 Isaac Newton CTR,Grantham"," NG31 6EE
+1",556,52.91041,-0.6418302,3,72-32
+557,Gainsborough," U21 Marshalls Yard,Gainsborough"," DN21 2NA
+2",557,53.3987575,-0.771530559,,71-38
+558,Boston, Lincolnshire," PE20 3AN
+2",558,53.1823034,-0.203120854,,75-36
+559,Boston," 14 Pescod Sq SC,Boston"," PE21 6QX
+2",559,52.97902607,-0.021643633,3,76-33
+560,Louth," 16 Market Pl,Louth"," LN11 9PB
+2",560,53.3660959,-0.004240529,,76-38
+561,Retford," 18A Carolgate,Retford"," DN22 6BU
+2",561,53.3188434,-0.9401362,,70-37
+562,Boston," Pilgrim Wy,Boston"," PE21 7NE
+2",562,52.9558235,-0.0329631,,76-33
+563,Bollingbroke Road," LN11 0WA,2"," LN11 0WA
+2",563,53.38279127,-0.0116579,3,76-38
+564,Retford," U4 North Rd,Retford"," DN22 7XQ
+2",564,53.3311839,-0.9632165,,69-37
+565,Kingsbury," 461 Kingsbury Rd,Kingsbury"," NW9 9DY
+",565,52.5392605,-1.7233368,,64-28
+566,Harrow," 51 St Anns Rd,Harrow"," HA1 1JU
+",566,51.5814217,-0.3338207,2,74-17
+567,Wembley," 504 High Rd,Wembley"," HA9 7BH
+",567,51.5530993,-0.29570713,,74-17
+568,Edgware," 190 Station Rd,Edgware"," HA8 7AR
+",568,51.6119883,-0.2776264,,74-18
+569,Mill Hill," 44 The Broadway,Mill Hill"," NW7 3LH
+",569,51.6146942,-0.2468015,,74-18
+570,London," NW4 4BT,"," NW4 4BT
+",570,51.589625,-0.2298929,,74-18
+571,Watford," WD6 3BL,"," WD6 3BL
+",571,51.63767,-0.30407,,74-18
+573,London, Park Royal," NW10 7GF
+",573,51.5264341,-0.2839348,,74-17
+576,South Oxhey," 6 Station Approach,South Oxhey"," WD19 7DT
+",576,51.6285837,-0.386440972,,73-18
+577,Ealing," 10 The Broadway,Ealing"," W5 2NH
+",577,51.5138141,-0.3027925,,74-17
+578,Finchley," 25 Ballards Lane,Finchley"," N3 1XP
+",578,51.6148205,-0.1767273,,75-18
+579,Borehamwood," 149 Shenley Rd,Borehamwood"," WD6 1AH
+",579,51.6620813,-0.2675282,,74-18
+581,Kilburn," 79 High Rd,Kilburn"," NW6 6JE
+",581,51.53779605,-0.19354585,,75-17
+582,North Finchley," 720 High Rd,North Finchley"," N12 9QD
+",582,51.5998553,-0.1731683,,75-18
+583,Middlesex," HA6 2HU,"," HA6 2HU
+",583,51.63169,-0.41592,,73-18
+584,Notting Hill," 238 Portobello Rd,London"," W11 1LJ
+",584,51.5174686,-0.2061132,,75-17
+585,Rotherham," U15 College Wlk,Rotherham"," S60 1QB
+",585,53.4330081,-1.3563578,,67-38
+586,Rotherham," 2 Effingham St,Rotherham"," S65 1AJ
+",586,53.43142865,-1.355492972,,67-38
+587,Rotherham," U33 Parkgate SP,Rotherham"," S60 1TG
+",587,53.44396036,-1.345207065,2,67-38
+588,Sheffield, Meadowhall SC," S9 1EH
+",588,53.4180756,-1.4117254,,66-38
+590,Sheffield," S62 7BY,"," S62 7BY
+",590,53.46673,-1.33963,,67-39
+591,Sheffield," Meadowhall RP Drive Thru,Sheffield"," S9 2YZ
+",591,53.40514998,-1.413037331,2,66-38
+592,Wickersley," 236 Bawtry Rd,Wickersley"," S66 1AA
+",592,53.4209874,-1.283669535,,67-38
+593,Sheffield," 31 Bellhouse Rd,Firth Park"," S5 6HJ
+",593,53.4187162,-1.447328,,66-38
+594,Outlet: Sheffield," 829 Barnsley Rd,Sheffield"," S5 0QF
+",594,53.4007517,-1.4648976,,66-38
+595,Sheffield," U3 Parkway Central RP,Sheffield"," S2 5AU
+",595,53.38398,-1.44309,2,66-38
+596,Rotherham," S66 9LA,"," S66 9LA
+",596,53.39628134,-1.256785833,,67-38
+597,Mexborough," 26 High St,Mexborough"," S64 9AS
+",597,53.4935032,-1.2903573,,67-39
+598,Rotherham, U2 Onyx RP," S63 7FN
+",598,53.51034,-1.35646,2,67-39
+599,Sheffield," 21 Market Pl,Sheffield"," S1 2GH
+",599,53.461737,-1.465995,,66-39
+600,Sheffield," S2 1GE,"," S2 1GE
+",600,53.3669614,-1.4395239,,66-38
+601,Sheffield," 6 Fargate,Sheffield"," S1 2HE
+",601,53.3822779,-1.46881307,,66-38
+602,Sheffield," 95 Pinstone St,Sheffield"," S1 2HJ
+",602,53.3790888,-1.470419565,,66-38
+603,Sheffield," 61 The Moor,Sheffield"," S1 4PF
+",603,53.3764529,-1.472942106,,66-38
+604,Sheffield," Drake House Cre,Sheffield"," S20 7JJ
+",604,53.34461,-1.35688,2,67-37
+605,Bletchley," 108 Queensway,Bletchley"," MK2 2RU
+",605,51.9944452,-0.7310119,,71-22
+606,Houghton Regis," 3 Bedford Sq,Houghton Regis"," LU5 5ES
+",606,51.90493185,-0.519711334,,72-21
+607,Bletchley," U1C Beacon RP,Bletchley"," MK1 1BN
+",607,52.00277218,-0.724740238,2,71-22
+608,Milton Keynes," MK1 1QB,"," MK1 1QB
+",608,52.00650463,-0.731359125,,71-22
+609,Toddington," LU5 6HR,"," LU5 6HR
+",609,51.94750112,-0.501955117,,73-22
+613,Milton Keynes, U12 The Mall," MK10 0BA
+",613,-38.158735,145.1234938,,
+614,Luton," 13 Sundon Pk Pde,Luton"," LU3 3BH
+",614,51.91618623,-0.4698585,2,73-21
+615,Luton, 8 Nursery Pde," LU3 2QP
+",615,51.5516081,-0.3192711,,74-17
+616,Aylesbury," HP20 1JJ,"," HP20 1JJ
+",616,51.81589,-0.79118,,71-20
+617,Milton Keynes," MK9 3DA,"," MK9 3DA
+",617,52.04020665,-0.74763635,,71-23
+618,Milton Keynes," U1 Phoenix Hse,Milton Keynes"," MK9 1BE
+",618,52.0353571,-0.7744852,2,71-23
+619,Aylesbury, U12b Aylsbry RP," HP20 1DG
+",619,51.82014911,-0.809822475,2,70-20
+620,Milton Keynes," 104 Silbury Arcade,Milton Keynes"," MK9 3BE
+",620,52.0440085,-0.7552967,,71-23
+621,Aylesbury, Mkt Hse," HP20 1TN
+",621,41.825802,-71.40833249,,
+622,Aylesbury," 1 Gatehouse Way,Aylesbury"," HP19 8DB
+",622,51.8207962,-0.8270821,,70-20
+623,Luton," U160 The Mall SC,Luton"," LU1 2TJ
+1",623,51.87924683,-0.413954486,3,73-21
+624,Luton," U51 The Mall,Luton"," LU1 2JX
+1",624,51.8797916,-0.4120629,3,73-21
+625,Batley," 73 Commercial St,Batley"," WF17 5EF
+",625,53.7139958,-1.6323739,,65-42
+626,Dewsbury," 3 Foundry St,Dewsbury"," WF13 1QH
+",626,53.6921884,-1.6282787,,65-41
+627,Heckmondwike," 65 Market St,Heckmondwike"," WF16 0EZ
+",627,53.7060062,-1.6741321,,65-41
+628,Dewsbury," The Princess Of Wales PCT,Dewsbury"," WF13 1NH
+",628,53.6907743,-1.6279263,,65-41
+629,Leeds," LS27 7HH,"," LS27 7HH
+",629,53.74905,-1.63116,,65-42
+630,Dewsbury," U8 Ravensthorpe SC,Ravensthorpe"," WF13 3JR
+",630,53.67912,-1.66204,2,65-41
+631,Liversedge," U3b Fountain Crt,Liversedge"," WF15 7QQ
+",631,53.69827,-1.69762,2,64-41
+632,Cleckheaton," 16 Northgate,Cleckheaton"," BD19 5AE
+",632,53.7244426,-1.713601687,,64-42
+633,A58," BD19 5AW,"," BD19 5AW
+",633,53.7231194,-1.7136038,,64-42
+634,Leeds," U57B White Rose SC,Leeds"," LS11 8LL
+",634,53.75851875,-1.574239812,2,65-42
+635,Leeds," U28 White Rose SC,Leeds"," LS11 8LL
+",635,53.75851875,-1.574239812,2,65-42
+636,Leeds," 3 Middleton Pk Ave,Leeds"," LS10 4HP
+",636,53.7475349,-1.5475156,,65-42
+637,Leeds," 126 Gelderd Rd,Leeds"," LS12 6DQ
+",637,53.77931545,-1.582341041,,65-42
+638,Huddersfield," Leeds Rd,Huddersfield"," HD2 1UU
+",638,53.6517745,-1.7774827,,64-41
+639,Bradford," U4 Euroway Te,Bradford"," BD4 6SG
+",639,53.75937,-1.73932,2,64-42
+640,Wakefield," U7 Snowhill,Wakefield"," WF1 2UJ
+",640,53.6964293,-1.506023,,66-41
+641,Wortley," U5 Oldfield Lane,Wortley"," LS12 4BR
+",641,53.7889367,-1.583875,,65-42
+642,Leeds," U1 Butt Lane,Leeds"," LS13 4JF
+",642,53.7952665,-1.6211577,,65-42
+643,Pudsey," 14 Church Ln,Pudsey"," LS28 7TY
+",643,53.7958627,-1.6638384,,65-42
+644,Wakefield," U2 Westgate Station,Wakefield"," WF1 2QN
+",644,53.68295462,-1.505772367,2,66-41
+645,Trowbridge," 38 The Shires SC,Trowbridge"," BA14 8AT
+",645,51.3191329,-2.2105553,2,61-14
+646,Melksham, U3 Ashville Ctr," SN12 6AD
+",646,51.441031,-2.6154367,,58-16
+647,Melksham," 29 High St,Melksham"," SN12 6JY
+",647,51.372841,-2.1382035,,61-15
+648,Frome," BA11 2RY,"," BA11 2RY
+",648,51.24293,-2.29175,,60-14
+649,Warminster," BA12 7RU,"," BA12 7RU
+",649,51.21786,-2.19996,,61-13
+650,Bath, U56 Southgate," BA1 1AQ
+",650,53.4818285,-2.2483946,,61-39
+651,Frome," U22 Westway CTR,Frome"," BA11 1BS
+",651,51.23201,-2.32156,2,60-13
+652,Warminster," U18 Three Horseshoes Wlk,Warminster"," BA12 9BT
+",652,51.2053761,-2.1801478,,61-13
+653,Frome, U4 Enterprise House," BA11 4DH
+",653,51.1695361,0.866443325,,82-13
+654,Devizes," 43 Market Pl,Devizes"," SN10 1JG
+",654,51.35230445,-1.994973668,,62-15
+655,Chippenham," 23 High St,Chippenham"," SN15 3EU
+1",655,51.45856474,-2.115404257,,62-16
+656,Chippenham," Hathaway RP,Chippenham"," SN15 1JG
+1",656,51.46328015,-2.11658085,3,62-16
+657,Frome," BA11 4NZ,1"," BA11 4NZ
+1",657,51.2274213,-2.3099645,,60-13
+658,Chippenham," SN14 6UY,1"," SN14 6UY
+1",658,51.5755088,-2.064776048,,62-17
+659,Chippenham," SN14 6LB,1"," SN14 6LB
+1",659,51.5755088,-2.064776048,,62-17
+663,Bristol, Kingswood," BS15 8LP
+1",663,51.4627405,-2.5083916,,59-16
+664,Staple Hill," 27 Broad St,Staple Hill"," BS16 5LP
+1",664,51.4812607,-2.50542835,,59-16
+671,Irvine," KA12 8AY,1"," KA12 8AY
+1",671,55.5100806,-4.6108667,,45-62
+672,Irvine," KA11 4HJ,1"," KA11 4HJ
+1",672,55.5100806,-4.6108667,,45-62
+679,Cumnock," U7 Townhead St,Cumnock"," KA18 1LE
+1",679,55.4539087,-4.259577,,47-61
+680,Girvan," 69 Dalrymple St,Girvan"," KA26 9BS
+1",680,55.2401387,-4.8553836,,43-59
+683,Hairmyres," U6 St James Ave,East Kilbride"," G74 5QD
+2",683,55.7600128,-4.227877133,3,47-65
+685,Kettering," 57 High St,Kettering"," NN16 8SY
+",685,52.3994641,-0.7285186,,71-27
+686,Kettering, U14 The Mall," NN16 8JL
+",686,-38.158735,145.1234938,,
+687,Kettering Road," NN14 1SS,"," NN14 1SS
+",687,52.41459276,-0.790212575,,71-27
+688,Corby," NN18 8TJ,"," NN18 8TJ
+",688,52.458689,-0.735537657,,71-27
+689,Corby," U34 Corporation St,Corby"," NN17 1NJ
+",689,52.4877323,-0.7012426,,71-28
+690,Wellingborough," NN8 3FQ,"," NN8 3FQ
+",690,52.2990368,-0.73219375,,71-26
+691,Wellingborough," U13A Swansgate CTR,Wellingborough"," NN8 1EX
+",691,52.30146669,-0.691941855,2,71-26
+692,Corby," NN17 5DT,"," NN17 5DT
+",692,52.49541007,-0.68128886,,71-28
+693,Bangrave Road," NN17 3HX,"," NN17 3HX
+",693,52.49541,-0.64735,,72-28
+694,Corby," Rockingham Park LC,Corby"," NN17 4BH
+",694,52.50812655,-0.705974276,,71-28
+695,Rushden," L2B Rushden Lakes,Rushden"," NN10 6FT
+",695,52.3006585,-0.6179544,,72-26
+696,Raunds," NN9 6HS,"," NN9 6HS
+",696,52.34491176,-0.535981613,,72-26
+697,Rushden," NN10 0FN,"," NN10 0FN
+",697,52.30063,-0.58664,,72-26
+698,Rushden," 40 High St,Rushden"," NN10 0PJ
+",698,52.2904184,-0.597688,,72-25
+699,Market Harborough," U5 St Marys Pl SC,Market Harborough"," LE16 7DR
+",699,52.47739365,-0.918854358,2,70-28
+700,Northampton," 29 Darnell Way,Northampton"," NN3 6RW
+1",700,52.272812,-0.8636048,,70-25
+701,Northampton," U46 Weston Favell SC,Northampton"," NN3 8JZ
+1",701,52.25669299,-0.835020848,3,70-25
+702,Northampton," U2 The Causeway,Northampton"," NN3 9EX
+1",702,52.2413981,-0.808219,,70-25
+703,Northampton," 9 Alexandra Tce,Northampton"," NN2 7SJ
+1",703,52.26420672,-0.900027365,3,70-25
+704,Northampton," 51 Abington St,Northampton"," NN1 2AW
+1",704,52.2387695,-0.8924487,,70-25
+705,Blyth," 16 Regent St,Blyth"," NE24 1LP
+",705,55.1274572,-1.5093772,,66-58
+706,Ashington," NE63 0TQ,"," NE63 0TQ
+",706,55.16980338,-1.55765905,,65-58
+707,Cramlington," U23 Manor Wlks SC,Cramlington"," NE23 6UR
+",707,55.08531162,-1.58926064,2,65-57
+708,Cramlington," U15a Nelson Park IE,Cramlington"," NE23 1WE
+",708,55.09709034,-1.607923017,2,65-57
+709,Ashington," 32 Station Rd,Ashington"," NE63 9UJ
+",709,55.1831464,-1.583010323,,65-58
+710,Whitley Bay," 248 Whitley Rd,Whitley Bay"," NE26 2TE
+",710,55.0422642,-1.4449252,,66-57
+711,Newcastle Upon Tyne," NE13 6BP,"," NE13 6BP
+",711,55.06643274,-1.634244014,,65-57
+712,Killingworth," U35 Killingworth SC,Killingworth"," NE12 6YT
+",712,55.0362768,-1.566459722,2,65-56
+713,Newcastle," Sandy Lane Drive Thru,North Gosforth"," NE13 6PE
+",713,55.03986,-1.59887,2,65-57
+715,Morpeth," 23 Bridge St,Morpeth"," NE61 1NT
+",715,55.1674195,-1.6887309,,64-58
+716,Longbenton," Quorum Retail Pde,Longbenton"," NE12 8BS
+",716,55.0203399,-1.5822244,2,65-56
+717,Forest Hall," 19 Station Rd,Forest Hall"," NE12 8AP
+",717,55.0216834,-1.5662707,,65-56
+720,Longbenton," U5 The Boulevard,Longbenton"," NE12 8GA
+",720,55.01148324,-1.591008838,2,65-56
+721,Benton," 387 Benton Rd,Benton"," NE7 7EE
+",721,40.92726188,-83.0939715,,
+723,Newcastle, U2 Mill House," NE3 1QL
+",723,50.5020567,-4.4790347,,46-5
+726,Fulham," 411 North End Rd,Fulham"," SW6 1NS
+",726,51.4827175,-0.2002135,,75-16
+727,Hammersmith," U35 Broadway SC,Hammersmith"," W6 9YE
+",727,51.49222,-0.22457,2,74-16
+728,Paddington," 10 Praed St,London"," W2 1JE
+",728,51.5190275,-0.1697175,,75-17
+729,Hammersmith," 129 King St,Hammersmith"," W6 9JG
+",729,51.4926314,-0.231833,,74-16
+730,London Paddington," 109 Church St,Paddington"," NW8 8HA
+",730,51.5223438,-0.1716145,,75-17
+731,Fulham," 702 Fulham Rd,Fulham"," SW6 5SA
+",731,-27.0562309,152.4464232,,
+732,London," Marylebone Station,London"," NW1 6JJ
+",732,51.52427,-0.1634083,,75-17
+733,London," U1 London Victoria Coach Stn,London"," SW1W 9TP
+",733,51.49253117,-0.1489272,2,75-16
+734,Pimlico," 111 Lupus St,Pimlico"," SW1V 3EN
+",734,51.4876318,-0.1416116,,75-16
+735,Battersea," 29 Falcon Rd,Battersea"," SW11 2PH
+",735,51.4691366,-0.1709964,,75-16
+736,London Victoria," U29 Palmer St,Westminster"," SW1H 0PH
+",736,51.4990658,-0.1354191,,75-16
+737,London," 111 Great Portland St,Marylebone"," W1W 6QQ
+",737,51.5197087,-0.142749143,,75-17
+739,London Victoria," 12 Strutton Ground,Victoria"," SW1P 2HP
+",739,51.4972221,-0.134008018,,75-16
+740,Clapham Junction," 22 Saint Johns Rd,Clapham Junction"," SW11 1PN
+",740,51.46329,-0.16803,2,75-16
+741,Putney," 145 High St,Putney"," SW15 1SU
+",741,51.461844,-0.21634111,,74-16
+742,London," SW1A 2JR,"," SW1A 2JR
+",742,51.50113907,-0.1255318,,75-17
+744,Wandsworth," 75 Southside SC,Wandsworth"," SW18 4TG
+",744,51.4547087,-0.19367465,2,75-16
+765,Altrincham," 54 George St,Altrincham"," WA14 1RH
+",765,53.3874376,-2.3501115,,60-38
+766,Altrincham," WA15 9QT,"," WA15 9QT
+",766,53.38488,-2.3458899,,60-38
+767,Altrincham, Farrow House," WA14 5QQ
+",767,35.2322339,-80.7664955,,
+768,Wythenshawe, UA," M23 9GB
+",768,49.4871968,31.2718321,,
+769,Sale, UB," M33 7TY
+",769,44.456203,20.0737772,,
+770,Sale," 45 School Rd,Sale"," M33 7YE
+",770,53.42511035,-2.322859347,,60-38
+771,Sale," 162 Northendon Rd,Sale"," M33 3HE
+",771,53.4203403,-2.3056001,2,60-38
+772,Manchester," Avro Way,Manchester"," M90 5PZ
+",772,53.3626686,-2.2908007,,60-38
+773,Wythenshawe," U7 The Birtles,Wythenshawe"," M22 5RF
+",773,53.3806342,-2.2622877,2,61-38
+774,Longley Lane," M22 4SY,"," M22 4SY
+",774,53.40158,-2.25381,,61-38
+775,Urmston," U9B Eden Square SC,Urmston"," M41 0NA
+",775,53.4495073,-2.3544906,2,60-39
+776,Stretford," U6 Arndale CTR,Stretford"," M32 9BA
+",776,53.44557386,-2.31035438,2,60-38
+777,Stretford," M32 8LF,"," M32 8LF
+",777,53.448296,-2.3039079,,60-39
+778,Stretford," M32 9TR,"," M32 9TR
+",778,53.45655,-2.3365,,60-39
+779,Irlam," Irlam Gateway SS Liverpool Rd,Irlam"," M44 6FW
+",779,53.45442,-2.40526,2,60-39
+780,Manchester," 733 Wilmslow Rd,Didsbury"," M20 6WF
+",780,53.409807,-2.2204041,,61-38
+781,Knutsford," WA16 8JF,"," WA16 8JF
+",781,53.31009,-2.35361,,60-37
+782,Stretford, U11 Trafford Ctr," M17 8AA
+",782,53.4750263,-2.2503308,,61-39
+783,Cheadle," 66 High St,Cheadle"," SK8 1AE
+",783,52.9867987,-1.990180413,,62-33
+784,Stretford," U1B Trafford Pk,Stretford"," M17 1PZ
+",784,53.4653908,-2.3235596,2,60-39
+785,Oxford Road," OX26 1BT,"," OX26 1BT
+",785,51.8925722,-1.16318665,,68-21
+786,Ardley," OX27 7RD,"," OX27 7RD
+",786,51.9494945,-1.199395467,,68-22
+787,A43 Baynards Green," OX27 7SG,"," OX27 7SG
+",787,51.96071,-1.20209,,68-22
+788,Buckingham," MK18 1RY,"," MK18 1RY
+",788,51.9886946,-0.9874023,,69-22
+789,Headington," 118 London Rd,Headington"," OX3 9AX
+1",789,51.75992755,-1.2111972,,68-19
+790,Oxford," 59 Cornmarket St,Oxford"," OX1 3HB
+1",790,51.7521883,-1.2580222,,67-19
+791,Oxford," Templars Sq SC,Cowley"," OX4 3XH
+1",791,51.7318939,-1.216480423,,68-19
+792,Banbury," OX15 4AB,1"," OX15 4AB
+1",792,52.0117105,-1.343970635,,67-22
+793,A418/B4011," OX9 3SB,1"," OX9 3SB
+1",793,51.7713625,-0.942694319,,70-20
+794,Oxford," OX4 7EX,1"," OX4 7EX
+1",794,51.7499662,-1.237777641,,68-19
+795,Banbury," 17 High St,Banbury"," OX16 5EE
+1",795,52.0612324,-1.336714596,,67-23
+796,Banbury," 30 Castle Quay SC,Banbury"," OX16 5UN
+1",796,52.06296433,-1.334488925,3,67-23
+800,Witney," U4 Welch Way,Witney"," OX28 6JH
+1",800,51.7867991,-1.487204,,66-20
+801,Aylesbury," HP20 1JJ,1"," HP20 1JJ
+1",801,51.7035145,-0.751469434,,71-19
+802,Abingdon," 7 Bury St,Abingdon"," OX14 3QY
+1",802,51.6711189,-1.2829037,,67-18
+803,Marcham Road," OX14 1TZ,1"," OX14 1TZ
+1",803,51.6885798,-1.288324,,67-19
+805,Swindon," 10 Havelock Sq,Swindon"," SN1 1LE
+",805,51.56035158,-1.784771583,2,64-17
+806,Swindon," 19 The Parade SC,Swindon"," SN1 1BB
+",806,51.56206078,-1.784382283,2,64-17
+807,Elgin," U2271K Elgin IE,Elgin"," SN2 8EA
+",807,51.57479,-1.76922,2,64-17
+808,Rodbourne Road," SN2 1DH,"," SN2 1DH
+",808,51.57008,-1.80099,,64-17
+809,Westmead," U19 Wesmead IE,Westmead"," SN5 7YT
+",809,51.5630772,-1.8176145,2,64-17
+810,Dorcan Way," SN3 3RA,"," SN3 3RA
+",810,51.56971607,-1.7464984,,64-17
+811,Swindon," UT12 Hobley Dr,Swindon"," SN3 4WH
+",811,51.58237,-1.75385,2,64-17
+812,Swindon," SN3 4RS,"," SN3 4RS
+",812,51.58005,-1.72249,,64-17
+813,Swindon," U2A Lydiard Fields,Swindon"," SN5 8UB
+",813,51.5478705,-1.8546277,2,63-17
+814,Marlborough Road," SN4 0NR,"," SN4 0NR
+",814,51.51686,-1.72429,,64-17
+815,Calcutt Service Station," SN6 6JR,"," SN6 6JR
+",815,51.63808,-1.83723,,63-18
+816,Marlborough," 104 High St,Marlborough"," SN8 1LT
+",816,51.4193743,-1.733126674,,64-16
+817,Faringdon," SN7 7BU,1"," SN7 7BU
+1",817,51.7543379,-1.5805482,,65-19
+818,Cirencester," GL7 5HB,1"," GL7 5HB
+1",818,51.72502,-1.94763,3,63-19
+819,Wantage," U1 Victoria Cross,Wantage"," OX12 8AS
+1",819,51.5881445,-1.4269639,,66-17
+825,Stockwell," 312 Clapham Rd,Stockwell"," SW9 9AE
+",825,51.4706983,-0.1246928,,75-16
+826,Camberwell," 18 Denmark Hill,Camberwell"," SE5 8RZ
+",826,51.4736423,-0.0933523,,75-16
+827,96/106 Camberwell Road," SE5 0EG,"," SE5 0EG
+",827,51.4816999,-0.095,,75-16
+828,West Norwood," 324 Norwood Rd,West Norwood"," SE27 9AF
+",828,-33.9286028,18.5796256,,
+829,Balham," 141 Balham High Rd,Balham"," SW12 9AU
+",829,51.44431659,-0.151936291,,75-16
+830,Streatham," 158 Streatham High Rd,Streatham"," SW16 1BJ
+",830,51.4146964,-0.1240889,,75-16
+832,Peckham," U8 Aylesham CTR,Peckham"," SE15 5EW
+",832,51.47296853,-0.0682769,2,75-16
+839,Waterloo, U1," SE1 7AB
+",839,48.1082058,11.5757399,,
+841,Bermondsey," 79 Tower Bridge Rd,Bermondsey"," SE1 4TW
+",841,51.4962039,-0.082883,,75-16
+842,South Bermondsey," 1A Ilderton Rd,South Bermondsey"," SE16 3JU
+",842,51.4882886,-0.057744616,,76-16
+844,London," SU45 Ldn Bridge Statn,London"," SE1 9SP
+",844,51.50496,-0.0859514,2,75-17
+845,Lower Edmonton," 21 South Mall,Edmonton"," N9 0TT
+",845,51.6228018,-0.0589715,,76-18
+846,Tottenham Hale," Uc1 Tottenham Hale RP,Tottenham"," N15 4QD
+",846,51.58733245,-0.062041371,2,76-17
+847,Wood Green," 29 High Rd,Wood Green"," N22 6BH
+",847,51.5778872,-0.0731374,,75-17
+848,Wood Green," 7 The Broadway,Wood Green"," N22 6DS
+",848,51.5786546,-0.1240474,,75-17
+849,Edmonton, Bury St West," N9 9JJ
+",849,51.6359374,-0.0802385,,75-18
+850,Enfield," 9 Bush Hill Pde,Enfield"," N9 9JS
+",850,51.6367313,-0.0805376,2,75-18
+851,Chingford," 4 Albert Cres,Chingford"," E4 6SH
+",851,51.6174025,-0.0179404,,76-18
+852,Walthamstow," 1 Palace Pde,Walthamstow"," E17 7BU
+",852,51.58415968,-0.024051636,2,76-17
+853,Enfield," 110 South St,Ponders End"," EN3 4QA
+",853,51.6428217,-0.0380445,,76-18
+854,Crouch End," 29 The Broadway,Crouch End"," N8 8DU
+",854,51.579304,-0.123977,,75-17
+855,Southgate," 58 Chase Side,Southgate"," N14 5PA
+",855,51.6326335,-0.1276863,,75-18
+856,Enfield," 8 Church St,Enfield"," EN2 6BE
+",856,42.00047814,-72.60016402,,
+857,Enfield, U9a Enfield RP," EN1 1TH
+",857,51.65321236,-0.057235136,2,76-18
+858,North Chingford," 25 Station Rd,North Chingford"," E4 7BJ
+",858,51.63074438,0.002288725,2,76-18
+859,Enfield," 188 Hertford Rd,Enfield"," EN3 5AZ
+",859,51.65715575,-0.047575831,,76-18
+860,Highbury," 3 Highbury Pk,Highbury"," N5 1QJ
+",860,51.553645,-0.0984887,,75-17
+861,Oakwood," 197 Bramley Rd,Oakwood"," N14 4XA
+",861,51.6473135,-0.1340122,,75-18
+862,Archway," 33 Junction Rd,Archway"," N19 5QT
+",862,51.56493075,-0.134524793,2,75-17
+863,Hackney," 387B Mare S,Hackney"," E8 1HY
+",863,51.5484086,-0.055321054,2,76-17
+864,Dalston," 61 Kingsland High St,Dalston"," E8 2JS
+",864,51.548328,-0.07557585,,75-17
+865,Swinton," 30 The Pde,Swinton"," M27 4BH
+",865,53.4718534,-1.3481192,,67-39
+866,Bolton," BL3 2NZ,"," BL3 2NZ
+",866,53.5640246,-2.4117286,,60-40
+867,Bolton, U6A Burden Park," BL3 2NE
+",867,53.5679655,-2.4167894,2,60-40
+868,Salford," 258 Eccles Old Rd,Salford"," M6 8HH
+",868,53.4892898,-2.3264912,,60-39
+871,Atherton," 67 Market St,Atherton"," M46 0DA
+",871,53.5238472,-2.4934483,,59-39
+872,Bolton," BL2 6PY,"," BL2 6PY
+",872,53.57970917,-2.377686733,,60-40
+873,Radcliffe," M26 1LS,"," M26 1LS
+",873,53.55688,-2.31998,,60-40
+876,Prestwich," M25 3AJ,"," M25 3AJ
+",876,53.5376911,-2.2887921,,60-40
+877,Prestwich," U10 Radius Retail,Prestwich"," M25 1AY
+",877,53.53342825,-2.28433285,2,60-39
+880,Salford," 104 Mather Way,Salford"," M6 5HU
+",880,53.48944765,-2.28715515,2,60-39
+881,Leigh," 23 Bradshawgate,Leigh"," WN7 4NB
+",881,53.4964624,-2.5188793,,59-39
+883,Salford," Media City CP,Salford"," M50 2HF
+",883,53.47298107,-2.297158478,2,60-39
+902,Kendal," 8 Stricklandgate,Kendal"," LA9 4ND
+1",902,54.3279024,-2.7475769,,57-48
+903,Kendal," U11 Westmorland Ctr,Kendal"," LA9 4LR
+1",903,54.3290256,-2.746378818,3,57-48
+905,Brighouse," 15 Commercial St,Brighouse"," HD6 1AF
+",905,53.7022325,-1.78009615,,64-41
+907,Huddersfield," U2 Halifax Rd,Huddersfield"," HD3 3QP
+",907,53.6650762,-1.8209891,,64-41
+908,Huddersfield," Leeds Road RP,Huddersfield"," HD1 6PF
+",908,53.6604888,-1.7615763,,64-41
+911,Halifax," U4 Woolshops SC,Halifax"," HX1 1RU
+",911,53.72335318,-1.8583327,2,63-42
+912,Halifax," 10 Southgate,Halifax"," HX1 1DL
+",912,53.7224475,-1.860300795,,63-42
+914,Huddersfield," U39 Kingsgate SC,Huddersfield"," HD1 2QB
+",914,53.64590423,-1.779123476,2,64-41
+915,Huddersfield," Bus Station,Huddersfield"," HD1 2JN
+",915,53.6453859,-1.78679,,64-41
+916,Huddersfield," 39 New St,Huddersfield"," HD1 2BQ
+",916,53.645209,-1.7828238,,64-41
+917,Huddersfield," 24 Princess Alexandra Wlk,Huddersfield"," HD1 2RS
+",917,53.6444133,-1.7836117,,64-41
+918,Aspley," Carr Pit Rd,Aspley"," HD5 9AD
+",918,53.6435002,-1.7718038,,64-41
+919,Halifax," Pellon Lane SS,Halifax"," HX1 5RL
+",919,53.7273823,-1.8760404,,63-42
+923,Bradford," U6 Clayton Rd,Bradford"," BD7 2SG
+",923,53.7856569,-1.7917555,,64-42
+925,Shrewsbury," 27 Pride Hill,Shrewsbury"," SY1 1DP
+",925,52.7087923,-2.7525167,,57-30
+926,Shrewsbury," U1 Shrewsbury BP,Shrewsbury"," SY2 6LG
+",926,52.6914007,-2.71808145,2,58-30
+927,Apley," TF1 6FQ,1"," TF1 6FQ
+1",927,52.7136135,-2.5020138,3,59-30
+928,Telford, U1 Hadley Centre," TF1 5GQ
+1",928,32.2840552,-106.7628522,,
+929,Telford," U7 Birchfield Way,Telford"," TF3 5BZ
+1",929,52.6766445,-2.4815325,,59-30
+930,Telford," TF1 6QJ,1"," TF1 6QJ
+1",930,52.717081,-2.4767374,3,59-30
+931,Church Stretton," SY6 6PG,1"," SY6 6PG
+1",931,52.6109442,-2.7137507,,58-29
+932,Oakengate," Oakengate SC,Oakengates"," TF2 6EL
+1",932,52.69512717,-2.451488233,3,59-30
+933,Telford, Telford SC," TF3 4BQ
+1",933,32.9935478,-80.1470234,,
+935,Telford, Kiosk," TF3 4DX
+1",935,-8.7943315,115.1764135,,
+936,Madeley," U14 Anstice Sq,Madeley"," TF7 5BD
+1",936,52.636165,-2.4504352,,59-29
+937,Telford," UA4 Stafford Park 4,Telford"," TF3 3BA
+1",937,52.6755799,-2.4211,3,60-30
+938,Oswestry," SY11 4JA,1"," SY11 4JA
+1",938,52.84941,-3.02656,3,55-32
+939,Oswestry," 1 Church St,Oswestry"," SY11 2SU
+1",939,52.85878895,-3.055365137,,55-32
+940,Welshpool," 9 Broad St,Welshpool"," SY21 7RZ
+1",940,52.6604934,-3.148874,,55-30
+941,Newport," U4 Audley Avenue RP,Newport"," TF10 7BX
+1",941,52.76304408,-2.36140566,3,60-31
+942,Market Drayton," 31 Cheshire St,Market Drayton"," TF9 1PH
+1",942,52.9069979,-2.4871572,,59-32
+943,Whitchurch," SY13 1JZ,1"," SY13 1JZ
+1",943,52.96810555,-2.671735569,,58-33
+944,Bridgnorth," 24 High St,Bridgnorth"," WV16 4DB
+1",944,52.535426,-2.4196613,,60-28
+945,Barry Island," 1 Paget Road,Barry Island"," CF62 5TQ
+",945,51.39096685,-3.276746912,,54-15
+946,Outlet: Barry," 58 Holton Rd,Barry"," CF63 4HE
+",946,51.40517655,-3.269476065,,54-15
+947,Barry," 133 Holton Rd,Barry"," CF63 4HP
+",947,51.40633105,-3.265677509,,54-15
+948,Barry, U1 Briscombe RP," CF63 2QW
+",948,51.41086,-3.2488,2,54-15
+949,Penarth," 32 Windsor Rd,Penarth"," CF64 1JH
+",949,51.4391917,-3.1756819,,54-16
+950,Cardiff," 49 Wilson Rd,Ely"," CF5 4LL
+",950,51.4766648,-3.2549441,,54-16
+951,Ely," CF5 4LE,"," CF5 4LE
+",951,51.48087215,-3.24447015,,54-16
+952,Cardiff, Leckwith Rd," CF11 8EG
+",952,51.474946,-3.2050633,,54-16
+953,Cardiff," U21 Mermaid Quay,Cardiff"," CF10 5BZ
+",953,51.4633471,-3.165200366,,55-16
+954,Cardiff," 205 Cowbridge Rd Est,Riverside"," CF11 9AJ
+",954,51.48138459,-3.198002488,2,54-16
+955,Cardiff, U3 BBC Building," CF10 1EP
+",955,51.47590999,-3.179237275,2,54-16
+956,Cardiff," 23 Caroline St,Cardiff"," CF10 1FG
+",956,51.4782623,-3.1759409,,54-16
+957,Cardiff," 1 St Marys St,Cardiff"," CF10 1AT
+",957,51.4800268,-3.1792149,2,54-16
+958,Cardiff," U5 St Davids SC,Cardiff"," CF10 2DQ
+",958,51.48093,-3.17661,2,54-16
+959,Cardiff," 4 St Johns St,Cardiff"," CF10 1GJ
+",959,51.48123675,-3.1783017,2,54-16
+960,Cardiff," 34 Queen St,Cardiff"," CF10 2BY
+",960,51.481727,-3.1770305,,54-16
+961,Cardiff," 2A Park Pl,Cardiff"," CF10 3DP
+",961,51.4826865,-3.174625221,,54-16
+962,Cardiff," 140 Queen St,Cardiff"," CF10 2GP
+",962,51.4827986,-3.1712386,,54-16
+963,Cardiff," U8 Regent TP,Cardiff"," CF24 5PF
+",963,51.47468,-3.15416,2,55-16
+964,Cardiff, Cardiff University," CF10 3AT
+",964,51.48402915,-3.169763364,,54-16
+978,Northampton," U2 The Brackmills Hub,Northampton"," NN4 7PY
+",978,52.21650865,-0.8705451,2,70-25
+980,Northampton," 5 Mercers Row,Northampton"," NN1 2QL
+",980,52.23744655,-0.896514866,,70-25
+981,Northampton," Harvey Reeves Rd,Northampton"," NN5 5JR
+1",981,52.2343952,-0.9154062,,70-25
+982,Corby," NN18 8TJ,1"," NN18 8TJ
+1",982,52.458689,-0.735537657,3,71-27
+984,Corby," NN17 5DT,1"," NN17 5DT
+1",984,52.49541007,-0.68128886,3,71-28
+985,Leicester," U26 Highcross SC,Leicester"," LE1 4FP
+",985,52.63601244,-1.13609666,2,68-29
+986,Leicester," 20 Belgrave Gate,Leicester"," LE1 3GP
+",986,52.6374866,-1.132781712,,68-29
+987,Leicester," 15 Gallowtree Gate,Leicester"," LE1 5AD
+",987,52.6350858,-1.1322513,,68-29
+988,Leicester," U58G Haymarket SC,Leicester"," LE1 3YD
+",988,52.6368308,-1.1314604,2,68-29
+990,Leicester," 121 Narborough Rd,Leicester"," LE3 0PA
+",990,52.6173856,-1.1617543,,68-29
+991,Leicester," 285 Abbey Ln,Leicester"," LE4 5QH
+",991,52.6517668,-1.1387574,,68-30
+992,Leicester," LE4 7PB,"," LE4 7PB
+",992,52.6608597,-1.1138674,,68-30
+993,Leicester," Su3 Beaumont SC,Leicester"," LE4 1DE
+",993,52.66526717,-1.166357008,2,68-30
+994,Leicester, U10 Fosse Pk SC," LE19 1HY
+",994,52.5946297,-1.1805958,2,68-29
+995,Oadby," 28 The Parade,Oadby"," LE2 5BF
+",995,52.5991613,-1.0839226,,69-29
+996,Wigston," 29 Leicester Rd,Wigston"," LE18 1NR
+",996,52.5867708,-1.1059203,,68-29
+997,Thurmaston," U11 Thurmaston SC,Thurmaston"," LE4 8GP
+",997,52.68382018,-1.091222888,2,69-30
+998,Blaby," 9 St Johns Crt,Blaby"," LE8 4DJ
+",998,52.57480102,-1.163969522,2,68-29
+999,Syston," 1286 Melton Rd,Syston"," LE7 2HD
+",999,52.6933372,-1.0822331,,69-30
+1000,Leicestershire," LE9 9JE,"," LE9 9JE
+",1000,52.6130838,-1.2552573,,67-29
+1001,Markfield," LE67 9PU,"," LE67 9PU
+",1001,52.70041087,-1.305116433,,67-30
+1002,Broughton Astley," LE9 6NQ,"," LE9 6NQ
+",1002,52.52261,-1.22059,,68-28
+1003,Loughborough," Allendale Rd,Loughborough"," LE11 2LN
+",1003,52.7543157,-1.1972154,,68-31
+1004,Loughborough," 5 Market St,Loughborough"," LE11 3EP
+",1004,52.7712702,-1.2077037,,68-31
+1005,Chester," 9 Frodsham St,Chester"," CH1 3JJ
+",1005,53.1916926,-2.8883972,,56-36
+1006,Chester," Greyhound RP,Chester"," CH1 4QG
+",1006,53.1984951,-2.910136,,56-36
+1007,Blacon," CH1 5PN,"," CH1 5PN
+",1007,53.20132606,-2.93459738,,56-36
+1008,Chester," CH2 1JF,"," CH2 1JF
+",1008,53.21928442,-2.8792404,,56-36
+1009,Chester," CH4 9DE,"," CH4 9DE
+",1009,53.16294,-2.9082,,56-35
+1010,Chester," CH1 6JS,"," CH1 6JS
+",1010,53.23298,-2.94238,,56-36
+1011,Deeside Industrial Estate," CH5 2NN,"," CH5 2NN
+",1011,53.23209,-3.00687,,56-36
+1012,Ellesmere Port," 29 Marina Dr,Ellesmere Port"," CH65 0AL
+",1012,53.2781635,-2.9022917,,56-37
+1013,Dobshill," Chester Rd,Dobshill"," CH5 3LZ
+",1013,53.1647277,-3.0397951,,55-35
+1014,Chester," CH2 4LU,"," CH2 4LU
+",1014,53.27337175,-2.81332225,,57-37
+1015,Mold," CH7 6HB,"," CH7 6HB
+",1015,53.1920973,-3.081009467,,55-36
+1016,Holt," LL13 9SB,"," LL13 9SB
+",1016,53.0627248,-2.9557625,,56-34
+1017,Clwyld," CH7 1UE,"," CH7 1UE
+",1017,53.1686583,-3.1356383,,55-35
+1018,Liverpool," John Lennon Airport,Liverpool"," L24 1YD
+",1018,53.3357026,-2.849613998,,57-37
+1019,Wirral, U2 Croft RP," CH62 3PN
+1",1019,53.341066,-2.9759857,3,56-37
+1020,Wrexham, U28 The Brdgwter Ctr," LL13 9QS
+1",1020,53.03831,-2.92924,3,56-34
+1021,Flint," UA Flintshire RP,Flint"," CH6 5GB
+1",1021,53.25065598,-3.13896656,3,55-36
+1022,Wrexham," 54 Hope St,Wrexham"," LL11 1BE
+1",1022,53.04565495,-2.99321169,,56-34
+1023,Runcorn," 34 Church St,Runcorn"," WA7 1LR
+1",1023,53.3426569,-2.73271568,,57-37
+1024,Runcorn," 34 Forest Wlk,Runcorn"," WA7 2GX
+1",1024,53.32782019,-2.697769109,3,58-37
+1025,Lockerbie," 67 High St,Lockerbie"," DG11 2JH
+1",1025,55.1210354,-3.3556399,,53-57
+1026,Peebles," 42 High St,Peebles"," EH45 8SD
+2",1026,55.6517468,-3.1904545,,54-63
+1027,Dumfries," DG1 3SE,2"," DG1 3SE
+2",1027,55.06816303,-3.5539265,3,52-57
+1028,Dumfries," U7 Dumfries RP,Dumfries"," DG2 0NU
+2",1028,55.0779768,-3.62399,3,51-57
+1029,Dumfries," 9 Castle St,Dumfries"," DG1 1DJ
+2",1029,54.9038392,-5.0257389,,42-55
+1030,Dumfries," 71 High St,Dumfries"," DG1 2BS
+2",1030,55.0680648,-3.6180332,,51-57
+1032,Hawick," 52 High St,Hawick"," TD9 9EE
+2",1032,55.4231325,-2.786119,,57-61
+1033,Annan," 103 High St,Annan"," DG12 6ED
+2",1033,54.9872076,-3.2634412,,54-56
+1034,Carluke," U1 Rankin Gait CTR,Carluke"," ML8 4AT
+2",1034,55.73374125,-3.83717145,3,50-64
+1035,Galashiels," 25 Market St,Galashiels"," TD1 3AF
+2",1035,55.616337,-2.8049899,,57-63
+1036,Beeston," 201/207 Queens Rd,Beeston"," NG9 2BZ
+",1036,52.9229632,-1.209679,,68-33
+1038,Clifton," 230 Southchurch Dr,Clifton"," NG11 8AA
+",1038,52.9030312,-1.1778681,,68-32
+1040,Stapleford," 44 Derby Rd,Stapleford"," NG9 7AA
+",1040,52.9290024,-1.276335354,,67-33
+1043,Long Eaton," 67 High St,Long Eaton"," NG10 1HZ
+",1043,52.89672925,-1.269437034,,67-32
+1047,Long Eaton," UE1 Toton Close,Long Eaton"," NG10 3TP
+",1047,52.88881,-1.26435,2,67-32
+1050,Ruddington," NG11 6LJ,"," NG11 6LJ
+",1050,52.8965632,-1.142284533,,68-32
+1055,West Bridgford," 28 Central Ave,West Bridgford"," NG2 5GR
+",1055,52.931681,-1.1266907,,68-33
+1073,Watford," 114C High St,Watford"," WD17 2BJ
+",1073,51.6540972,-0.3939012,,73-18
+1074,Watford, 5 The Parade," WD17 1LQ
+",1074,51.607018,-3.3366299,,53-18
+1089,Newcastle," Airport,Woolsington"," NE13 8BZ
+1",1089,55.0358463,-1.7112191,,64-56
+1090,Newcastle upon Tyne," NE13 8BZ,1"," NE13 8BZ
+1",1090,55.0357795,-1.7096858,,64-56
+1095,Kingston Pk," U8 Kingston Pk SC,Kingston Park"," NE3 2FP
+1",1095,33.771947,-78.777671,,
+1096,Brierley Hill," Intu Merryhill Kiosk,Brierley Hill"," DY5 1QX
+",1096,52.48219,-2.11235,2,62-28
+1097,Brierley Hill, Intu Merryhill," DY5 1SH
+",1097,52.47979,-2.10968,2,62-28
+1098,Brierley Hill," 240 High St,Brierley Hill"," DY5 4JD
+",1098,52.4864627,-2.1255859,,62-28
+1099,Stourbridge, Stourbridge TE," DY8 1JN
+",1099,51.2561444,1.014376949,,83-14
+1100,Stourbridge," 62 High St,Stourbridge"," DY8 1DX
+",1100,52.4564409,-2.1454037,,61-27
+1101,Kingswinford," Bay 2 Pensnett IE,Kingswinford"," DY6 7XN
+",1101,52.5034402,-2.1510239,2,61-28
+1102,Cradley Heath," 190C Halesowen Rd,Cradley Heath"," B64 6HU
+",1102,52.4769277,-2.0680781,,62-28
+1103,Kingswinford," 20 Market St,Kingswinford"," DY6 9JU
+",1103,52.4964429,-2.1680311,,61-28
+1104,Dudley," 11 Castle St,Dudley"," DY1 1LF
+",1104,52.5110362,-2.08118004,,62-28
+1105,Dudley," DY1 4RP,"," DY1 4RP
+",1105,52.5144808,-2.0663768,,62-28
+1106,Blackheath," 181 High St,Blackheath"," B65 0DU
+",1106,52.4756048,-2.0396606,,62-28
+1107,Halesowen," Cornbow SC,Halesowen"," B63 4AJ
+",1107,52.4481238,-2.0484538,,62-27
+1108,Sedgley," 31 Dudley St,Sedgley"," DY3 1SA
+",1108,52.5404035,-2.1210088,,62-28
+1109,Oldbury," U14 Oldbury Green RP,Oldbury"," B69 3DD
+",1109,52.50421744,-2.02075352,2,62-28
+1110,Outlet: Tipton," 162 High St,Princess End"," DY4 9JB
+",1110,52.5427557,-2.0614074,2,62-28
+1111,Quinton," 524 Hagley Rd Wst,Quinton"," B68 0BZ
+",1111,52.46352439,-1.996827013,2,62-27
+1112,Birmingham," B32 4AR,"," B32 4AR
+",1112,52.42924554,-2.01782304,,62-27
+1115,Birmingham," 23 Curdale Rd,Bartley Green"," B32 4HD
+",1115,52.4335588,-2.0052457,,62-27
+1116,Dundee," 80 High St,Dundee"," DD1 1SD
+",1116,56.4723472,-3.0097778,,56-73
+1117,Dundee," 7 Cowgate,Dundee"," DD1 2HS
+",1117,56.4648064,-2.9641603,,56-73
+1118,Dundee," UL28 Overgate SC,Dundee"," DD1 1UF
+",1118,56.4601,-2.9727199,2,56-73
+1119,Dundee," 134 Strathmartin Rd,Dundee"," DD3 7SE
+",1119,56.47453,-2.98046,2,56-73
+1120,Dundee, U3 Dunsinane IE," DD2 3WT
+",1120,52.4986257,-6.620052239,,31-28
+1121,Dundee," U3A Myrekirk Rd,Dundee"," DD2 4WB
+",1121,56.47562305,-3.0478085,2,55-73
+1122,Dundee," 259 Brook St Broughty Ferry,Broughty Ferry"," DD5 2AG
+",1122,56.4671259,-2.8738731,,56-73
+1123,Cupar," 5 Crossgate,Cupar"," KY15 5HA
+1",1123,56.3179826,-3.0118563,,56-71
+1124,St Andrews," 116 Market St,St Andrews"," KY16 9PD
+1",1124,56.3404038,-2.7974792,,57-71
+1125,Forfar," DD8 1BF,1"," DD8 1BF
+1",1125,56.63448,-2.91994,3,56-75
+1126,Forfar," 25 Castle St,Forfar"," DD8 3AE
+1",1126,56.6446694,-2.8888992,,56-75
+1127,Arbroath," U1 Abbeygate SC,Abroath"," DD11 1HY
+1",1127,56.56041467,-2.5835945,3,58-74
+1128,Perth," 87 South St,Perth"," PH2 8PA
+1",1128,56.3952881,-3.4303638,,53-72
+1129,Perth," 9 Scott St,Perth"," PH1 5EJ
+1",1129,56.3963571,-3.4325929,,53-72
+1130,Leven," 53 High St,Leven"," KY8 4NE
+1",1130,56.1890621,-3.004211,,56-70
+1131,Perth," U1 Glenearn Rd,Perth"," PH2 0NJ
+1",1131,56.3846985,-3.4367239,,53-72
+1132,Perth," U4 Inveralmond Rd,Perth"," PH1 3TW
+1",1132,56.4186279,-3.4740519,,52-72
+1133,Glenrothes," U1 Leslie Rd,Glenrothes"," KY7 5PS
+1",1133,56.1980884,-3.1738579,,54-70
+1134,Glenrothes," 31 Lyon Wy,Glenrothes"," KY7 5NN
+1",1134,56.19631,-3.1716,3,54-70
+1135,Glenrothes," KY6 1PD,2"," KY6 1PD
+2",1135,56.19543,-3.19871,3,54-70
+1136,Hull," U1 Clough Rd,Hull"," HU6 7PY
+",1136,53.7676367,-0.3399648,,74-42
+1137,Hull," Northpoint SC,Bransholme"," HU7 4EE
+",1137,53.78594925,-0.3213984,2,74-42
+1138,Hull," U7 Prospect Ctr,Hull"," HU2 8PW
+",1138,53.7459,-0.34343,2,74-42
+1139,Hull," 54 Jameson St,Hull"," HU1 3LS
+",1139,53.7449023,-0.3418228,,74-42
+1140,Hull," U44A St Stephens SC,Hull"," HU2 8LN
+",1140,53.7454479,-0.3494526,2,74-42
+1141,Hull, Ferensway," HU1 3QX
+",1141,53.7434407,-0.3445117,,74-42
+1142,Hull, U7b St Andrews RP," HU3 4EB
+",1142,53.73362,-0.36889,2,73-42
+1143,Hull," 626 Anlaby Rd,Hull"," HU3 6UU
+",1143,53.7429581,-0.3516383,,74-42
+1144,Hedon," HU12 8DJ,"," HU12 8DJ
+",1144,53.7397565,-0.2126123,,74-42
+1145,Beverley," Unit 9A Flemingate SC,Beverley"," HU17 0PW
+",1145,53.83996,-0.42065,2,73-43
+1146,Barton Upon Humber," DN18 5TB,"," DN18 5TB
+",1146,53.68098,-0.45218,,73-41
+1147,Grimsby," U2 Gilbey Rd,Grimsby"," DN31 2TN
+1",1147,53.5720796,-0.0981308,,75-40
+1148,Driffield," 53a Middle St,Driffield"," YO25 6PS
+1",1148,54.0079613,-0.4415845,,73-45
+1149,Shipton Thorpe," YO43 3PN,1"," YO43 3PN
+1",1149,53.87414433,-0.70154015,3,71-43
+1150,Grimsby, 32 Friargate," DN31 1ED
+1",1150,53.9570325,-1.0813646,,69-44
+1151,Grimsby," 47 Victoria St,Grimsby"," DN31 1UU
+1",1151,53.5655547,-0.0857201,,75-40
+1152,Scunthorpe," U1 Glebe Rd,Scunthorpe"," DN15 6AF
+1",1152,53.5949593,-0.646008,,72-40
+1153,Scunthorpe," 33 High St,Scunthorpe"," DN15 6SB
+1",1153,53.5927203,-0.642337,,72-40
+1154,Scunthorpe," 133 High St,Scunthorpe"," DN15 6LP
+1",1154,53.591279,-0.649623,,72-40
+1155,Cleethorpes," 41 Saint Peters Ave,Cleethorpes"," DN35 8HF
+1",1155,53.55916,-0.03096,3,76-40
+1156,Livingston," 25 Hawkbrae,Livingston"," EH54 6TW
+",1156,55.89815704,-3.53216935,2,52-66
+1157,Livingston," 72 The Centre,Livingston"," EH54 6NB
+",1157,55.88429157,-3.5096377,2,52-66
+1158,Livingston," U96 The Centre,Livingston"," EH54 6HS
+",1158,55.88376,-3.51498,2,52-66
+1159,Broxburn," 30 East Main St,Broxburn"," EH52 5AE
+",1159,55.934389,-3.460592,,52-67
+1160,Broxburn," U1 Fairfield SS,Broxburn"," EH52 5BQ
+",1160,55.9352046,-3.447193,2,53-67
+1161,Edinburgh," U10D Newbridge IE,Newbridge"," EH28 8PJ
+",1161,55.9299272,-3.4168544,2,53-67
+1166,Edinburgh," U1 Bankhead Medway,Edinburgh"," EH11 4BY
+",1166,55.9262298,-3.2954907,,54-67
+1167,Edinburgh," U21 Westside Plaza SC,Wester Hailes"," EH14 2SW
+",1167,55.9155378,-3.284596,2,54-66
+1168,Edinburgh," 139A St Johns Rd,Corstorphine"," EH12 7SD
+",1168,55.9426411,-3.28243536,2,54-67
+1169,Rosyth," UA Backmarsh Rd,Rosyth"," KY11 2RS
+1",1169,56.0373383,-3.4266452,3,53-68
+1170,Inverkeithing," 47 High St,Inverkeithing"," KY11 1NL
+1",1170,56.0306199,-3.3983391,,53-68
+1171,Edinburgh, Davidson Mains," EH4 5BZ
+1",1171,55.9632204,-3.278463514,,54-67
+1172,Edinburgh, U6 Edin West RP," EH14 1UD
+1",1172,55.92951,-3.24571,3,54-67
+1173,Edinburgh," 224 Gorgie Rd,Edinburgh"," EH11 2PN
+1",1173,55.9374876,-3.234184,,54-67
+1175,Edinburgh," 45 Pennywell Rd,Edinburgh"," EH4 4QR
+1",1175,55.9713034,-3.2524594,,54-67
+1196,Greenock," 44 Hamilton Way,Greenock"," PA15 1JJ
+",1196,55.94781,-4.7584799,2,44-67
+1197,Greenock," 1 Auchmead Rd,Greenock"," PA16 0PY
+",1197,55.9382,-4.81393,2,43-67
+1198,Port Glasgow," U38 Princes St,Port Glasgow"," PA14 5JQ
+",1198,55.9344265,-4.6902936,,44-67
+1199,Helensburgh," 26 Sinclair St,Helensburgh"," G84 8SU
+",1199,56.0121024,-4.7291977,,44-68
+1200,Alexandria," 139 Main St,Alexandria"," G83 0NX
+",1200,40.55571201,-78.0962187,,
+1201,Dumbarton," 81 High St,Dumbarton"," G82 1LF
+",1201,55.944194,-4.5729104,,45-67
+1202,Dumbarton," U4 St James RP,Dumbarton"," G82 1RB
+",1202,55.94448668,-4.561231763,2,45-67
+1205,Erskine," U6 Bridgewater SC,Erskine"," PA8 7AA
+1",1205,55.90389,-4.44863,3,46-66
+1208,Hardgate," 5 Rockbank Pl,Hardgate"," G81 5NZ
+1",1208,55.92425655,-4.4017077,3,46-67
+1209,Clydebank, 113 Sylvania Way," G81 2RR
+1",1209,31.825526,-106.547663,,
+1210,Clydebank, U13 Sylvania Way," G81 1EA
+1",1210,31.825526,-106.547663,,
+1212,Paisley, Paisley Central RP," PA3 4DS
+1",1212,55.8471495,-4.421777,,46-66
+1213,Paisley," 16 Moss St,Paisley"," PA1 1BL
+1",1213,55.8465838,-4.4251725,,46-66
+1214,Paisley, 34 Paisley SC," PA1 1UN
+1",1214,33.93018812,-80.39018302,,
+1215,Glasgow," 4 Allerdyce Court Drive Thru,Glasgow"," G15 6SA
+1",1215,55.9035351,-4.3780058,3,46-66
+1216,Macclesfield," Grosvenor CTR,Macclesfield"," SK11 6AJ
+",1216,53.26023222,-2.126282117,2,62-36
+1217,Poynton," 21 Park Ln,Poynton"," SK12 1RD
+",1217,53.3489772,-2.1205281,,62-37
+1218,Wilmslow," 49 Grove St,Wilmslow"," SK9 1DT
+",1218,53.3267632,-2.2315934,,61-37
+1219,Bramhall," 7 Woodford Rd,Bramhall"," SK7 1JN
+",1219,53.3497212,-2.1628809,,61-37
+1220,Handforth," 134 Wilmslow Rd,Handforth"," SK9 3LQ
+",1220,53.3476765,-2.2152231,,61-37
+1221,Congleton," 1 Duke St,Congleton"," CW12 1AP
+",1221,53.1637036,-2.2140946,,61-35
+1222,Buxton," 32 Spring Gardens,Buxton"," SK17 6DE
+",1222,53.25902,-1.9118062,,63-36
+1223,Marple," 3 The Hollins,Marple"," SK6 6AY
+",1223,53.3947,-2.0627399,2,62-38
+1225,Stockport," 55 Castle St,Edgeley"," SK3 9AT
+1",1225,53.402042,-2.1655363,,61-38
+1228,Knutsford," WA16 8JF,1"," WA16 8JF
+1",1228,53.33972875,-2.381231392,,60-37
+1229,Stockport," Merseyway SC,Stockport"," SK1 1RA
+1",1229,53.4098995,-2.1625312,,61-38
+1230,Stockport," 23 Warren St,Stockport"," SK1 1UD
+1",1230,53.4130346,-2.1555151,,61-38
+1231,Stockport," SK1 2BT,1"," SK1 2BT
+1",1231,53.4080649,-2.1397791,,61-38
+1232,Stockport," U5 Manchester Rd,Stockport"," SK4 1TN
+1",1232,53.419367,-2.1614059,,61-38
+1233,Longley Lane," M22 4SY,1"," M22 4SY
+1",1233,53.4080649,-2.1397791,,61-38
+1235,Ashton Road," SK6 2QN,1"," SK6 2QN
+1",1235,53.4080649,-2.1397791,,61-38
+1236,Great Yarmouth," 182 King St,Great Yarmouth"," NR30 1LS
+",1236,52.6073739,1.7269104,,88-29
+1237,Great Yarmouth," UB2A Gapton Hall RP,Great Yarmouth"," NR31 0LZ
+",1237,52.5983491,1.711202771,2,88-29
+1238,Gorleston-On-Sea," 147 High St,Gorleston-on-Sea"," NR31 6RB
+",1238,52.5790261,1.7276889,,88-29
+1239,Lowestoft," 65 London Rd North,Lowestoft"," NR32 1LT
+",1239,52.4776435,1.7538777,,88-28
+1240,Lowestoft," U5C Gateway RP,Lowestoft"," NR33 7NG
+1",1240,52.44488987,1.723288071,3,88-27
+1241,Beccles," 13 Newmarket,Beccles"," NR34 9HD
+1",1241,52.45756901,1.562535957,3,87-27
+1242,Norwich," 50 London St,Norwich"," NR2 1LA
+1",1242,52.6295872,1.2959263,,85-29
+1243,Norwich," 18 White Lion St,Norwich"," NR2 1PX
+1",1243,52.62764155,1.294685021,,85-29
+1244,Norwich," 4 Anglia Sq,Norwich"," NR3 1DY
+1",1244,52.6358763,1.2942929,3,85-29
+1245,Norwich, U2 Harford Place," NR4 6DP
+1",1245,-29.8148655,30.9683575,,
+1246,Norwich," 41 Barker St,Norwich"," NR2 4TN
+1",1246,52.638788,1.282059224,,85-29
+1247,Norwich," U2 Lansdowne Rd,Norwich"," NR6 6NF
+1",1247,52.6648098,1.2786276,,85-30
+1248,Norwich," 82 Colman Rd,Norwich"," NR4 7EH
+1",1248,52.6217784,1.262457928,,84-29
+1249,Norwich," U10 Longwater RP,Norwich"," NR5 0JT
+2",1249,52.65364839,1.180533147,3,84-30
+1251,Grantham," NG33 5JR,"," NG33 5JR
+",1251,52.8023,-0.60989,,72-31
+1254,Bingham," 9 Eaton Pl,Bingham"," NG13 8BD
+1",1254,52.95221185,-0.953269472,,69-33
+1257,Melton Mowbray," 26 Market Pl,Melton Mowbray"," LE13 1XD
+1",1257,52.7647386,-0.886736303,,70-31
+1258,Bourne," PE10 0DY,1"," PE10 0DY
+1",1258,52.7557179,-0.3682318,3,73-31
+1261,Netherfield," U1 Victoria BP,Netherfield"," NG4 2PE
+1",1261,52.96240713,-1.067167575,3,69-33
+1262,Lincoln," LN6 9AJ,1"," LN6 9AJ
+1",1262,53.17751,-0.62641,3,72-35
+1267,Ruddington," NG11 6LJ,2"," NG11 6LJ
+2",1267,52.9504811,-1.1536223,,68-33
+1280,Bury, 16 Princess Pde," BL9 0QL
+",1280,53.5915654,-2.2951796,,60-40
+1281,Bury, U22 The Mall," BL9 0QQ
+",1281,-38.158735,145.1234938,,
+1282,Bury, The Rock SC," BL9 0JN
+",1282,34.7628105,-83.3219221,,
+1286,Bury," U1B Pilsworth Rd,Bury"," BL9 8RZ
+",1286,53.5760099,-2.2742,2,61-40
+1289,Leigh," U3 Parsonage RP,Leigh"," WN7 5SJ
+",1289,53.49964815,-2.52781305,2,59-39
+1290,Hartlepool," 175 Middleton Grange SC,Hartlepool"," TS24 7RR
+",1290,54.68357,-1.21313,2,68-52
+1291,Hartlepool," U2 Powlett Rd,Hartlepool"," TS24 8NA
+",1291,54.6983634,-1.215814,,68-53
+1292,Hartlepool," U6 Belle Vue Way,Hartlepool"," TS25 1QF
+",1292,54.664966,-1.2192906,,68-52
+1293,Hartlepool," The Fens SC,Hartlepool"," TS25 2LS
+",1293,54.7076558,-1.262928,,67-53
+1294,Middlesbrough, U1 Snowdon Rd," TS2 1AG
+",1294,51.308815,-0.7772978,,71-14
+1295,Wolviston," TS22 5PZ,"," TS22 5PZ
+",1295,54.62866552,-1.306634733,,67-52
+1296,Billingham," 57 Queensway,Billingham"," TS23 2ND
+",1296,54.6073177,-1.2918529,,67-52
+1297,Peterlee," 24 Yoden Way,Peterlee"," SR8 1BP
+",1297,54.75949355,-1.334081661,,67-53
+1298,Redcar," U3 Regents Walk,Redcar"," TS10 3FB
+",1298,54.61789316,-1.06666472,2,69-52
+1299,Billingham," 83 Station Rd,Billingham"," TS23 1PA
+",1299,54.5970706,-1.2942185,,67-52
+1300,Middlesbrough," U34 Hill St SC,Middlesbrough"," TS1 1TB
+",1300,54.5771393,-1.2382565,2,68-51
+1301,Middlesbrough," U25 Cleveland SC,Middlesbrough"," TS1 2NR
+",1301,54.5756257,-1.2358819,2,68-51
+1302,Middlesbrough," 12 Gilkes St,Middlesbrough"," TS1 5ET
+",1302,54.5758692,-1.2421381,,68-51
+1303,Eston," U4 Low Grange Farm SC,Eston"," TS6 9TN
+",1303,54.57163,-1.16457,2,68-51
+1304,North Ormesby," 40 Kings Rd,North Ormesby"," TS3 6NF
+",1304,54.5689584,-1.211159,,68-51
+1305,Peterlee," 1 Cook Way,Peterlee"," SR8 2HY
+",1305,54.7628776,-1.369165085,,67-53
+1306,Norton," 51 High St,Norton"," TS20 1AH
+",1306,53.6310791,-1.1724295,,68-41
+1307,Middlesbrough," Newport Rd,Middlesbrough"," TS1 5QH
+",1307,54.5748101,-1.2452261,,68-51
+1308,Stockton," U6A Portrack TP,Stockton on Tees"," TS18 2SL
+",1308,54.57585734,-1.28728694,2,67-51
+1309,Middlesbrough," U1 Park Parade,Middlesbrough"," TS3 7PA
+",1309,54.56208,-1.20536,2,68-51
+1310,Islington," 31 Chapel Market,Islington"," N1 9EN
+",1310,51.5336495,-0.108239451,,75-17
+1311,Holloway," 132 Holloway Rd,Holloway"," N7 8JE
+",1311,51.55056745,-0.109198962,,75-17
+1312,London," U5 Kings Cross Station,London"," N1 9AP
+",1312,45.1821045,7.8702921,2,
+1314,Holborn," 81 Leather Ln,Holborn"," EC1N 7TS
+",1314,51.5213007,-0.1100767,,75-17
+1316,High Holborn," 5 High Holborn,London"," WC1V 6DR
+",1316,51.5182454,-0.1139421,,75-17
+1317,London," U26 Liverpool St Station,London"," EC2M 7PY
+",1317,51.51793151,-0.081929158,2,75-17
+1318,Holborn," 76 Southampton Row,Holborn"," WC1B 4AR
+",1318,51.5190846,-0.1213115,,75-17
+1319,London," 60 Kingsway,London"," WC2B 6DS
+",1319,51.51653155,-0.119365461,,75-17
+1320,London," 83 Old Broad St,London"," EC2M 1PR
+",1320,51.5167933,-0.083394,,75-17
+1321,London," 41 Ludgate Hill,London"," EC4M 7JN
+",1321,51.51387115,-0.102373628,,75-17
+1322,London," 51 Cheapside,London"," EC2V 6AT
+",1322,51.5139637,-0.0932009,,75-17
+1323,London," 154 Bishopsgate,London"," EC2M 4LN
+",1323,51.5169954,-0.080630842,,75-17
+1324,Kentish Town," 311 Kentish Town Rd,Kentish Town"," NW5 2TJ
+",1324,51.5497519,-0.141162358,,75-17
+1325,London, Arch 1 Dwgte Hill," EC4N 6AD
+",1325,fail,fail,,
+1326,London," 143 The Strand,London"," WC2R 1JA
+",1326,51.5113942,-0.11840344,,75-17
+1327,London," 3 Eastcheap,London"," EC3M 1AG
+",1327,51.5106484,-0.0839158,,75-17
+1330,Oldham," U6 Town Sq SC,Oldham"," OL1 1XD
+",1330,53.54167,-2.11225,2,62-40
+1331,Oldham," 23 Henshaw St,Oldham"," OL1 1NH
+",1331,53.547581,-2.1134067,,62-40
+1332,Oldham," OL1 3LG,"," OL1 3LG
+",1332,53.54516925,-2.0956124,,62-40
+1333,Chadderton," U3A Shopping PCT,Chadderton"," OL9 0LQ
+",1333,53.54564,-2.14101,2,61-40
+1334,Manchester," OL8 3RB,"," OL8 3RB
+",1334,53.51868043,-2.144628733,,61-39
+1335,Shaw," 28 Market St,Shaw"," OL2 8NH
+",1335,53.5765873,-2.0939424,,62-40
+1336,Ashton Under Lyne," U3 Arcades SC,Ashton Under Lyne"," OL6 7JD
+",1336,53.48935,-2.09657,2,62-39
+1337,Ashton Under Lyne," 34 Staveleigh Way,Ashton under Lyne"," OL6 7JJ
+",1337,53.48874,-2.09587,2,62-39
+1338,Droylsden," U35 Queens Wlk,Droylsden"," M43 7AD
+",1338,53.48003,-2.14606,2,61-39
+1339,Newhey Road," OL16 4JD,"," OL16 4JD
+",1339,53.6075745,-2.1073712,,62-40
+1340,Manchester," U6 Harpurhey SC,Harpurhey"," M9 4DH
+",1340,53.51227586,-2.21193742,2,61-39
+1341,Stalybridge," 48 Melbourne St,Stalybridge"," SK15 2JJ
+",1341,53.4836275,-2.0575724,,62-39
+1342,Manchester," 998 Ashton New Rd,Clayton"," M11 4PE
+",1342,53.4812981,-2.1692296,,61-39
+1343,Rochdale," U2 Kingsway RP,Rochdale"," OL16 5AF
+",1343,53.61521604,-2.128593671,2,62-40
+1344,Openshaw," U7 Lime Sq,Openshaw"," M11 1DA
+",1344,53.4736716,-2.1652825,2,61-39
+1345,Manchester," M11 4BD,"," M11 4BD
+",1345,53.4832235,-2.1928146,,61-39
+1346,Heywood," OL10 2QH,"," OL10 2QH
+",1346,53.56682,-2.2254,,61-40
+1347,Denton," U2 Crownpoint,Denton"," M34 3LY
+",1347,53.46056,-2.11726,2,62-39
+1348,Rochdale," U9 Riverside Wlk,Rochdale"," OL16 1BE
+",1348,53.61771,-2.15499,2,61-40
+1349,Rochdale," Yorkshire St,Rochdale"," OL16 1EA
+",1349,53.6232154,-2.1451956,,61-41
+1351,Bognor Regis," PO21 5DS,"," PO21 5DS
+",1351,50.803045,-0.6989079,,71-9
+1353,Havant," 1 West St,Havant"," PO9 1EH
+",1353,50.8518253,-0.9849445,,69-9
+1354,Hampshire," PO11 0LG,"," PO11 0LG
+",1354,50.822175,-0.9820346,,69-9
+1355,Leigh Park," U59 Greywell SC,Leigh Park"," PO9 5AH
+",1355,50.86738752,-0.984522157,2,69-9
+1357,Waterlooville," 302 London Rd,Waterlooville"," PO7 7DS
+1",1357,50.8796947,-1.0312689,,69-9
+1359,Cosham," 18 High St,Cosham"," PO6 3BZ
+1",1359,50.8456613,-1.0668025,,69-9
+1360,Portsmouth," 78 London Rd,Portsmouth"," PO2 0LN
+1",1360,50.8153387,-1.0794707,,69-9
+1361,London Road," GU31 4AT,1"," GU31 4AT
+1",1361,50.9234112,-0.9977086,,69-10
+1362,Portsmouth," 240 Commercial Rd,Portsmouth"," PO1 1HG
+1",1362,50.801859,-1.0881198,,69-9
+1363,Portsmouth," 13 Crasswell St,Portsmouth"," PO1 1HA
+1",1363,50.8012869,-1.088204,,69-9
+1364,Paulsgrove," 179 Allaway Ave,Paulsgrove"," PO6 4HG
+1",1364,50.8496248,-1.0939821,,69-9
+1365,Portsmouth," U6 Portsmouth RP,Portsmouth"," PO6 4FG
+1",1365,50.84636917,-1.0957766,3,69-9
+1366,Portsmouth," 120 Commercial Rd,Portsmouth"," PO1 1EJ
+1",1366,50.799623,-1.0906916,,69-9
+1367,Portsmouth, Southsea," PO5 3QQ
+1",1367,50.7888796,-1.0886623,,69-8
+1368,Portsmouth," U4 Charter House,Portsmouth"," PO1 2SB
+1",1368,50.79528241,-1.094390143,3,69-9
+1369,Haselmere," GU27 1LE,1"," GU27 1LE
+1",1369,51.088752,-0.719419606,,71-12
+1378,Armley," 34 Town St,Armley"," LS12 3AB
+",1378,53.7973349,-1.5898437,,65-42
+1379,Hunslet," U6 Hunslet District CTR,Hunslet"," LS10 2AP
+",1379,53.77886609,-1.528449686,2,66-42
+1382,Leeds," West Point,Leeds"," LS1 4JY
+",1382,53.7959382,-1.553469109,,65-42
+1384,Leeds," U1 Boar Lane,Leeds"," LS1 5EQ
+",1384,53.7958941,-1.5460125,,65-42
+1385,Leeds," UC Bond St,Leeds"," LS1 5BQ
+",1385,53.79759328,-1.545881417,2,65-42
+1386,Leeds," U7 Central Arc,Leeds"," LS1 6DX
+",1386,53.7963892,-1.5414573,,65-42
+1387,Leeds," 71 Albion St,Leeds"," LS1 5AA
+",1387,53.7981322,-1.5453145,,65-42
+1388,Leeds," 49 Great George St,Leeds"," LS1 3BB
+",1388,53.8009637,-1.5512891,,65-43
+1389,Leeds," 385 Kirkstall Rd,Leeds"," LS4 2EZ
+",1389,53.8072519,-1.5871044,,65-43
+1391,Wakefield," The Ridings Ctr,Wakefield"," WF1 1YD
+",1391,53.6817283,-1.497224222,,66-41
+1392,Wakefield," U1 Bus Station,Wakefield"," WF1 3AQ
+",1392,53.68566597,-1.49818955,2,66-41
+1393,Wakefield," U36 Trinity Wlk SC,Wakefield"," WF1 1QS
+",1393,53.68461919,-1.495850473,2,66-41
+1394,Wakefield," 77 Stanley Rd,Wakefield"," WF1 4LH
+",1394,53.6879012,-1.4881496,,66-41
+1396,Calder Park," WF2 7UA,"," WF2 7UA
+",1396,53.65579668,-1.522386067,,66-41
+1397,Normanton," 53 High St,Normanton"," WF6 2AF
+",1397,53.70011605,-1.41852645,,66-41
+1398,West Bretton," WF4 4LQ,"," WF4 4LQ
+",1398,53.62187685,-1.547695669,,65-40
+1399,Rothwell," 45 Commercial St,Rothwell"," LS26 0AP
+",1399,53.74839615,-1.477469741,,66-42
+1408,Castleford, Castlford Bus Stn," WF10 1EG
+",1408,53.72527735,-1.356829638,2,67-42
+1411,South Woodford," 168 George Ln,South Woodford"," E18 1AY
+",1411,51.59413455,0.024184221,2,76-18
+1414,Wanstead," 85 High St,Wanstead"," E11 2AE
+",1414,51.5780478,0.0263824,,76-17
+1415,19 Aldersbrook Road," E12 5HH,"," E12 5HH
+",1415,51.56241534,0.033334643,,76-17
+1418,Stratford," U3 Westfield SC,Stratford"," E20 1EH
+",1418,51.5433196,-0.00659871,2,76-17
+1420,Stratford, 52 West Mall," E15 1XE
+",1420,40.78545546,-73.45293727,,
+1427,Barkingside," 75 High St,Barkingside"," IG6 2AF
+",1427,51.5933945,0.0847137,,77-18
+1429,Upton Park," 380 Green St,Upton Park"," E13 9AP
+",1429,51.5359568,0.0349586,,76-17
+1430,St Leonards," Bexhill Rd,St Leonards-on-Sea"," TN38 8FA
+",1430,50.839864,0.475844797,,79-9
+1431,Hastings," 13 Queens Rd,Hastings"," TN34 1QY
+",1431,50.8564234,0.5813846,,80-9
+1432,Eastbourne," U17 Arndale Ctr,Eastbourne"," BN21 3NW
+",1432,50.76902404,0.2835868,2,78-8
+1433,Hailsham," BN27 4DT,1"," BN27 4DT
+1",1433,50.7966229,0.2793773,,78-9
+1435,Tunbridge Wells," 6 Grosvenor Rd,Tunbridge Wells"," TN1 2AH
+2",1435,51.1346806,0.2638831,,78-12
+1436,Staplehurst," TN12 0LA,2"," TN12 0LA
+2",1436,51.2740822,0.523352347,,79-14
+1437,Tunbridge Wells," U7 Fountains RP,Tunbridge Wells"," TN2 3FB
+2",1437,51.1560706,0.2873856,3,78-13
+1438,Paddock Wood," 43 Commercial Rd,Paddock Wood"," TN12 6EN
+2",1438,51.1806259,0.388497,,79-13
+1439,Tonbridge," 22 High St,Tonbridge"," TN9 1EJ
+2",1439,51.29529455,0.408882741,,79-14
+1440,Tonbridge," 86 High St,Tonbridge"," TN9 1AP
+2",1440,51.2001064,0.2764771,,78-13
+1448,Maidstone," Northumberland Crt,Maidstone"," ME15 7LW
+2",1448,51.25276,0.54566,3,80-14
+1470,Woodley," 136 Crockhamwell Rd,Woodley"," RG5 3JH
+",1470,51.4526518,-0.9051472,,70-16
+1471,Lower Earley," Chalfont Way,Lower Earley"," RG6 5TT
+",1471,51.4244405,-0.9343038,,70-16
+1472,Reading," 82 Christchurch Rd,Reading"," RG2 7AZ
+",1472,51.4426345,-0.9551424,,69-16
+1473,Reading," Whiteknights Retail Centre,Reading"," RG2 8HA
+",1473,51.42799985,-0.945730775,2,70-16
+1474,Reading," 70 Whitley St,Reading"," RG2 0EQ
+",1474,51.4450848,-0.9654805,,69-16
+1475,Reading," 38 Market Place,Reading"," RG1 2DE
+",1475,51.4558652,-0.9694153,,69-16
+1476,Reading," 10 Queen Victoria St,Reading"," RG1 1TG
+",1476,51.4564889,-0.9719476,,69-16
+1477,Reading," 18 West St,Reading"," RG1 1TT
+",1477,51.455744,-0.9753353,,69-16
+1478,Reading," 16 Broad St Mall,Reading"," RG1 7QE
+",1478,51.45482264,-0.97649804,2,69-16
+1479,School Green," RG2 9DY,"," RG2 9DY
+",1479,51.4049054,-0.9434882,,70-15
+1480,Wokingham," 6 Broad St,Wokingham"," RG40 1AY
+",1480,51.410652,-0.834503,,70-15
+1481,Reading," RG7 1LZ,"," RG7 1LZ
+",1481,51.39769208,-0.98469092,,69-15
+1482,167 Reading Road," RG9 1DR,"," RG9 1DR
+",1482,51.5299116,-0.8983178,,70-17
+1483,Burghfield," RG30 3UQ,"," RG30 3UQ
+",1483,51.42447543,-1.035519206,,69-16
+1485,Bracknell, Western TC," RG12 1RW
+",1485,48.902716,18.22913354,,
+1486,Bracknell," U34 Braccan Wlk,Bracknell"," RG12 1BE
+",1486,51.41569865,-0.749609982,,71-16
+1487,Yately," 117 Reading Rd,Yately"," GU46 7LR
+",1487,51.34199106,-0.82887847,2,70-15
+1488,Shoppenhangers Road," SL6 2QJ,"," SL6 2QJ
+",1488,51.5091884,-0.7324447,,71-17
+1489,Sandhurst," 39 Yorktown Rd,Sandhurst"," GU47 9DU
+",1489,51.3452149,-0.785911,,71-15
+1490,Bury St Edmunds," 30 Cornhill,Bury St Edmunds"," IP33 1EA
+",1490,52.2465376,0.712226,,81-25
+1491,Bury St Edmunds," 11 Abbeygate St,Bury St Edmunds"," IP33 1UN
+",1491,52.2448184,0.7136422,,81-25
+1492,Bury St Edmunds," IP28 6AE,"," IP28 6AE
+",1492,52.33792508,0.534500292,,80-26
+1493,Thetford," UA3 Breckland RP,Thetford"," IP24 3SA
+1",1493,-11.4319981,-75.6925452,3,
+1494,Thetford," 13 King St,Thetford"," IP24 2AN
+1",1494,52.4138965,0.7489942,,81-27
+1495,A11 Thetford Bypass Westbound," IP24 1QN,1"," IP24 1QN
+1",1495,52.39384125,0.64180945,,80-27
+1496,Stowmarket," 17 Ipswich St,Stowmarket"," IP14 1AH
+1",1496,52.1872744,0.9965924,,83-24
+1497,Newmarket," 66 High St,Newmarket"," CB8 8LB
+1",1497,52.2443947,0.40645,,79-25
+1499,Suffolk," CB8 0XG,1"," CB8 0XG
+1",1499,52.3349135,0.3281122,,78-26
+1500,Cambridgeshire," CB7 5AJ,1"," CB7 5AJ
+1",1500,52.391142,0.2669775,,78-27
+1501,Haverhill," 30 High St,Haverhill"," CB9 8AH
+1",1501,42.77539398,-71.08963314,,
+1502,Needham Market," IP6 8LP,1"," IP6 8LP
+1",1502,52.1476518,1.080500475,3,83-24
+1504,Snetterton Heath," NR16 2JU,1"," NR16 2JU
+1",1504,52.47211383,0.955751129,3,82-27
+1505,Diss," 22 Mere St,Diss"," IP22 4AD
+1",1505,52.3748705,1.1091121,,83-26
+1507,Ipswich," IP1 5FG,2"," IP1 5FG
+2",1507,52.06367,1.10975,3,83-23
+1508,Abington," CB21 6AP,2"," CB21 6AP
+2",1508,52.168837,0.121961909,,77-24
+1530,Camberley," 24 Princess Way,Camberley"," GU15 3SP
+",1530,51.3368876,-0.7471765,,71-15
+1531,Camerley," GU15 2QL,"," GU15 2QL
+",1531,51.32426,-0.75478,,71-15
+1533,Farnborough," 68 Queensmead,Farnborough"," GU14 7SB
+",1533,51.2916271,-0.7561617,,71-14
+1537,Fleet," 239 Fleet Rd,Fleet"," GU51 3BN
+",1537,51.28085065,-0.842232052,,70-14
+1538,Aldershot," 33 Wellington St,Aldershot"," GU11 1DX
+",1538,51.2491422,-0.7639249,,71-14
+1539,Aldershot," GU12 4NE,"," GU12 4NE
+",1539,51.2429414,-0.7510829,,71-14
+1541,Tongham," GU10 1DN,"," GU10 1DN
+",1541,51.2292,-0.73913,,71-13
+1542,Hogsback A31," GU10 1EU,"," GU10 1EU
+",1542,51.2259248,-0.725893725,,71-13
+1543,Woking, U136 Woking SC," GU21 6XX
+",1543,51.31930873,-0.559019033,2,72-14
+1544,Woking Road," GU1 1NH,"," GU1 1NH
+",1544,51.2610155,-0.57385315,,72-14
+1546,Guildford," 42 North St,Guildford"," GU1 4TE
+",1546,51.236173,-0.5751188,,72-14
+1550,Stratford," 2B Bridge St,Stratford Upon Avon"," CV37 6AB
+",1550,52.1926981,-1.7050602,,64-24
+1551,Stratford," Maybird RP,Stratford"," CV37 0HZ
+",1551,52.20129715,-1.712637997,,64-24
+1552,Warwick," 20 Swan St,Warwick"," CV34 4BJ
+",1552,52.2814045,-1.5892094,,65-25
+1553,Warwick," UN Leamington SP,Warwick"," CV34 6RH
+",1553,52.27815842,-1.5469699,2,65-25
+1554,Leamington Spa," 19 The Parade,Leamington Spa"," CV32 4DE
+1",1554,52.29256543,-1.535654925,3,66-25
+1555,Gaydon," CV35 0HA,1"," CV35 0HA
+1",1555,52.28346855,-1.527913119,,66-25
+1556,Redditch," Moons Moat Dr,Redditch"," B98 9HN
+1",1556,52.3103039,-1.9054532,,63-26
+1557,Kenilworth," 19 Warwick Rd,Kenilworth"," CV8 1HN
+1",1557,52.3419757,-1.57817065,,65-26
+1558,Redditch," Washford TP,Redditch"," B98 0GZ
+1",1558,52.2840346,-1.9027588,,63-25
+1559,Evesham," 14 Bridge St,Evesham"," WR11 4RR
+1",1559,52.0916498,-1.9437215,,63-23
+1560,Redditch," 8 Kingfisher Wlk,Redditch"," B97 4EY
+1",1560,52.3060366,-1.9431857,,63-26
+1561,Gloucestershire," GL56 0DS,1"," GL56 0DS
+1",1561,51.9846825,-1.7052617,3,64-22
+1562,Coventry," U7 Cannon Park SC,Canley"," CV4 7EH
+1",1562,52.38771895,-1.554637825,3,65-27
+1563,Solihull," Touchwood SC,Solihull"," B91 3GS
+1",1563,52.4164635,-1.7785567,,64-27
+1564,Solihull," 33 High St,Solihull"," B91 3SJ
+1",1564,52.3877247,-1.7336952,,64-27
+1565,Coventry," 38 Jardine Cres,Tile Hill"," CV4 9PQ
+1",1565,52.4065544,-1.5779212,,65-27
+1566,Coventry, UA2 Island Site," CV5 6UA
+1",1566,52.40325669,-1.5575576,3,65-27
+1567,Shirley," U14 Parkgate SC,Shirley"," B90 3GG
+1",1567,52.41289208,-1.828789673,3,64-27
+1568,Coventry," 2A Earlsdon St,Coventry"," CV5 6EG
+1",1568,52.3998554,-1.531061886,,66-27
+1569,Coventry," 137 Daventry Rd,Cheylesmore"," CV3 5HD
+1",1569,52.39444635,-1.50662734,,66-27
+1570,Worksop," 10 Bridge St,Worksop"," S80 1JQ
+",1570,53.3014981,-1.1245106,,68-37
+1571,Worksop," S80 3NE,"," S80 3NE
+",1571,53.31476,-1.13971,,68-37
+1572,Blyth," S81 8HG,"," S81 8HG
+",1572,53.38208,-1.06227,,69-38
+1573,Dinnington," S25 3QZ,"," S25 3QZ
+",1573,53.37545,-1.22618,,68-38
+1577,Sheffield, U2 Beighton BP," S20 1DJ
+",1577,53.3549659,-1.32968965,2,67-37
+1578,Sheffield," U41 Crystal Peaks,Sheffield"," S20 7PN
+",1578,53.342416,-1.3502367,,67-37
+1579,Markham Lane," S44 5HY,"," S44 5HY
+",1579,53.24166,-1.3279399,,67-36
+1582,Mansfield," U7 Old Mill Lane IE,Mansfield"," NG19 9BG
+1",1582,53.15632,-1.18827,3,68-35
+1583,Chesterfield," S44 5SF,1"," S44 5SF
+1",1583,53.2393974,-1.4194602,,66-36
+1584,Mansfield," 11 Westgate,Mansfield"," NG18 1RY
+1",1584,53.14500905,-1.197180379,,68-35
+1585,Mansfield," 19 Market Pl,Mansfield"," NG18 1HZ
+1",1585,53.1653069,-1.1933111,,68-35
+1586,Rossington," U2 Rossington Market,New Rossington"," DN11 0TS
+1",1586,53.4779849,-1.0785799,3,69-39
+1587,Mansfield," U8 St Peters RP,Mansfield"," NG18 1BE
+1",1587,53.1406789,-1.1985526,3,68-35
+1588,Mansfield," U2 Southwll Rd Wst Drive Thru,Mansfield"," NG21 0HJ
+1",1588,53.1295296,-1.145984425,3,68-35
+1611,Leeds, U5 The Light SC," LS1 8EQ
+",1611,53.79959481,-1.544352689,2,65-42
+1612,Leeds, U13 The Light SC," LS1 8EQ
+",1612,53.79959481,-1.544352689,2,65-42
+1613,Leeds," U39 Merrion SC,Leeds"," LS2 8NG
+",1613,53.80178462,-1.544278116,2,65-43
+1614,Leeds," 68 Merrion St,Leeds"," LS2 8LW
+",1614,53.8008738,-1.5435532,,65-43
+1617,Leeds," 57 The Headrow,Leeds"," LS1 6LR
+",1617,53.7995654,-1.5468206,,65-42
+1621,Leeds," 21 Kirkgate,Leeds"," LS2 7JG
+",1621,53.7969787,-1.5405446,,66-42
+1622,Leeds," Central Bus Station,Leeds"," LS2 7HU
+",1622,53.797298,-1.5359894,,66-42
+1627,Leeds," 355 Harehills Lane,Leeds"," LS9 6AX
+",1627,53.8091677,-1.5090618,,66-43
+1629,Leeds," Northside RP,Leeds"," LS7 2TT
+",1629,53.8287609,-1.564436834,,65-43
+1630,Cwmbran," 6 Monmouth Wlk,Cwmbran"," NP44 1PE
+",1630,51.6520752,-3.0220994,,55-18
+1631,Cwmbran," 7 The Parade,Cwmbran"," NP44 1QR
+",1631,51.653447,-3.0232211,,55-18
+1632,Cwmbran, U7 Gwent Sq," NP44 1PN
+",1632,51.65376935,-3.02107657,,55-18
+1633,Newport, U4," NP20 6WB
+",1633,48.210088,16.3842213,,
+1634,," NP4 0XB,"," NP4 0XB
+",1634,51.69260392,-3.021253583,,55-19
+1635,Pontypool," 9 George St,Pontypool"," NP4 6LR
+",1635,51.7116456,-3.0526455,,55-19
+1636,Risca," 43A Tredegar St,Risca"," NP11 6BW
+",1636,51.6100424,-3.1011498,,55-18
+1637,Newport," 141 Caerleon Rd,Newport"," NP19 7FW
+",1637,51.5961374,-2.9826573,,56-18
+1638,Newport," 31 High St,Newport"," NP20 1GH
+",1638,51.5882059,-2.9967196,,56-17
+1639,Newport," U29 Friars Walk SC,Newport"," NP20 1DU
+",1639,51.58667018,-2.993566571,2,56-17
+1640,Newbridge," 16 High St,Newbridge"," NP11 4EZ
+",1640,51.39674615,-2.393095588,,60-15
+1641,Newport," U3 Langland Way,Newport"," NP19 4PT
+",1641,51.5752126,-2.963355,,56-17
+1642,Newport, Coedkernew," NP10 8BB
+",1642,51.5491768,-3.0383979,,55-17
+1643,Newport," U19A Newport RP,Newport"," NP19 4QQ
+",1643,51.57719406,-2.943792219,2,56-17
+1644,Newport," NP19 4TX,"," NP19 4TX
+",1644,51.57603785,-2.94644895,,56-17
+1648,Bedwas," U5A Bedwas IE,Bedwas"," CF83 8DU
+",1648,51.59116,-3.20346,2,54-18
+1649,Caerphilly, 6 Alfrd Own Wy," CF83 3HU
+",1649,51.5892591,-3.227558333,2,54-18
+1650,Stoke on Trent," U2 Baths Rd,Stoke on Trent"," ST3 2JB
+",1650,52.9903465,-2.1391009,,61-33
+1651,Stoke-on-Trent," ST4 2LT,"," ST4 2LT
+",1651,52.9972316,-2.1586697,,61-33
+1652,Hanley," 2 Upper Market Sq,Hanley"," ST1 1NS
+",1652,53.02648725,-2.174644563,,61-34
+1653,Newcastle Under Lyme," U15 Castle Wlk,Newcastle Under Lyme"," ST5 1AN
+",1653,53.0114977,-2.2255397,,61-34
+1654,Staffordshire," U6 Keele University,Staffordshire"," ST5 5BG
+",1654,53.00241958,-2.2720948,2,61-33
+1655,Stoke-On-Trent," ST7 1UP,"," ST7 1UP
+",1655,53.06331403,-2.252563633,,61-34
+1656,Staffordshire," ST15 0EU,"," ST15 0EU
+",1656,52.88389773,-2.171784017,,61-32
+1658,Uttoxeter," 10 High St,Uttoxeter"," ST14 7HT
+1",1658,52.8987435,-1.8650427,,63-32
+1659,Stafford," 58 Greengate St,Stafford"," ST16 2JE
+1",1659,52.8068363,-2.1174678,,62-31
+1660,A50," ST14 5AA,1"," ST14 5AA
+1",1660,52.98209045,-1.943150395,,63-33
+1661,Stafford, U4A Riverside," ST16 3AL
+1",1661,52.80512,-2.11284,3,62-31
+1662,Crewe," Beswick Dr,Crewe"," CW1 5NP
+1",1662,53.0935394,-2.4147389,,60-35
+1663,Shavington," CW2 5UZ,1"," CW2 5UZ
+1",1663,52.99963775,-2.351106554,,60-33
+1664,Cheshire," CW1 6FL,1"," CW1 6FL
+1",1664,53.08779375,-2.431496901,,59-34
+1665,Sandbach, Saxon Cross SS," CW11 4SP
+1",1665,50.8759615,0.048323,,76-9
+1666,Crewe," 62 Market St,Crewe"," CW1 2HD
+1",1666,53.0960326,-2.4417174,,59-35
+1668,Ashbourne, U6.2 Blenheim Rd," DE6 1HA
+1",1668,53.0061811,-1.7141663,3,64-34
+1669,Rugeley," 23 Lower Brook St,Rugeley"," WS15 2BZ
+1",1669,52.759622,-1.9356883,,63-31
+1670,Chatham," 176 High St,Chatham"," ME4 4AS
+",1670,51.3826638,0.5249928,,79-15
+1671,Chatham," U58 Pentagon SC,Chatham"," ME4 4HP
+",1671,51.38357997,0.525927533,2,79-15
+1672,Chatham," ME4 4UG,"," ME4 4UG
+",1672,51.3924499,0.53319,,80-15
+1673,Rainham," U3 Rainham SC,Rainham"," ME8 7HW
+",1673,51.3641405,0.607822388,2,80-15
+1674,Rainham," ME8 8PQ,"," ME8 8PQ
+",1674,51.34115142,0.60769386,,80-15
+1675,Maidstone," 6 Coleman Pde,Maidstone"," ME14 1DJ
+",1675,51.2739706,0.5240145,2,79-14
+1676,Maidstone," 208 Chequers SC,Maidstone"," ME15 6AR
+",1676,51.27286648,0.5253826,2,79-14
+1677,Chalk," DA12 4TN,"," DA12 4TN
+",1677,51.43174345,0.39606195,,79-16
+1679,Sittingbourne," ME10 1QB,"," ME10 1QB
+",1679,51.34417505,0.71435955,,81-15
+1680,Gravesend," DA11 7NP,"," DA11 7NP
+",1680,51.41838216,0.356449915,,78-16
+1681,Gravesend," U79 Thamegate SC,Gravesend"," DA11 0AF
+",1681,51.44221858,0.367896,2,78-16
+1683,Wrotham Heath," TN15 7RX,"," TN15 7RX
+",1683,51.297908,0.3423782,,78-14
+1688,Grays," 44 High St,Grays"," RM17 6NA
+1",1688,51.4771099,0.322750638,,78-16
+1689,Dartford, Bluewater SC," DA9 9ST
+1",1689,32.8688574,-80.0119782,,
+1704,Southfields," 8 Replingham Rd,Southfields"," SW18 5LS
+",1704,51.44463965,-0.205981914,,75-16
+1717,Milton Keynes," MK43 0PZ,"," MK43 0PZ
+",1717,52.06515053,-0.55361585,,72-23
+1718,Buckingham," MK18 1RY,1"," MK18 1RY
+1",1718,51.9886946,-0.9874023,3,69-22
+1719,Toddington," LU5 6HR,1"," LU5 6HR
+1",1719,51.8826494,-0.414293843,,73-21
+1725,Bedford," U19 Harpur SC,Bedford"," MK40 1TQ
+1",1725,52.13606,-0.46929,3,73-24
+1726,Bedford," 13 All Hallows,Bedford"," MK40 1LN
+1",1726,52.13776314,-0.47027892,3,73-24
+1755,Sutton In Ashfield," U30 The Idlewells SC,Sutton in Ashfield"," NG17 1BN
+",1755,53.12494,-1.26218,2,67-35
+1756,Sutton in Ashfield," Castlewood BP,Sutton in Ashfield"," NG17 1BX
+",1756,53.1102,-1.29933,2,67-35
+1757,Derbyshire," DE55 2AS,"," DE55 2AS
+",1757,53.100696,-1.344822667,,67-35
+1758,Chesterfield," S44 5SF,"," S44 5SF
+",1758,53.2009491,-1.3408362,,67-36
+1760,Alfreton," U1B Nottingham Rd,Alfreton"," DE55 4LQ
+",1760,53.0870522,-1.3757525,2,67-34
+1761,Alfreton," 1 Institute Lane,Alfreton"," DE55 7BQ
+",1761,53.0970531,-1.388147264,,67-35
+1763,Derbyshire," DE55 1HJ,"," DE55 1HJ
+",1763,53.08701583,-1.394723433,,66-34
+1767,Ripley," 28 Oxford St,Ripley"," DE5 3AP
+1",1767,53.0499356,-1.405351272,,66-34
+1768,Chesterfield," 8 Burlington St,Chesterfield"," S40 1RR
+1",1768,53.2359582,-1.4268268,,66-36
+1769,Chesterfield," 38 Burlington St,Chesterfield"," S40 1RR
+1",1769,53.2360755,-1.42588,,66-36
+1786,Derby, U13 Eagle Park," DE21 4AE
+1",1786,54.5218463,-1.1882506,,68-51
+1788,Chaddesden, U5 St Marys RP," DE21 6PE
+1",1788,fail,fail,,
+1790,Railway Road," WN8 8TL,"," WN8 8TL
+",1790,53.5506662,-2.8086737,,57-40
+1791,Wigan," UH Robin RP,Wigan"," WN5 0UH
+",1791,53.54369215,-2.6535378,2,58-40
+1792,Ormskirk," L39 3LU,"," L39 3LU
+",1792,53.56563,-2.89315,,56-40
+1793,Wigan," WN5 0XA,"," WN5 0XA
+",1793,53.5432214,-2.6508071,,58-40
+1794,Wigan," 21 Market Pl,Wigan"," WN1 1PE
+",1794,53.5463893,-2.6313637,,58-40
+1796,Kirkby," 11 Saint Chads Pde,Kirkby"," L32 8RD
+",1796,53.48175,-2.88723,2,56-39
+1797,Knowsley," L33 7TU,"," L33 7TU
+",1797,50.891253,-2.818681599,,57-10
+1798,St Helens," Church Sq SC,St Helens"," WA10 1BD
+",1798,53.45216,-2.73637,2,57-39
+1799,St Helens," 111 Higher Parr St,Fingerpost"," WA9 1AG
+",1799,53.4529265,-2.723271,,57-39
+1801,Huyton," L36 8HL,"," L36 8HL
+",1801,53.42723,-2.82908,,57-38
+1806,Liverpool," L36 7TX,"," L36 7TX
+",1806,53.41292175,-2.83674885,,57-38
+1809,Huyton," 45 Derby Rd,Huyton"," L36 9UQ
+",1809,53.4116503,-2.8391397,,57-38
+1810,Erith," U23 Riverside SC,Erith"," DA8 1RE
+",1810,51.4801892,0.1799953,2,77-16
+1811,Crayford, U1 Tower RP," DA1 4LD
+",1811,49.9728183,8.1516643,,
+1812,Purfleet," RM19 1TS,"," RM19 1TS
+",1812,51.4875721,0.2482976,,78-16
+1813,Dartford," 15 Priory SC,Dartford"," DA1 2HR
+",1813,51.4435924,0.2168022,2,77-16
+1814,Dartford," 28 High St,Dartford"," DA1 1BZ
+",1814,51.44444555,0.218150644,,77-16
+1815,Thamesmead," U6 Joyce Dawson Way,Thamesmead"," SE28 8RA
+",1815,51.50682,0.10689,2,77-17
+1816,Plumstead," 6 Lakedale Rd,Plumstead"," SE18 1PP
+",1816,51.4842866,0.0911989,,77-16
+1817,West Thurrock," RM16 3BG,"," RM16 3BG
+",1817,51.49184307,0.27187377,,78-16
+1818,Dagenham," 214 Heathway,Dagenham"," RM10 8RD
+",1818,51.540545,0.148319414,,77-17
+1819,Woolwich," 6 Powis St,Woolwich"," SE18 6LF
+",1819,51.4920624,0.0643195,,76-16
+1820,Thurrock," U58B Intu Lakeside SC,Thurrock"," RM20 2ZT
+",1820,51.48822413,0.2832565,2,78-16
+1821,Thurrock," U5 Intu Lakeside SC,Thurrock"," RM20 2ZT
+",1821,51.48822413,0.2832565,2,78-16
+1822,Woolwich," 64 Powis St,Woolwich"," SE18 6LQ
+",1822,51.4920624,0.0643195,,76-16
+1823,Sidcup," 51 High St,Sidcup"," DA14 6ED
+",1823,51.42632085,0.103453733,,77-16
+1824,Hornchurch," 12 Broadway Pde,Elm Park"," RM12 4RS
+",1824,51.55063,0.19812,2,77-17
+1827,Eltham," 166 High St,Eltham"," SE9 1BJ
+",1827,-39.4406391,174.2995515,,
+1828,Barking," 59 East St,Barking"," IG11 8EJ
+",1828,51.5378014,0.078970244,,76-17
+1870,Cambuslang," 136 Main St,Cambuslang"," G72 7EL
+",1870,55.8200709,-4.1744451,,48-65
+1871,Cambuslang," 151 Western Rd,Cambuslang"," G72 8PE
+",1871,55.8089204,-4.180112544,,48-65
+1872,Glasgow," 2224 London Rd,Glasgow"," G32 8YG
+",1872,55.8449005,-4.194199,,48-66
+1873,Glasgow," G32 8XQ,"," G32 8XQ
+",1873,55.83900498,-4.1762439,,48-66
+1874,Burnside," 224 Stonelaw Rd,Burnside"," G73 3SA
+",1874,55.8166733,-4.2013425,,47-65
+1875,Rutherglen," 210 Main St,Rutherglen"," G73 2HP
+",1875,55.8283587,-4.210808,,47-65
+1876,Rutherglen," 72 Main St,Rutherglen"," G73 2HY
+",1876,55.8283587,-4.210808,,47-65
+1877,Glasgow," 1029 Shettleston Rd,Glasgow"," G32 7PB
+",1877,55.8514717,-4.1609967,,48-66
+1878,Glasgow," 3 Budhill Ave,Shettleston"," G32 0PW
+",1878,55.8541497,-4.1620907,,48-66
+1879,East Kilbride," Kingsgate SP,East Kilbride"," G74 4UN
+",1879,55.7825915,-4.1672986,2,48-65
+1880,Glasgow," The Forge SC,Glasgow"," G31 4EB
+",1880,55.85458833,-4.202764067,2,47-66
+1881,Glasgow, U1A," G33 4RJ
+",1881,45.4459198,28.02640922,,
+1882,Baillieston," 80 Main St,Baillieston"," G69 6SL
+",1882,55.8519144,-4.1073295,,48-66
+1883,Castlemilk," U27 Castlemilk Arcade,Castlemilk"," G45 9AA
+",1883,55.80667,-4.23512,2,47-65
+1884,Glasgow," U15 Forge RP,Glasgow"," G31 4BW
+",1884,55.85462813,-4.213338775,2,47-66
+1885,Bridgeton," 613 London Rd,Bridgeton"," G40 1NE
+",1885,55.8520285,-4.2341618,,47-66
+1886,Glasgow," 428A Carmunnock Rd,Glasgow"," G44 5EH
+",1886,55.8018494,-4.2451453,,47-65
+1887,Uddingston," 49 Main St,Uddingston"," G71 7EP
+",1887,55.8190314,-4.0823883,,48-65
+1888,Glasgow," G5 0BA,"," G5 0BA
+",1888,55.8338565,-4.2332806,,47-65
+1889,Glasgow," 543 Duke St,Glasgow"," G31 1DL
+",1889,55.8585669,-4.2173516,,47-66
+1890,West Bromwich," Sandwell CTR,West Bromwich"," B70 7NN
+",1890,52.5262682,-2.007192516,,62-28
+1891,West Bromwich," U20A New Sq SC,West Bromwich"," B70 7PP
+",1891,52.52015935,-1.9913986,2,62-28
+1892,West Bromwich," Birmingham Rd,West Bromwich"," B71 4JZ
+",1892,52.5129331,-1.9843712,,62-28
+1894,West Bromwich," 146 Walsall Rd,West Bromwich"," B71 3HP
+",1894,52.537858,-1.9864117,,62-28
+1895,Smethwick," 25 Cape Hill,Smethwick"," B66 4RX
+",1895,52.4869683,-1.9547732,,63-28
+1896,Wednesbury," 14 Union St,Wednesbury"," WS10 7HD
+",1896,52.5526413,-2.020169,,62-28
+1897,Handsworth," 216 Soho Rd,Handsworth"," B21 9LR
+",1897,52.504236,-1.9393509,,63-28
+1899,Smethwick," 573 Bearwood SC,Smethwick"," B66 4BH
+",1899,52.47481084,-1.9690941,2,63-28
+1900,Great Barr," Scott Arms SC,Great Barr"," B42 1TQ
+",1900,52.54515551,-1.933192221,2,63-28
+1906,Perry Barr, One Stop SC," B42 1AA
+",1906,34.25774325,-82.08975409,,
+1907,Perry Barr," 97 Thornbridge Ave,Perry Barr"," B42 2AB
+",1907,52.5352014,-1.9000316,,63-28
+1908,Birmingham," 51 Warstone Ln,Birmingham"," B18 6NG
+",1908,52.4873764,-1.9102742,,63-28
+1926,Shirley," 45 High St,Shirley"," SO15 3NN
+2",1926,52.4050652,-1.8659904,,63-27
+1927,Southampton," 8 East St,Southampton"," SO14 3HE
+2",1927,50.901906,-1.403137723,,66-10
+1928,Southampton," 51 Above Bar St,Southampton"," SO14 7DZ
+2",1928,50.91025,-1.4048452,,66-10
+1929,Southampton," 101 Above Bar St,Southampton"," SO14 7FG
+2",1929,50.9061689,-1.404731277,,66-10
+1930,Kings Lynn," Ue5 Vancouver SC,Kings Lynn"," PE30 1DP
+",1930,52.7542987,0.397499425,2,79-31
+1931,Kings Lynn," 93 High St,Kings Lynn"," PE30 1BL
+",1931,52.75431208,0.39496894,2,79-31
+1932,Kings Lynn," Hansa Rd,Kings Lynn"," PE30 4HX
+",1932,52.74113765,0.4113738,2,79-31
+1933,Downham Market," U1 Wales Crt,Downham Market"," PE38 9JZ
+1",1933,52.6022366,0.3771498,,78-29
+1934,Long Sutton," PE12 9ED,1"," PE12 9ED
+1",1934,52.7817491,0.1265731,3,77-31
+1935,Swaffam," PE37 7TZ,1"," PE37 7TZ
+1",1935,52.6523977,0.7245032,3,81-30
+1936,March," 33 Broad St,March"," PE15 8TP
+1",1936,52.5509995,0.08858447,,77-28
+1937,Fakenham," U14 Miller'S Wlk,Fakenham"," NR21 9AP
+1",1937,-1.5653704,30.0335513,2,
+1938,Lincolnshire," PE20 2LG,2"," PE20 2LG
+2",1938,52.89032485,-0.081965675,3,75-32
+1941,East Dereham," U1 Nelson Pl,Dereham"," NR19 1EA
+2",1941,52.6808002,0.9417893,,82-30
+1942,Spalding," 8 Hall Pl,Spalding"," PE11 1SA
+2",1942,52.7873203,-0.1523015,,75-31
+1943,Spalding," PE12 6FY,2"," PE12 6FY
+2",1943,52.7888387,-0.157209102,,75-31
+1945,A11 Thetford Bypass Westbound," IP24 1QN,2"," IP24 1QN
+2",1945,52.428722,0.656438,,80-27
+1947,Peterborough," PE6 7SZ,2"," PE6 7SZ
+2",1947,52.5430805,-0.2773041,,74-28
+1948,Skegness," 76 Lumley Rd,Skegness"," PE25 3NG
+2",1948,53.1429202,0.3388561,,78-35
+1972,Spalding," PE12 6FY,"," PE12 6FY
+",1972,52.76089,-0.15864,,75-31
+1973,Lincolnshire," PE20 2LG,"," PE20 2LG
+",1973,52.89032485,-0.081965675,,75-32
+1974,Bourne," PE10 0DY,"," PE10 0DY
+",1974,52.75573,-0.3682,,73-31
+1977,Peterborough," PE6 7SZ,1"," PE6 7SZ
+1",1977,52.5685709,-0.2702299,,74-29
+1980,Peterborough," 22 Long Causeway,Peterborough"," PE1 1TS
+1",1980,52.5732719,-0.2422018,,74-29
+1981,Peterborough," U94 Queensgate SC,Peterborough"," PE1 1NS
+1",1981,52.5737688,-0.2419084,3,74-29
+1982,Peterborough," 27 Bridge St,Peterborough"," PE1 1HJ
+1",1982,52.5716488,-0.2420727,,74-29
+1983,Peterborough," Fletton Quays,Peterborough"," PE2 8TY
+1",1983,52.5672268,-0.239372181,,74-29
+1985,Peterborough, Orton," PE2 5TD
+1",1985,54.42770975,-2.529804774,,59-50
+1986,Peterborough," PE7 3UJ,1"," PE7 3UJ
+1",1986,52.5377548,-0.2962422,,74-28
+1987,Grantham," NG33 5JR,1"," NG33 5JR
+1",1987,52.9065288,-0.6429857,,72-32
+1992,Minster On Sea," ME12 3EN,"," ME12 3EN
+",1992,51.41454545,0.7587332,,81-16
+2002,Faversham," ME13 9EL,1"," ME13 9EL
+1",2002,51.2781564,0.9398825,,82-14
+2003,Kent," ME13 9LN,1"," ME13 9LN
+1",2003,51.2781564,0.9398825,,82-14
+2009,Staplehurst," TN12 0LA,1"," TN12 0LA
+1",2009,51.1694874,0.55754566,,80-13
+2021,Croydon," 251 Lower Addiscombe Rd,Croydon"," CR0 6RD
+",2021,51.3806355,-0.0723023,,75-15
+2027,South Norwood," 89 High St,South Norwood"," SE25 6EA
+",2027,51.3993029,-0.0748915,,75-15
+2030,Slough," 1 Mackenzie St,Slough"," SL1 1XQ
+",2030,51.5093699,-0.59378,2,72-17
+2031,Slough," 223 High St,Slough"," SL1 1BY
+",2031,51.5103314,-0.5975034,,72-17
+2032,Slough," Buckingham CTR SC,Slough"," SL1 4RD
+",2032,51.5213569,-0.6256474,2,72-17
+2033,Slough, Westgate RP," SL1 5PS
+",2033,49.4412538,7.5738916,,
+2034,Cippenham," 413 Bath Rd,Cippenham"," SL1 5QL
+",2034,51.5205245,-0.6589288,,71-17
+2035,Windsor Road," SL6 1UZ,"," SL6 1UZ
+",2035,51.5060129,-0.7127113,,71-17
+2036,Maidenhead," 43 High St,Maidenhead"," SL6 1JF
+",2036,51.5227019,-0.7200765,,71-17
+2037,Beaconsfield," HP9 2SE,"," HP9 2SE
+",2037,51.59004956,-0.62817374,,72-18
+2042,Staines," U1 The Causeway,Staines"," TW18 3AY
+",2042,51.4334243,-0.5213644,,72-16
+2043,Staines," 60 High St,Staines"," TW18 4DY
+",2043,51.4341564,-0.511290681,,72-16
+2047,Oxford Road," HP9 1UB,"," HP9 1UB
+",2047,51.59996,-0.66846,,71-18
+2049,Clockhouse Lane," TW14 8RD,"," TW14 8RD
+",2049,fail,fail,,
+2050,Coatbridge," 62 Main St,Coatbridge"," ML5 3BQ
+",2050,55.8606929,-4.0191453,,49-66
+2051,Coatbridge," U11 Faraday RP,Coatbridge"," ML5 3PG
+",2051,55.85703,-4.0193199,2,49-66
+2052,Airdrie," 68 Graham St,Airdrie"," ML6 6DB
+",2052,55.8664796,-3.973711,,49-66
+2053,Bellshill," 13A Hamilton Rd,Bellshill"," ML4 1AF
+",2053,55.8148045,-4.0277732,,49-65
+2054,Uddingston," 319 Old Edinburgh Rd,Uddingston"," G71 6BP
+",2054,55.83113,-4.07574,2,48-65
+2057,Glasgow, Easterhouse," G34 9DT
+",2057,55.8667437,-4.1058084,,48-66
+2058,Motherwell," U2 Carfin RP,Motherwell"," ML1 4GN
+",2058,55.80732,-3.96288,2,49-65
+2060,Glasgow," UB1 Glasgow Fort,Glasgow"," G34 9DY
+",2060,55.872881,-4.1329246,,48-66
+2061,Motherwell," 32 Brandon Pde,Motherwell"," ML1 1LY
+",2061,55.7894523,-3.9907618,,49-65
+2062,Motherwell," 61 Brandon Pde,Motherwell"," ML1 1RB
+",2062,55.7894523,-3.9907618,,49-65
+2064,Blantyre," U8 Clydeview SC,Blantyre"," G72 0QD
+",2064,55.79264,-4.08922,2,48-65
+2067,Motherwell," Windmillhill St,Motherwell"," ML1 2UA
+",2067,55.7848139,-3.9827446,,49-65
+2069,Hamilton," 7 Quarry St,Hamilton"," ML3 7AW
+",2069,-27.4391553,153.0608902,,
+2074,Hedon," HU12 8DJ,2"," HU12 8DJ
+2",2074,53.7724088,-0.268468415,,74-42
+2080,Shipton Thorpe," YO43 3PN,2"," YO43 3PN
+2",2080,53.87414433,-0.70154015,3,71-43
+2082,Lewisham," U13 The Mall,Lewisham"," SE13 7EP
+",2082,51.46209337,-0.01114665,2,76-16
+2083,Forest Hill," SE23 1HP,"," SE23 1HP
+",2083,51.44239,-0.04347,,76-16
+2084,Bromley," 439 Bromley Rd,Bromley"," BR1 4PH
+",2084,42.787081,-76.194231,,
+2085,Blackheath," 28 Tranquil Vale,Blackheath"," SE3 0AX
+",2085,51.46626175,0.008969216,,76-16
+2086,Deptford," 91 Deptford High St,Deptford"," SE8 4AA
+",2086,51.47709055,-0.026003205,,76-16
+2087,Greenwich," 5 Greenwich Church St,Greenwich"," SE10 9BJ
+",2087,51.48079975,-0.00972812,,76-16
+2088,Penge," 139 High St,Penge"," SE20 7DS
+",2088,51.4159038,-0.0540562,,76-16
+2089,Greenwich," 182 Trafalgar Rd,Greenwich"," SE10 9TZ
+",2089,51.48505565,0.004940191,,76-16
+2092,Bromley," 112 High St,Bromley"," BR1 1HG
+",2092,51.4036242,0.0149195,,76-15
+2093,Bromley," 15 High St,Bromley"," BR1 1LF
+",2093,51.4007238,0.0170934,,76-15
+2095,London," SE10 0PH,"," SE10 0PH
+",2095,51.5002715,0.003555367,,76-17
+2098,Canary Wharf," U365 Cabot Square West,Canary Wharf"," E14 4QS
+",2098,51.5050379,-0.020763267,2,76-17
+2105,Liverpool," L35 1QT,"," L35 1QT
+",2105,53.3985,-2.8141,,57-38
+2106,Liverpool," Belle Vale SC,Liverpool"," L25 2RG
+",2106,53.3950738,-2.8641778,,57-38
+2107,Liverpool," 549 Prescot Rd,Old Swan"," L13 5UR
+",2107,53.4137968,-2.9118084,,56-38
+2109,Liverpool Road," L13 0AR,"," L13 0AR
+",2109,53.42248,-2.91505,,56-38
+2111,Liverpool," 565 West Derby Rd,Tuebrook"," L13 8AD
+",2111,53.4233919,-2.9378269,,56-38
+2116,Widnes," 101 Widnes Rd,Widnes"," WA8 6BJ
+",2116,53.3677179,-2.7262518,,57-38
+2119,Liverpool," U5 Brownlow Hill,Liverpool"," L3 5TY
+",2119,53.4058924,-2.9677489,,56-38
+2120,Liverpool," 2A Catharine St,Liverpool"," L8 7NL
+",2120,53.3987181,-2.9685342,,56-38
+2139,Warrington," Winwick Rd,Warrington"," WA2 9SX
+",2139,53.4051708,-2.5942763,,58-38
+2142,Bishops Stortford," U2 South St,Bishops Stortford"," CM23 3AT
+",2142,51.8691699,0.16006,2,77-21
+2143,Harlow," 1A Broadwalk,Harlow"," CM20 1HX
+",2143,51.77047136,0.094230114,2,77-20
+2144,Harlow," U3 The Watergardens SC,Harlow"," CM20 1AN
+",2144,51.76767187,0.094998967,2,77-20
+2145,Harlow," 6 Bush Fair SC,Harlow"," CM18 6PA
+",2145,51.7577269,0.1126667,2,77-19
+2146,Buntingford," SG9 9EG,"," SG9 9EG
+",2146,51.94811311,-0.027078478,,76-22
+2147,Hoddesdon," EN11 8SX,1"," EN11 8SX
+1",2147,51.6543967,0.01747497,,76-18
+2148,Hertford," 5 Railway St,Hertford"," SG14 1BG
+1",2148,51.79680625,-0.077469364,,75-20
+2149,Epping," 257 High St,Epping"," CM16 4BP
+1",2149,51.6983298,0.1105829,,77-19
+2150,Cheshunt," 53 Turners Hill,Cheshunt"," EN8 9DD
+1",2150,51.7013309,-0.0347842,,76-19
+2151,Waltham Abbey," 14 Sun St,Waltham Abbey"," EN9 1EE
+1",2151,51.6868196,-0.0009406,,76-19
+2152,Stevenage," SG2 8EH,1"," SG2 8EH
+1",2152,51.9074649,-0.1941064,,75-21
+2153,Stevenage," SG1 2FS,1"," SG1 2FS
+1",2153,51.9074649,-0.1941064,,75-21
+2154,Stevenage," 27 Town Sq,Stevenage"," SG1 1BP
+1",2154,51.9018462,-0.2019661,,75-21
+2155,Debden," 45 The Broadway,Debden"," IG10 3SP
+1",2155,51.6483599,0.08418,3,77-18
+2156,Loughton, U7 Epping Forest SP," IG10 3FT
+1",2156,51.6433,0.08704,3,77-18
+2157,Welwyn Garden City," 30 Stonehills,Welwyn Garden City"," AL8 6PD
+1",2157,51.8016878,-0.2056241,,75-20
+2158,Chelmsford," CM1 2RY,1"," CM1 2RY
+1",2158,51.73635245,0.468464442,,79-19
+2162,Port Talbot," U9 Aberafan SC,Port Talbot"," SA13 1PB
+",2162,51.5966915,-3.7852317,2,50-18
+2163,Neath," 55 Wind St,Neath"," SA11 3EN
+",2163,51.6639273,-3.8025829,,50-18
+2164,Neath Abbey," U2 New Rd,Neath Abbey"," SA10 7NG
+",2164,51.6630913,-3.8262471,,50-18
+2165,Swansea," 241 Oxford St,Swansea"," SA1 3BL
+",2165,51.619403,-3.947095,,49-18
+2166,Bridgend," 11B Vlg Farm IE,Pyle"," CF33 6BJ
+",2166,51.52639,-3.68748,2,51-17
+2167,Swansea," U6F Swansea EP,Swansea"," SA7 9EH
+",2167,51.6584479,-3.9085425,2,49-18
+2168,Swansea," 8 Whitewalls,Swansea"," SA1 3AA
+",2168,51.6196049,-3.944409487,,49-18
+2169,Swansea," 63 Alexandra Rd,Swansea"," SA1 5BD
+",2169,51.6690162,-4.04517907,,49-18
+2170,Swansea," UB Swansea Bus Station,Swansea"," SA1 3QF
+",2170,51.6179252,-3.9462009,2,49-18
+2171,Swansea, Morriston," SA6 8PS
+",2171,51.6700114,-3.929763,,49-18
+2172,Morriston," 29 Woodfield St,Morriston"," SA6 8AB
+",2172,51.6641628,-3.9257337,,49-18
+2173,Swansea, U44A Cwmdu IE," SA5 8LG
+",2173,fail,fail,,
+2174,Sketty," SA2 8PP,"," SA2 8PP
+",2174,51.60954022,-3.980250362,,49-18
+2175,Porthcawl," 31 St John,Porthcawl"," CF36 3AP
+",2175,51.4794379,-3.7030969,,51-16
+2176,Pontardawe," 70 Herbert St,Pontardawe"," SA8 4ED
+",2176,51.7201658,-3.8531365,,50-19
+2177,Swansea," 51 Queensway,Swansea"," SA5 4EB
+",2177,51.6429041,-3.9865253,,49-18
+2178,Mumbles," 2 Newton Rd,Mumbles"," SA3 4AT
+",2178,51.574651,-4.0092325,,49-17
+2179,Bridgend," U45A Mcarthur Glen Outlet,Bridgend"," CF32 9SU
+",2179,51.53224445,-3.576150713,2,52-17
+2180,Bridgend," 15 Adare St,Bridgend"," CF31 1ET
+1",2180,51.5062071,-3.5779416,,52-17
+2181,Swansea," SA4 9GT,1"," SA4 9GT
+1",2181,51.61097425,-3.976413134,,49-18
+2189,Bristol," U9A/B Avonmeads RP,Bristol"," BS2 0SP
+",2189,51.44784642,-2.560426377,2,59-16
+2191,Bristol," U8 Peterson Ave,Hartcliffe"," BS13 0BE
+1",2191,51.4064791,-2.5979819,,58-15
+2192,Bristol, U6 Transom Hse," BS1 6AH
+1",2192,51.45166645,-2.58777745,3,58-16
+2193,Bedminster," BS3 4JY,1"," BS3 4JY
+1",2193,51.4546394,-2.5829206,,58-16
+2194,Bedminster," 78 East St,Bedminster"," BS3 4JD
+1",2194,51.4419996,-2.597502004,,58-16
+2196,Bristol, Cabot Circus," BS1 3JX
+1",2196,51.45838175,-2.585432048,,58-16
+2197,Bristol," Ucg12 The Galleries,Bristol"," BS1 3XD
+1",2197,51.45672195,-2.590329982,3,58-16
+2198,Bristol," 87 Broadmead,Bristol"," BS1 3DT
+1",2198,51.45731385,-2.590420082,,58-16
+2199,Yate," Yate SC,Yate"," BS37 4AS
+1",2199,-6.031825,143.3731547,,
+2200,Bristol," U1 St James Crt,Bristol"," BS1 3LH
+1",2200,51.458869,-2.592647,3,58-16
+2201,Bristol," 30 St Augustines Pde,Bristol"," BS1 4UL
+1",2201,51.45370676,-2.5981405,3,58-16
+2220,Globe Town," 112 Roman Rd,Globe Town"," E2 0RN
+",2220,51.5309067,-0.0400466,,76-17
+2222,Clarkston," U5 Busby Rd,Clarkston"," G76 7BG
+",2222,55.7903401,-4.2778312,,47-65
+2223,Thornliebank," 77 Main St,Thornliebank"," G46 7RY
+",2223,55.8075678,-4.3163663,,47-65
+2225,Outlet: Nitshill," 401 Nitshill Rd,Netshill"," G53 7BN
+",2225,55.81284,-4.35912,2,46-65
+2226,Glasgow," Silverburn SC,Glasgow"," G53 6AG
+",2226,55.81989435,-4.34180077,,47-65
+2229,Shawlands," 15 Kilmarnock Rd,Shawlands"," G41 3YN
+",2229,55.8237457,-4.2863998,,47-65
+2231,Glasgow," 172 Battlefield Rd,Glasgow"," G42 9JT
+",2231,55.8249703,-4.2617195,,47-65
+2232,Glasgow," 1158 Cathcart Rd,Glasgow"," G42 9EG
+",2232,55.8248,-4.2577795,,47-65
+2233,Glasgow," 1865 Paisley Rd West,Glasgow"," G52 3SX
+",2233,55.8503147,-4.3066752,,47-66
+2234,Glasgow," 2123 Paisley Rd West,Cardonald"," G52 3JL
+",2234,55.8455744,-4.3427442,,47-66
+2235,Glasgow," 401 Victoria Rd,Govanhill"," G42 8RW
+",2235,55.8412187,-4.2631118,,47-66
+2236,Paisley," 66 Neilston Rd,Paisley"," PA2 6NE
+",2236,55.8352811,-4.4233621,,46-66
+2237,Govan," 378 Helen St,Govan"," G51 3AD
+",2237,55.8530117,-4.3183953,,47-66
+2238,Glasgow," 183 Shieldhall Rd,Glasgow"," G51 4DJ
+",2238,55.8551162,-4.3313035,,47-66
+2240,Paisley," 69 Glasgow Rd,Paisley"," PA1 3PD
+",2240,55.846869,-4.4090093,,46-66
+2259,Wrotham Heath," TN15 7RX,1"," TN15 7RX
+1",2259,51.3525694,0.2528192,,78-15
+2270,Barnet," 134 High St,Barnet"," EN5 5XQ
+",2270,51.6550183,-0.2015658,,75-18
+2281,Potters Bar," 114 Darkes Lane,Potters Bar"," EN6 1AE
+",2281,51.6963137,-0.1924642,,75-19
+2287,Stockton-on-Tees," TS21 3LU,"," TS21 3LU
+",2287,54.59223443,-1.3519027,,67-51
+2289,Stockton," High Newham Rd,Stockton on Tees"," TS19 8JZ
+",2289,54.5836649,-1.3572929,,67-51
+2293,Stockton," 34 Wellington Sq,Stockton on Tees"," TS18 1RH
+",2293,54.56547775,-1.314164886,,67-51
+2296,Stockton," U23 Teesside RP,Stockton"," TS17 7BW
+",2296,54.55623181,-1.2761459,2,67-51
+2297,Middlesbrough," 447 Linthorpe Rd,Middlesbrough"," TS5 6HX
+",2297,54.5689969,-1.2392771,,68-51
+2299,Stockton," Preston Farm IE,Stockton on Tees"," TS18 3TS
+",2299,54.5465621,-1.3207757,2,67-51
+2302,Nelson," Pendle Rise SC,Nelson"," BB9 9SL
+",2302,53.83613,-2.21367,2,61-43
+2303,Colne," 41 Market St,Colne"," BB8 0LJ
+",2303,53.8571006,-2.1684916,,61-43
+2304,Burnley, 69 The Mall," BB11 1BA
+",2304,51.54951295,-1.78721918,,64-17
+2305,Barrow," BB7 9WF,"," BB7 9WF
+",2305,53.84039,-2.3955099,,60-43
+2308,Todmorden," OL14 5RS,"," OL14 5RS
+",2308,53.715069,-2.0875026,,62-42
+2310,Rishton," BB1 3HR,1"," BB1 3HR
+1",2310,53.74646575,-2.479049546,,59-42
+2312,Skipton," BD23 1UD,1"," BD23 1UD
+1",2312,53.96450052,-2.04199585,3,62-44
+2313,Haslingden Road," BB1 2EE,1"," BB1 2EE
+1",2313,53.74646575,-2.479049546,,59-42
+2314,Skipton," 60 High St,Skipton"," BD23 1JP
+1",2314,53.9614933,-2.0170984,,62-44
+2317,Keighley," 36 Low St,Keighley"," BD21 3PT
+1",2317,53.8658484,-1.9086274,,63-43
+2318,Keighley," 58 Towngate,Keighley"," BD21 3QE
+1",2318,53.8677216,-1.9076119,,63-43
+2319,Keighley, Keighley RP," BD21 3NJ
+1",2319,39.812689,-95.143227,,
+2320,Lancashire," BL0 0PU,1"," BL0 0PU
+1",2320,53.6279362,-2.2939508,,60-41
+2321,Darwen," BB3 0DB,1"," BB3 0DB
+1",2321,53.74646575,-2.479049546,,59-42
+2323,Longhedge," SP4 6SA,"," SP4 6SA
+",2323,51.10518,-1.79296,,64-12
+2324,Wiltshire," SP5 3HZ,"," SP5 3HZ
+",2324,50.9979931,-1.7595084,,64-11
+2325,Amesbury," SP4 7AS,"," SP4 7AS
+",2325,51.178378,-1.77979,,64-13
+2326,Tidworth," SP9 7LA,1"," SP9 7LA
+1",2326,51.23885,-1.66436,3,65-14
+2327,Great Bridge Road," SO51 0HB,1"," SO51 0HB
+1",2327,50.9936613,-1.499657603,,66-11
+2328,Hampshire," SP11 0PN,1"," SP11 0PN
+1",2328,51.12709915,-1.569112991,,65-12
+2330,Hampshire," BH24 2NR,1"," BH24 2NR
+1",2330,50.72283405,-1.88274985,,63-8
+2331,Andover," 57 High St,Andover"," SP10 1LP
+1",2331,42.66123955,-71.14138695,,
+2339,Warminster," BA12 7RU,2"," BA12 7RU
+2",2339,51.26603165,-2.200223771,,61-14
+2341,Eastleigh," 41 Market St,Eastleigh"," SO50 5RF
+2",2341,50.9657108,-1.3522114,,67-10
+2345,Heap Bridge," BL9 7HY,"," BL9 7HY
+",2345,53.59122,-2.26075,,61-40
+2364,Newport," U1 Usk Way,Newport"," NP20 2BL
+",2364,51.5732696,-2.98562,,56-17
+2375,Llanrumney," 72 Countisbury Ave,Llanrumney"," CF3 5YR
+",2375,51.5238926,-3.1189249,,55-17
+2376,Pentwyn," U3 Pentwyn RP,Pentwyn"," CF23 7XH
+",2376,51.52300518,-3.13951818,2,55-17
+2378,Rumney Hill," CF3 4AJ,"," CF3 4AJ
+",2378,51.50898391,-3.132162814,,55-17
+2381,Cardiff," Avenue RP,Cardiff"," CF23 9AF
+",2381,51.4812915,-3.2446824,,54-16
+2382,Luton," 499 Capability Green BP,Luton"," LU1 3LU
+",2382,51.86611919,-0.407119714,2,73-21
+2383,Marshalswick," 45 The Quadrant,Marshalswick"," AL4 9RB
+",2383,51.7642083,-0.307130867,2,74-19
+2386,Luton," 658 Hitchin Rd,Stopsley"," LU2 7XH
+",2386,51.9068601,-0.3909572,,73-21
+2388,Hemel Hempstead," 150 The Marlowes,Hemel Hempstead"," HP1 1BA
+",2388,51.75217415,-0.4726037,2,73-19
+2389,Hemel Hempstead," 203 The Marlowes,Hemel Hempstead"," HP1 1BL
+",2389,51.74884,-0.47232,2,73-19
+2391,Kings Langley," WD4 8HR,"," WD4 8HR
+",2391,51.7144025,-0.4415918,,73-19
+2393,Stevenage," SG1 2FS,"," SG1 2FS
+",2393,51.8898565,-0.2032465,,75-21
+2394,Stevenage," SG2 8EH,"," SG2 8EH
+",2394,51.88792,-0.18618,,75-21
+2396,North Orbital Road," WD25 7LW,"," WD25 7LW
+",2396,51.6921668,-0.3982876,,73-19
+2398,Berkhamsted," HP4 2NB,"," HP4 2NB
+",2398,51.75704083,-0.552976525,,72-19
+2399,Hitchin," 28 High St,Hitchin"," SG5 1AT
+",2399,51.94787855,-0.278655004,,74-22
+2462,Birmingham," 164 Alum Rock Rd,Alum Rock"," B8 1HU
+",2462,52.4928566,-1.8196233,,64-28
+2463,Outlet: Ward End," 638 Washwood Hth Rd,Ward End"," B8 2HQ
+",2463,52.4933178,-1.8319107,2,64-28
+2464,Birmingham," 41 High St,Birmingham"," B4 7SL
+",2464,52.56673235,-1.823622509,,64-29
+2465,Greggs @ Primark," Birmingham Pavillion,Birmingham"," B4 7SL
+",2465,52.4785658,-1.89460984,2,63-28
+2466,Birmingham, U3B Bullring SC," B5 4BA
+",2466,52.4775925,-1.8930933,2,63-28
+2467,Birmingham," U2 Aston St,Birmingham"," B4 7DA
+",2467,52.485891,-1.8901035,,63-28
+2468,Birmingham," 5 Bull St,Birmingham"," B4 7LB
+",2468,52.45865835,-1.947647421,,63-27
+2469,Birmingham," U12 New Street Station,Birmingham"," B2 4QA
+",2469,52.4767785,-1.9021896,,63-28
+2470,Birmingham," U6 Cherry St,Birmingham"," B2 5AL
+",2470,52.4809145,-1.8978071,,63-28
+2471,Birmingham," U38 Great Western Arc,Birmingham"," B2 5HU
+",2471,52.482273,-1.897699,,63-28
+2472,Yardley," U9 Swan SC,Yardley"," B25 8UJ
+",2472,52.4630019,-1.8139398,2,64-27
+2473,Birmingham," 85 New St,Birmingham"," B2 4BA
+",2473,52.4792907,-1.901837206,,63-28
+2474,Birmingham, U18B Fox SC," B8 2EP
+",2474,34.7779921,-82.3580831,,
+2475,Birmingham," U54 Cuckoo TP,Aston"," B7 5SY
+",2475,52.50570688,-1.86323585,2,63-28
+2476,Acocks Green," 25 Olton Boulevard East,Acocks Green"," B27 7RR
+",2476,52.4432602,-1.8133825,,64-27
+2477,Acocks Green," 1130 Warwick Rd,Acocks Green"," B27 6BL
+",2477,52.44680275,-1.820797803,,64-27
+2478,Birmingham," U33 Newtown SC,Newtown"," B19 2SS
+",2478,52.4971909,-1.896528417,2,63-28
+2479,Hall Green," 1182 Stratford Rd,Hall Green"," B28 8AB
+",2479,52.4210698,-1.8352288,,64-27
+2481,Sheldon, Whirlwind SS," B26 3HL
+",2481,37.849392,-97.375898,,
+2494,Wimborne," BH21 3HA,1"," BH21 3HA
+1",2494,50.78492195,-1.955513176,,63-8
+2504,Cardiff," 33 Salisbury Rd,Cardiff"," CF24 4AA
+",2504,51.4861422,-3.1729915,,54-16
+2507,Roath," 20 Clifton St,Roath"," CF24 1PX
+",2507,51.4872661,-3.1595287,,55-16
+2512,Cardiff," 33 Albany Rd,Cardiff"," CF24 3LJ
+",2512,51.4932125,-3.1697974,,54-16
+2514,Cardiff," 39 Wellfield Rd,Cardiff"," CF24 3PA
+",2514,51.495449,-3.1654575,,54-16
+2516,Cardiff," 114 Crwys Rd,Cathays"," CF24 4NR
+",2516,51.4965132,-3.180331476,,54-16
+2520,Cardiff, UA Excelsior IE," CF14 3AX
+",2520,51.50024,-3.20468,2,54-17
+2524,Wellington," 9 Fore St,Wellington"," TA21 8AA
+",2524,50.97820915,-3.228155143,,54-11
+2525,Bridgwater," TA6 6TS,"," TA6 6TS
+",2525,51.10518554,-2.993702333,,56-12
+2526,Wembdon," TA5 2AX,"," TA5 2AX
+",2526,51.1315262,-3.040732967,,55-12
+2528,Ilminster," TA19 9PT,"," TA19 9PT
+",2528,50.93379926,-2.940623577,,56-10
+2530,Dunball," TA6 4BQ,1"," TA6 4BQ
+1",2530,51.13601365,-2.98842377,,56-12
+2531,Somerset," TA13 5JG,1"," TA13 5JG
+1",2531,51.0135406,-2.8675085,,57-11
+2532,Burnham On Sea," 35 High St,Burnham on Sea"," TA8 1PA
+1",2532,51.2341198,-2.997681,,56-13
+2534,Tiverton," 1 Bampton St,Tiverton"," EX16 6AA
+1",2534,50.9031493,-3.4861723,,52-10
+2536,Yeovil," BA22 8JG,1"," BA22 8JG
+1",2536,51.0231,-2.65991,3,58-11
+2538,Minehead," 18 The Parade,Minehead"," TA24 5UG
+2",2538,51.2058379,-3.4771268,,52-13
+2540,Weston Super Mare," 74 High St,Weston super Mare"," BS23 1HS
+2",2540,51.3491596,-2.9790443,,56-15
+2545,Ulverston," LA12 8ND,"," LA12 8ND
+",2545,54.2632264,-2.962109957,,56-48
+2546,Burton-In-Kendal," LA6 1JF,1"," LA6 1JF
+1",2546,54.07429,-2.7155453,,58-46
+2547,Ambleside," 6 Market Cross,Ambleside"," LA22 9BT
+1",2547,54.432191,-2.9630619,,56-50
+2556,Penrith," CA11 0DT,2"," CA11 0DT
+2",2556,54.6617906,-2.7589438,,57-52
+2563,Marcham Road," OX14 1TZ,"," OX14 1TZ
+",2563,51.66858395,-1.3033197,,67-18
+2564,Didcot," U13 Orchard CTR,Didcot"," OX11 7LG
+",2564,51.60771215,-1.237431958,,68-18
+2565,Oxford," OX4 7EX,"," OX4 7EX
+",2565,51.7175195,-1.196875567,,68-19
+2570,Wallingford," OX10 0EG,"," OX10 0EG
+",2570,51.5997131,-1.1243309,,68-18
+2574,Hermitage," RG18 9XX,1"," RG18 9XX
+1",2574,51.39868215,-1.307033391,,67-15
+2575,Oxford Road," OX26 1BT,1"," OX26 1BT
+1",2575,51.85384425,-1.271974691,,67-21
+2577,Newbury," 77 Northbrook St,Newbury"," RG14 1AE
+1",2577,51.40338665,-1.324640031,,67-15
+2578,167 Reading Road," RG9 1DR,1"," RG9 1DR
+1",2578,51.50963705,-0.9969795,,69-17
+2579,Swindon," SN3 4RS,1"," SN3 4RS
+1",2579,51.5656208,-1.7853111,,64-17
+2580,Ardley," OX27 7RD,1"," OX27 7RD
+1",2580,51.8561881,-1.273351881,,67-21
+2582,York," 18 Pavement,York"," YO1 9UP
+",2582,53.9587618,-1.0796062,,69-44
+2583,York," 15 Saint Sampsons Sq,York"," YO1 8RR
+",2583,53.95958115,-1.0816483,2,69-44
+2584,York," U5B Foss Islands RP,York"," YO31 7UL
+",2584,53.95695569,-1.070266137,2,69-44
+2585,York Uni," U4 Heslington East Campus,York"," YO10 5LA
+",2585,53.95036285,-1.02969325,2,69-44
+2586,York," Monks Cross SP,York"," YO32 9LF
+",2586,53.98663511,-1.044391686,2,69-45
+2587,York," LS24 8EG,"," LS24 8EG
+",2587,53.90192575,-1.19765925,,68-44
+2588,Wetherby," LS22 5GT,1"," LS22 5GT
+1",2588,54.0091233,-1.4700522,,66-45
+2590,Selby," 24 Gowthorpe,Selby"," YO8 4ET
+1",2590,53.7837474,-1.0717409,,69-42
+2592,Garforth, U2A East Side RP," LS25 2EB
+1",2592,53.7975552,-1.377782614,3,67-42
+2593,Garforth," 55 Main St,Garforth"," LS25 1AF
+1",2593,53.7941143,-1.3885528,,67-42
+2594,Howden," DN14 7TA,1"," DN14 7TA
+1",2594,53.7431147,-0.8604991,3,70-42
+2595,Leeds," LS17 8ND,1"," LS17 8ND
+1",2595,53.7951021,-1.3790913,,67-42
+2596,Leeds," U1 Thorpe Pk,Leeds"," LS15 8ZB
+1",2596,53.7946512,-1.4250052,,66-42
+2597,Leeds," Seacroft Green SC,Seacroft"," LS14 6PA
+1",2597,53.8225485,-1.4590498,,66-43
+2598,Leeds," 26 Cross Gates SC,Crossgates"," LS15 8BZ
+1",2598,53.80439127,-1.451407333,3,66-43
+2599,Seacroft," 149 South Parkway,Seacroft"," LS14 6ER
+1",2599,53.81629685,-1.469138857,,66-43
+2600,Harrogate," 17 Market Pl,Harrogate"," HG1 1RP
+1",2600,54.0079655,-1.4671716,,66-45
+2601,Castleford," 9 The Square,Airedale"," WF10 3JJ
+1",2601,53.7236514,-1.3145359,,67-42
+2607,Birtley," 37 Durham Rd,Birtley"," DH3 2QH
+",2607,54.8950973,-1.5777709,,65-55
+2608,Wrekenton," 167 High St,Wrekenton"," NE9 7JR
+",2608,54.9251375,-1.5748069,,65-55
+2610,Hylton Castle," 42 Chiswick Sq,Hylton Castle"," SR5 3PZ
+",2610,54.9226262,-1.4517992,2,66-55
+2619,Felling," U5 Booth St,Felling"," NE10 9BF
+",2619,54.9496669,-1.5687031,,65-55
+2716,Marton," U3 Marton Estates Sq,Marton"," TS7 8DU
+",2716,54.5322854,-1.2001925,2,68-51
+2718,Thornaby," U2 The Pavillion SC,Thornaby"," TS17 9FD
+",2718,54.5386156,-1.290489025,2,67-51
+2719,Coulby Newham," U14 Parkway SC,Coulby Newham"," TS8 0TJ
+",2719,54.52498385,-1.2156085,2,68-51
+2721,Thornaby, U6 Fleck Wy," TS17 9LN
+",2721,54.5274665,-1.2920224,,67-51
+2729,Trafford Road," M5 4QD,"," M5 4QD
+",2729,fail,fail,,
+2736,Manchester," 10 Oxford Rd,Manchester"," M1 5QA
+",2736,53.4733796,-2.2401521,,61-39
+2737,Manchester," 36 Brazennose St,Manchester"," M2 5EA
+",2737,53.4796579,-2.246571,,61-39
+2738,Manchester," U5 Thorncliffe House,Manchester"," M13 9NG
+",2738,53.4616234,-2.229354167,2,61-39
+2739,Manchester," 39 King St West,Manchester"," M3 2PW
+",2739,53.4816675,-2.249176,,61-39
+2740,Manchester, U7 Abbey House," M2 3LW
+",2740,52.7877627,-0.1468319,,75-31
+2741,Manchester," 28 Cross St,Manchester"," M2 7AQ
+",2741,53.4819196,-2.2446369,,61-39
+2742,Aldridge," Aldridge SC,Aldridge"," WS9 8QP
+",2742,52.6023353,-1.9197809,,63-29
+2743,Brownhills," 54 High St,Brownhills"," WS8 6EL
+",2743,52.6284948,-1.9672126,,63-29
+2744,Walsall," U5 Littleton St West,Walsall"," WS2 8EQ
+",2744,52.5885395,-1.9814755,,63-29
+2745,Walsall," Townend Sq,Walsall"," WS1 1NG
+",2745,52.5855343,-1.983889455,2,62-29
+2746,Walsall, 7 Sister Dora Buildns," WS1 1LR
+",2746,52.58395,-1.9822,2,63-29
+2747,Walsall," U12A Saddlers SC,Walsall"," WS1 1YT
+",2747,52.5840813,-1.9841066,2,62-29
+2748,Bloxwich," 143 High St,Bloxwich"," WS3 3LG
+",2748,52.6166751,-2.0045077,,62-29
+2749,Cannock," WS11 9NA,"," WS11 9NA
+",2749,52.65889,-1.96836,,63-30
+2750,Kingstanding," 625 Kingstanding Rd,Kingstanding"," B44 9SU
+",2750,52.5522547,-1.884187,,63-28
+2752,Sutton Coldfield," Princess Alice RP,Sutton Coldfield"," B73 6RB
+",2752,52.5500408,-1.8607274,,63-28
+2753,Kingstanding," 208 Hawthorn Rd,Kingstanding"," B44 8PP
+",2753,52.5404631,-1.8839918,,63-28
+2754,Sutton Coldfield," Gracechurch SC,Sutton Coldfield"," B72 1PH
+",2754,52.56217275,-1.825200813,2,64-29
+2755,Sutton Coldfield," Red Rose SC,Sutton Coldfield"," B72 1XX
+",2755,52.56242078,-1.823266362,2,64-29
+2756,Willenhall," 36 The Square,Willenhall"," WV12 5EA
+",2756,52.61268989,-2.036864688,2,62-29
+2760,Lichfield," 30 Market St,Lichfield"," WS13 6LH
+",2760,52.6839126,-1.8275521,,64-30
+2761,Lichfield," 9 Bakers Ln,Lichfield"," WS13 6NF
+",2761,52.6830122,-1.8258149,,64-30
+2772,Gaydon," CV35 0HA,"," CV35 0HA
+",2772,52.18380537,-1.465468367,,66-24
+2774,Coventry," CV1 1DG,"," CV1 1DG
+",2774,52.4064739,-1.5136368,,66-27
+2775,Coventry," 42 Broadgate,Coventry"," CV1 1NF
+",2775,52.4080254,-1.510537862,,66-27
+2776,Coventry," 25 Smithford Way,Coventry"," CV1 1FY
+",2776,52.4081902,-1.5129808,,66-27
+2777,Coventry," 6 Ironmonger Row,Coventry"," CV1 1FD
+",2777,52.409028,-1.5100274,,66-27
+2778,Coventry," CV3 2ZZ,"," CV3 2ZZ
+",2778,52.38873,-1.43961,,66-27
+2779,Coventry," 243 Walsgrave Rd,Coventry"," CV2 4BA
+",2779,52.4140053,-1.4719527,,66-27
+2780,Coventry, U1d Warwickshire SP," CV3 2SB
+1",2780,52.3976012,-1.4338373,3,66-27
+2781,Coventry," 118 Jubilee Cres,Radford"," CV6 3ES
+1",2781,52.4301829,-1.5175214,,66-27
+2782,Basingstoke," UB Chiswick Hse,Basingstoke"," RG21 7LD
+",2782,51.26591,-1.08761,2,69-14
+2783,Basingstoke," Festival Pl SC,Basingstoke"," RG21 7JT
+",2783,51.26447,-1.08661,2,69-14
+2784,Basingstoke," UK10 Basingstoke Bus Statn,Basingstoke"," RG21 7BE
+",2784,51.2651513,-1.08538765,2,69-14
+2785,Basingstoke," U7 Houndmills TP,Basingstoke"," RG21 6AH
+",2785,51.2737908,-1.1061931,2,68-14
+2786,Basingstoke," U10B St Michaels RP,Basingstoke"," RG22 4AN
+",2786,51.251494,-1.1084028,2,68-14
+2787,Chineham," U6 Chineham SC,Chineham"," RG24 8BQ
+",2787,51.2844239,-1.059219233,2,69-14
+2788,Mulfords Hill," RG26 3LG,"," RG26 3LG
+",2788,51.35473693,-1.141842867,,68-15
+2789,Cocksford Down," SO21 3BD,"," SO21 3BD
+",2789,51.1948099,-1.227558,,68-13
+2790,Alton," 56 High St,Alton"," GU34 1ET
+",2790,51.14843,-0.97630031,,69-13
+2791,Reading," RG7 1LZ,1"," RG7 1LZ
+1",2791,51.4348151,-1.0718263,,69-16
+2793,Burghfield," RG30 3UQ,1"," RG30 3UQ
+1",2793,51.4264536,-0.999901244,,69-16
+2795,School Green," RG2 9DY,1"," RG2 9DY
+1",2795,51.4264536,-0.999901244,,69-16
+2796,Winchester," SO21 1PP,1"," SO21 1PP
+1",2796,51.1827514,-1.260391749,,67-13
+2802,St Neots," 15 Market Sq,St Neots"," PE19 2AR
+",2802,52.22790625,-0.270905604,,74-25
+2803,St Neots, U3 Quora RP," PE19 8ET
+",2803,52.2124101,-0.2856532,2,74-25
+2804,Bedford," MK44 3AA,"," MK44 3AA
+",2804,52.19272204,-0.29831418,,74-24
+2805,Huntingdon," 123B High St,Huntingdon"," PE29 3LG
+",2805,52.3301749,-0.1828094,,75-26
+2806,Spaldwick," PE28 0TD,"," PE28 0TD
+",2806,52.34132,-0.34161,,74-26
+2807,Huntingdon, St Peters Rd," PE29 7DA
+",2807,46.1475354,-63.20935332,,
+2808,Hartford," PE28 2DN,"," PE28 2DN
+",2808,52.3417811,-0.15117405,,75-26
+2809,Biggleswade," 1A Market Sq,Biggleswade"," SG18 8AP
+",2809,52.0866685,-0.2653056,,74-23
+2810,St Ives," 5 The Pavement,St Ives"," PE27 5AD
+1",2810,52.3235481,-0.0731395,,75-26
+2813,Bedfordshire," SG18 9SN,1"," SG18 9SN
+1",2813,52.0844403,-0.260586594,,74-23
+2814,Raunds," NN9 6HS,1"," NN9 6HS
+1",2814,52.34491176,-0.535981613,3,72-26
+2815,Rushden," NN10 0FN,1"," NN10 0FN
+1",2815,52.30063,-0.58664,3,72-26
+2818,Milton Keynes," MK43 0PZ,1"," MK43 0PZ
+1",2818,52.13503875,-0.466655287,,73-24
+2820,Letchworth," 22 East Cheap,Letchworth"," SG6 3DD
+1",2820,51.97767304,-0.228407943,3,74-22
+2821,Cambridge," CB1 8EA,1"," CB1 8EA
+1",2821,52.1939191,0.137434,,77-24
+2823,Becontree," 792 Green Lane,Becontree"," RM8 1YT
+",2823,51.5616013,0.1272484,,77-17
+2826,Romford," 57 South St,Romford"," RM1 1NL
+",2826,51.5714118,0.1846934,,77-17
+2827,Romford," 16 Western Rd,Romford"," RM1 3LD
+",2827,51.5768991,0.1830813,,77-17
+2828,Romford," 1 Quadrant Arc,Romford"," RM1 3ED
+",2828,51.5779557,0.1816244,,77-17
+2830,Ilford," 209 High Rd,Ilford"," IG1 1LX
+",2830,51.5643099,0.0980855,,77-17
+2832,Ilford," 15 Chapel Rd,Ilford"," IG1 2AF
+",2832,51.5575662,0.0677162,,76-17
+2833,Romford," 40 Collier Row Rd,Romford"," RM5 3PA
+",2833,51.5991877,0.1630433,,77-18
+2834,East Ham," 158 High St Nth,East Ham"," E6 2HT
+",2834,51.53604398,0.0526978,2,76-17
+2859,Cobham," KT11 3DB,"," KT11 3DB
+",2859,51.30428808,-0.405450275,,73-14
+2913,Swansea," SA4 9GT,"," SA4 9GT
+",2913,51.67878288,-3.99544118,,49-19
+2914,Gorseinon," 64 High St,Gorseinon"," SA4 4BP
+",2914,51.6676521,-4.0320992,,49-18
+2919,Llanelli, U2 Trostre RP," SA14 9UY
+",2919,51.67663575,-4.13888698,2,48-18
+2920,Llanelli," U2 St Elli SC,Llanelli"," SA15 1SH
+1",2920,51.68187,-4.15946,3,48-19
+2921,Ammanford," 27 Quay St,Ammanford"," SA18 3DB
+1",2921,51.7921135,-3.9878254,,49-20
+2926,Dunball," TA6 4BQ,"," TA6 4BQ
+",2926,51.16520175,-2.99130735,,56-13
+2967,Preston," PR1 4TE,"," PR1 4TE
+",2967,53.76549865,-2.65647635,,58-42
+2982,Glasgow, U3 Bchnan Stn," G2 3NW
+",2982,55.8652689,-4.2505994,2,47-66
+2983,Glasgow, U5," G1 2GF
+",2983,3.16312145,101.5418328,,
+2984,Glasgow," 162 Buchanan St,Glasgow"," G1 2LW
+",2984,55.8514593,-4.1108199,,48-66
+2985,Glasgow," 64 Gordon St,Glasgow"," G1 3RS
+",2985,55.8606491,-4.2586687,,47-66
+2986,Glasgow," 100 George St,Glasgow"," G1 1RF
+",2986,45.58976581,-62.64673547,,
+2987,Glasgow," 172 Argyle St,Glasgow"," G2 8BT
+",2987,55.8594036,-4.2680121,,47-66
+2988,Glasgow," 55 St Enochs Sq,Glasgow"," G1 4BW
+",2988,55.8574031,-4.2545384,2,47-66
+2989,Gorbals," 169 Crown St,Gorbals"," G5 9XT
+",2989,55.8509347,-4.248883,,47-66
+2990,Glasgow," 429 Alexandra Pde,Glasgow"," G31 3AD
+",2990,55.8642661,-4.2208787,,47-66
+2991,Glasgow," 1111 Argyle St,Glasgow"," G3 8ND
+",2991,55.8594036,-4.2680121,,47-66
+2992,Glasgow," 453 Paisley Rd,Glasgow"," G5 8RJ
+",2992,55.8536861,-4.2774945,,47-66
+2993,Kelvinbridge," 6 Gibson St,Kelvinbridge"," G12 8NX
+",2993,55.8725627,-4.282384,2,47-66
+2994,Glasgow," 240 Saracen St,Glasgow"," G22 5ER
+",2994,55.883326,-4.2539991,,47-66
+2997,Glasgow," U1 Crown Street RP,Glasgow"," G5 0DP
+",2997,55.84270735,-4.25342895,2,47-66
+2998,Glasgow," U21 Springburn Way,Springburn"," G21 1TS
+",2998,55.8836879,-4.2294168,,47-66
+3000,Glasgow," 259 Byres Rd,Glasgow"," G12 8TL
+",3000,55.8756507,-4.2935387,,47-66
+3001,Glasgow," G21 1LZ,"," G21 1LZ
+",3001,55.8875,-4.23338,,47-66
+3024,Salford," U4 Seaford Rd,Salford"," M6 6BA
+",3024,53.4946956,-2.273036,,61-39
+3028,Manchester," U34 Fort SP,Manchester"," M8 8EP
+",3028,53.49769958,-2.23574,2,61-39
+3030,Manchester, Concourse Ksk," M3 1WY
+",3030,53.4869976,-2.24217955,2,61-39
+3032,Manchester," 41 Deansgate,Manchester"," M3 2AY
+",3032,53.4750184,-2.2515195,,61-39
+3034,Manchester," 41 Arndale SC,Manchester"," M4 3AQ
+",3034,53.48376205,-2.24070015,2,61-39
+3035,Manchester," 175 Arndale SC,Manchester"," M4 2HU
+",3035,53.4831968,-2.2408246,2,61-39
+3040,Manchester," 7A Piccadilly,Manchester"," M1 1LZ
+",3040,53.4792965,-2.2329956,,61-39
+3056,Rainham," ME8 8PQ,1"," ME8 8PQ
+1",3056,51.395519,0.514844381,,79-15
+3092,Browns Road," BT36 4RN,"," BT36 4RN
+",3092,fail,fail,,
+3095,Larne," BT40 2PH,1"," BT40 2PH
+1",3095,fail,fail,,
+3097,Belfast," BT43 5NW,2"," BT43 5NW
+2",3097,fail,fail,,
+3098,Hamilton," New Cross SC,Hamilton"," ML3 6AH
+",3098,51.4801957,-0.0275758,,76-16
+3100,Hamilton," Low Waters Rd,Hamilton"," ML3 7QR
+",3100,55.7639422,-4.0428027,,49-65
+3102,Hamilton," U3 Hillhouse Rd,Blantyre"," G72 0BP
+",3102,55.7710787,-4.0738989,,48-65
+3110,Larkhall," ML9 1DZ,"," ML9 1DZ
+",3110,55.7407397,-3.9743863,,49-64
+3111,East Kilbride," 12 Calderwood Sq,East Kilbride"," G74 3BQ
+",3111,55.7722492,-4.1567295,2,48-65
+3112,Wishaw," 2A Caledonian RP,Wishaw"," ML2 7UR
+",3112,55.77539,-3.94595,2,49-65
+3114,East Kilbride," 44 Kirkton Pk,East Kilbride"," G74 4HX
+",3114,55.7649259,-4.171707,,48-65
+3115,East Kilbride SC," The Plaza,East Kilbride"," G74 1LW
+",3115,55.75995,-4.17992,2,48-65
+3116,Wishaw," 83 Main St,Wishaw"," ML2 7AU
+",3116,55.7756261,-3.923473,,49-65
+3119,Talke," Congleton Rd,Talke"," ST7 1LP
+",3119,53.0827636,-2.2615465,,61-34
+3131,Stoke-on-Trent," ST4 2LT,1"," ST4 2LT
+1",3131,52.968486,-2.07865723,,62-33
+3132,Knutsford," WA16 0TL,1"," WA16 0TL
+1",3132,53.33972875,-2.381231392,,60-37
+3136,Winsford," Winsford Cross SC,Winsford"," CW7 1BA
+1",3136,53.19180073,-2.527771669,3,59-36
+3156,Kiddminster," U1 Swan SC,Kidderminster"," DY10 2AZ
+",3156,52.3883,-2.2489499,2,61-27
+3177,West Thurrock," RM16 3BG,1"," RM16 3BG
+1",3177,51.4855602,0.2874451,,78-16
+3180,Stirling," FK9 4UA,"," FK9 4UA
+",3180,56.1316121,-3.96000405,,49-69
+3194,Kirkintilloch," 73 Cowgate,Kirkingtilloch"," G66 1HW
+1",3194,55.94059,-4.15789,3,48-67
+3208,Birmingham," 144 Weoley Castle Rd,Weoley Castle"," B29 5QL
+",3208,52.4376314,-1.9687226,,63-27
+3212,Rubery," 175 New Rd,Rubery"," B45 9JW
+",3212,52.3938631,-2.017902,,62-27
+3214,Northfield," U8 Northfield SC,Northfield"," B31 2JU
+",3214,52.4166637,-1.9687233,2,63-27
+3216,Harborne," 83 High St,Harborne"," B17 9NR
+",3216,52.4580159,-1.9573797,,63-27
+3224,Bilston," 102 Church St,Bilston"," WV14 0BJ
+",3224,52.5659236,-2.0755892,,62-29
+3234,Willenhall," 83 Stafford St,Willenhall"," WV13 1RT
+",3234,52.5851191,-2.0561228,,62-29
+3236,Wednesfield," U1 Phoenix Rd IE,Wednesfield"," WV11 3PX
+",3236,52.59252,-2.07828,2,62-29
+3237,Wolverhampton," U25A Wulfrun SC,Wolverhampton"," WV1 3HG
+",3237,52.5833475,-2.1266902,2,62-29
+3238,Bearsden," 124 Drymen Rd,Bearsden"," G61 3RB
+",3238,55.9106376,-4.3248449,,47-66
+3239,Milngavie," 6 Douglas St,Milngavie"," G62 6PB
+",3239,55.9406974,-4.3194968,,47-67
+3240,Drumchapel," 71 Kinfauns Dr,Drumchapel"," G15 7TG
+",3240,55.9168282,-4.3705004,,46-66
+3242,Anniesland," 1580 Great Western Rd,Anniesland"," G13 1HQ
+",3242,55.88836,-4.32081,,47-66
+3243,Glasgow," 1 Gorstan Path,Glasgow"," G23 5QG
+",3243,55.90027,-4.28993,2,47-66
+3244,Outlet: Glasgow," 1843 Maryhill Rd,Glasgow"," G20 0DF
+",3244,55.88908,-4.2879415,,47-66
+3246,Knightswood," 740 Anniesland Rd,Knightswood"," G14 0YU
+",3246,55.8900578,-4.3297916,,47-66
+3249,Maryhill," U8 Maryhill SC,Maryhill"," G20 9SH
+",3249,55.88714,-4.28648,2,47-66
+3250,Broomhill," U12 Broomhill SC,Broomhill"," G11 7BN
+",3250,55.87598829,-4.323954513,2,47-66
+3251,Braehead," U107 Intu SC,Braehead"," G51 4BS
+",3251,55.87603,-4.36513,2,46-66
+3252,Renfrew," 11 High St,Renfrew"," PA4 8QL
+",3252,55.8761546,-4.3816947,,46-66
+3256,Govan," U4 Govan Cross SC,Govan"," G51 3JW
+",3256,55.86276,-4.31206,2,47-66
+3257,Glasgow," U4 Hillington RP,Hillington"," G52 4LY
+",3257,55.86158463,-4.366585033,2,46-66
+3291,A43 Baynards Green," OX27 7SG,1"," OX27 7SG
+1",3291,51.8986114,-1.1538728,,68-21
+3294,Calcutt Service Station," SN6 6JR,1"," SN6 6JR
+1",3294,51.5656208,-1.7853111,,64-17
+3295,Dorcan Way," SN3 3RA,1"," SN3 3RA
+1",3295,51.5656208,-1.7853111,,64-17
+3298,Bromsgrove," 104 High St,Bromsgrove"," B61 8EX
+",3298,52.3354657,-2.0599721,,62-26
+3299,Bromsgrove," U5A Bromsgrove RP,Bromsgrove"," B61 0DD
+",3299,52.33853443,-2.054603533,2,62-26
+3301,Longbridge," 4 High Street,Longbridge"," B31 2UQ
+",3301,52.3954215,-1.9840283,,62-27
+3309,A449 Crown Lane," DY11 7XP,"," DY11 7XP
+",3309,52.32349117,-2.233112067,,61-26
+3314,Kiddminster," U6 Weavers Whf RP,Kidderminster"," DY10 1AA
+",3314,52.3867358,-2.25166165,2,61-27
+3315,Kidderminster," U2 Foley Dr,Kidderminster"," DY11 7PT
+",3315,52.3629636,-2.2650726,,61-26
+3316,Birmingham," 1013 Alcester Rd Sth,Maypole"," B14 5JA
+",3316,52.4031135,-1.8852906,,63-27
+3320,Guisborough," 39 Westgate,Guisborough"," TS14 6BG
+",3320,54.5348384,-1.0550556,,69-51
+3353,Bolton," BL1 7LR,1"," BL1 7LR
+1",3353,53.5737147,-2.4247689,,60-40
+3378,Outlet: Deckham," 300 Old Durham Rd,Deckham"," NE8 4BQ
+",3378,54.9513773,-1.5956641,,65-56
+3383,Low Fell," 487 Durham Rd,Low Fell"," NE9 5EX
+",3383,54.9360727,-1.5993843,,65-55
+3399,Abington," CB21 6AP,"," CB21 6AP
+",3399,52.12638078,0.222692375,,77-24
+3409,Bury St Edmunds," IP28 6AE,1"," IP28 6AE
+1",3409,52.3211828,0.56171,,80-26
+3411,Colchester," CO5 9EL,2"," CO5 9EL
+2",3411,51.92584135,0.758678096,,81-21
+3416,Buntingford," SG9 9EG,2"," SG9 9EG
+2",3416,52.0310244,-0.1086547,,75-23
+3418,Long Sutton," PE12 9ED,"," PE12 9ED
+",3418,52.7817491,0.1265731,,77-31
+3424,Spalding," PE12 6FY,1"," PE12 6FY
+1",3424,52.7887123,-0.157091927,,75-31
+3432,Lincolnshire," PE20 2LG,1"," PE20 2LG
+1",3432,52.89032485,-0.081965675,3,75-32
+3435,Peterborough," PE7 3UJ,2"," PE7 3UJ
+2",3435,52.5401221,-0.2878114,,74-28
+3450,Copthorne Common," RH10 3LF,1"," RH10 3LF
+1",3450,51.11210605,-0.186799139,,75-12
+3453,Orpington," 238 High St,Orpington"," BR6 0LS
+1",3453,51.3760929,0.099322099,,77-15
+3456,Orpington, U18 Nugent SP," BR5 3RP
+1",3456,-23.4722725,-46.7188776,,
+3458,Inverness," IV1 1SD,"," IV1 1SD
+",3458,57.48743062,-4.22060338,,47-84
+3459,Wolverhampton," 3 Dudley St,Wolverhampton"," WV1 3EN
+",3459,52.5847004,-2.1265546,,62-29
+3460,Wolverhampton," 24 Market St,Wolverhampton"," WV1 3AG
+",3460,52.58502315,-2.125895926,,62-29
+3461,Wolverhampton, 3 The Gallery," WV1 3NJ
+",3461,28.103915,-15.4160463,,
+3463,Wolverhampton, U5 Avion SC," WV6 0QW
+",3463,52.5939003,-2.1427186,2,61-29
+3464,Wolverhampton," New Cross Hospital,Wolverhampton"," WV10 0QP
+",3464,52.59971225,-2.095577782,,62-29
+3465,Wolverhampton," 749 Cannock Rd,Wolverhampton"," WV10 8PN
+",3465,52.6133509,-2.0988168,,62-29
+3466,Wednesfield," 62 High St,Wednesfield"," WV11 1SZ
+",3466,52.5988656,-2.0837223,,62-29
+3468,Wolverhampton," 16 Marsh Ln Pde,Wolverhampton"," WV10 6RT
+",3468,52.6204926,-2.1310016,,62-29
+3472,Wolverhampton," WV10 7ER,"," WV10 7ER
+",3472,52.6368,-2.12608,,62-29
+3475,Codsall," 18 Station Rd,Codsall"," WV8 1BX
+",3475,52.6299572,-2.2015705,,61-29
+3476,Essington," WV11 2AT,"," WV11 2AT
+",3476,52.64362008,-2.056337275,,62-29
+3499,Devon," PL6 8LE,"," PL6 8LE
+",3499,50.40296,-4.10167,,48-4
+3500,Plymouth," 30 Royal Pde,Plymouth"," PL1 1DU
+",3500,50.3703981,-4.1412632,,48-4
+3501,Plymouth," PL2 2BG,"," PL2 2BG
+",3501,50.39124,-4.18423,,48-4
+3502,Paignton," Yannons Rd,Paignton"," TQ4 7TS
+2",3502,50.4193983,-3.5866261,,52-4
+3503,Newton Abbot," U3 Market Wlk SC,Newton Abbot"," TQ12 2RX
+2",3503,50.5308198,-3.61079965,3,51-6
+3504,Okehampton," EX20 4LY,2"," EX20 4LY
+2",3504,50.7400816,-3.9877211,,49-8
+3505,Launceston, Pennygillam IE," PL15 7ED
+2",3505,50.6273883,-4.3732429,3,46-7
+3506,Torquay," U20 Union Square SC,Torquay"," TQ1 3UT
+2",3506,50.46756247,-3.5292857,3,52-5
+3507,Teignmouth," 12 Wellington St,Teignmouth"," TQ14 8HH
+2",3507,50.5463883,-3.4953468,,52-6
+3508,Exeter," EX6 7XS,2"," EX6 7XS
+2",3508,50.7112474,-3.4771806,,52-8
+3511,Stockport," SK1 2BT,"," SK1 2BT
+",3511,53.4163832,-2.1534814,,61-38
+3514,Ashton Road," SK6 2QN,"," SK6 2QN
+",3514,53.4299899,-2.12146,,62-38
+3515,Levenshulme," 1083 Stockport Rd,Levenshulme"," M19 2RE
+",3515,53.4367937,-2.1850567,,61-38
+3518,Denton," 17 Manchester Rd,Denton"," M34 3JU
+",3518,53.4560555,-2.1150603,,62-39
+3519,Manchester," 539 Stockport Rd,Longsight"," M12 4JH
+",3519,53.4571124,-2.2003922,,61-39
+3524,Hyde," 14 Clarendon Sq,Hyde"," SK14 2QT
+",3524,53.45093,-2.07816,2,62-39
+3526,Manchester," U10 Grove Vlg Pde,Ardwick"," M13 9AB
+",3526,53.46561119,-2.2156513,2,61-39
+3574,Staplehurst," TN12 0LA,"," TN12 0LA
+",3574,51.16051,0.5518499,,80-13
+3584,Gravesend," DA11 7NP,1"," DA11 7NP
+1",3584,51.446506,0.3226495,,78-16
+3585,Chalk," DA12 4TN,1"," DA12 4TN
+1",3585,51.3899852,0.5063593,,79-15
+3638,Beddau, Pontypridd," CF38 2BL
+1",3638,51.6001047,-3.3449362,,53-18
+3639,Llanharan," U3 Bridgend Rd,Llanharan"," CF72 9RP
+1",3639,51.534137,-3.444382,,53-17
+3643,Ipswich," IP1 5FG,"," IP1 5FG
+",3643,52.06367,1.10975,,83-23
+3647,Needham Market," IP6 8LP,"," IP6 8LP
+",3647,52.1476518,1.080500475,,83-24
+3665,Ashford, Mx," TW15 2UD
+",3665,23.6585116,-102.0077097,,
+3691,Hoddesdon," EN11 8SX,"," EN11 8SX
+",3691,51.75813662,-0.01292359,,76-19
+3700,Stroud," 54 High St,Stroud"," GL5 1AP
+",3700,51.7453259,-2.215759961,,61-19
+3701,Gloucester," U4a Gloucester BP,Gloucester"," GL3 4BJ
+",3701,51.84792763,-2.171567867,2,61-20
+3702,Gloucester," Eastern Ave TE,Gloucester"," GL4 3SJ
+",3702,51.8490042,-2.2266371,,61-20
+3703,Gloucester, Kings Walk SC," GL1 1RW
+",3703,52.6622778,0.1612876,,77-30
+3704,Gloucester," 19 Southgate St,Gloucester"," GL1 1TP
+",3704,51.8586712,-2.250623,,61-21
+3706,Cheltenham," Coronation Sq,Cheltenham"," GL51 7SE
+1",3706,51.90324805,-2.115464842,,62-21
+3707,Cheltenham," 219 High St,Cheltenham"," GL50 3HH
+1",3707,51.9057244,-2.0851235,,62-21
+3708,Cheltenham," Uj Gallagher RP,Cheltenham"," GL51 9RR
+1",3708,51.9181918,-2.10388435,3,62-21
+3714,Yate," U61 Beeches IE,Yate"," BS37 5QR
+1",3714,51.5433077,-2.4395025,3,59-17
+3715,Tewkesbury," U5E Delta Dr,Tewkesbury"," GL20 8HB
+1",3715,52.0006132,-2.1295909,3,62-22
+3718,Trunk Road," HR9 7QJ,1"," HR9 7QJ
+1",3718,51.9273691,-2.5691993,3,59-21
+3720,Bridgend, U7 Bridgend SC," CF31 1DD
+",3720,51.5039569,-3.575445,2,52-17
+3722,Bridgend," U5A Parc Plaza RO,Bridgend"," CF31 3XY
+",3722,51.49423,-3.5588,2,52-16
+3723,Bridgend, U7 Raven Cl," CF31 3RF
+",3723,51.6528028,-0.4239914,,73-18
+3724,Bridgend," U1 Triangle SC,Bridgend"," CF31 2LL
+",3724,51.50731512,-3.56050168,2,52-17
+3726,Pencoed,"15 Coychurch Rd,Pencoed"," CF35 5NH
+",3726,51.5224773,-3.5008531,,52-17
+3730,Llantwit Major," U3 Poundfield SC,Llantwit Major"," CF61 1XA
+",3730,51.40868632,-3.48298685,2,52-15
+3731,Pontyclun," 19 Cowbridge Rd,Pontyclun"," CF72 9EA
+",3731,51.5226697,-3.391318,,53-17
+3732,Pontyclun," 48 Talbot Rd,Talbot Green"," CF72 8AF
+",3732,51.53710495,-3.384180211,,53-17
+3739,Pontyclun," CF72 8SA,1"," CF72 8SA
+1",3739,51.4944453,-3.191443,,54-16
+3782,Dover," CT17 9EF,"," CT17 9EF
+",3782,51.11835,1.30698,,85-12
+3783,Kent," CT14 9TF,"," CT14 9TF
+",3783,51.22169,1.39468,,85-13
+3808,Wiltshire," SP5 3HZ,2"," SP5 3HZ
+2",3808,50.9979931,-1.7595084,3,64-11
+3809,Weymouth," 21 St Mary St,Weymouth"," DT4 8PN
+2",3809,50.6077832,-2.4545229,,59-6
+3810,Shaftesbury," SP7 8DS,2"," SP7 8DS
+2",3810,51.0106816,-2.192353175,3,61-11
+3811,Portland," DT5 1GE,2"," DT5 1GE
+2",3811,50.56576,-2.45214,3,59-6
+3813,Exmouth," 44 The Parade,Exmouth"," EX8 1RW
+",3813,50.62044688,-3.412749492,2,53-7
+3815,Exeter," EX6 7XS,"," EX6 7XS
+",3815,50.64053075,-3.56205325,,52-7
+3816,Exeter," EX2 7HF,"," EX2 7HF
+",3816,50.71596625,-3.46405215,,52-8
+3817,Exeter, Sowton IE," EX2 7LA
+",3817,50.71834798,-3.466898733,2,52-8
+3818,Exeter, Marsh Barton TE," EX2 8QH
+",3818,50.69751775,-3.51985984,,52-7
+3819,Exeter," 195 High St,Exeter"," EX4 3EB
+",3819,50.72303655,-3.532207743,,52-8
+3826,Edinburgh," U12 Princes Mall,Edinburgh"," EH1 1BQ
+",3826,55.95229502,-3.19101162,2,54-67
+3827,Edinburgh," 19 Rose St,Edinburgh"," EH2 2PR
+",3827,55.9530315,-3.1960873,,54-67
+3828,Edinburgh," 21 Elm Row,Edinburgh"," EH7 4AA
+",3828,55.9589264,-3.1830818,,54-67
+3829,Edinburgh," 85 Rose St,Edinburgh"," EH2 3DT
+",3829,55.9521762,-3.2007628,,54-67
+3830,Edinburgh," 43 Forrest Rd,Edinburgh"," EH1 2QP
+",3830,55.9456427,-3.1913637,,54-67
+3831,Edinburgh," 106 Easter Rd,Edinburgh"," EH7 5RH
+",3831,55.9591279,-3.1715305,,54-67
+3832,Edinburgh," 2 Shandwick Pl,Edinburgh"," EH2 4RN
+",3832,55.9501543,-3.2086036,,54-67
+3833,Edinburgh," 126 Lothian Rd,Edinburgh"," EH3 9BG
+",3833,55.9454456,-3.2056917,,54-67
+3834,Edinburgh," 357 Leith Wlk,Edinburgh"," EH6 8SD
+",3834,55.9640731,-3.1770912,,54-67
+3835,Edinburgh," 27A Raeburn Pl,Stockbridge"," EH4 1HU
+",3835,55.9588767,-3.2113228,,54-67
+3836,Edinburgh," 17 West Maitland St,Edinburgh"," EH12 5EA
+",3836,55.9466669,-3.2163737,,54-67
+3837,Edinburgh," U5 Newkirkgate SC,Edinburgh"," EH6 6AD
+",3837,55.97153142,-3.171501575,2,54-67
+3838,Edinburgh," 198 Bruntsfield Pl,Edinburgh"," EH10 4DF
+",3838,55.9360104,-3.2097801,,54-67
+3839,Edinburgh," 162 Restalig Rd Sth,Edinburgh"," EH7 6EH
+",3839,55.96130645,-3.15186935,2,55-67
+3840,Edinburgh," EH6 6NX,"," EH6 6NX
+",3840,44.506988,-109.2641216,,
+3841,Edinburgh, 6 Lady Rd," EH16 5PB
+",3841,55.9273836,-3.1644271,,55-67
+3843,Edinburgh," 141 Boswall Parkway,Edinburgh"," EH5 2LY
+",3843,55.9753862,-3.2342878,,54-67
+3844,Edinburgh," 2 Harewood Dr,Edinburgh"," EH16 4GP
+",3844,55.9331249,-3.134466225,,55-67
+3846,Fareham," West St,Fareham"," PO16 0AD
+",3846,50.8476805,-1.1379165,,68-9
+3847,Fareham," PO16 0QW,"," PO16 0QW
+",3847,50.84475765,-1.18294555,,68-9
+3848,Southampton," SO31 7ZE,"," SO31 7ZE
+",3848,50.87220413,-1.271343325,,67-9
+3858,Southampton, Hedge End," SO30 4FN
+",3858,50.91361855,-1.308875479,,67-10
+3860,Southampton, Bitterne," SO18 5RR
+",3860,50.9146991,-1.3603172,,67-10
+3914,Great Bridge Road," SO51 0HB,"," SO51 0HB
+",3914,51.0025392,-1.49997235,,66-11
+3916,Fareham," PO16 0QW,1"," PO16 0QW
+1",3916,50.85374565,-1.192675353,,68-9
+3917,Winchester," 16 High St,Winchester"," SO23 9JX
+1",3917,51.06201585,-1.312733854,,67-12
+3939,Edinburgh," 164 High St Portobello,Portobello"," EH15 1EX
+",3939,55.9528015,-3.1140052,,55-67
+3950,A418/B4011," OX9 3SB,"," OX9 3SB
+",3950,51.75702,-0.97832,,69-19
+3951,Berkhamsted," HP4 2NB,1"," HP4 2NB
+1",3951,51.75704083,-0.552976525,3,72-19
+3953,Amersham," 42 Sycamore Rd,Amersham"," HP6 5DR
+1",3953,51.67754545,-0.606211218,,72-19
+3954,High Wycombe," 13 Queens Sq,High Wycombe"," HP11 2DF
+1",3954,51.6304847,-0.7525086,,71-18
+3956,High Wycombe," 186 New Rd,High Wycombe"," HP12 4RG
+1",3956,51.6302959,-0.7853901,,71-18
+3957,Milton Keynes," MK1 1QB,1"," MK1 1QB
+1",3957,52.0555285,-0.6990318,,71-23
+3963,Milton Keynes," MK9 3DA,1"," MK9 3DA
+1",3963,52.0347294,-0.7751261,,71-23
+3968,Maple Rise," SL7 1HH,"," SL7 1HH
+",3968,51.5766457,-0.7705411,,71-17
+3981,Uxbridge," UB9 4DF,1"," UB9 4DF
+1",3981,51.574667,-0.503803,,73-17
+4011,Warrington," U1 Westbrook Ctr,Warrington"," WA5 8UG
+",4011,53.4076007,-2.6331456,,58-38
+4016,Warrington," U88 Golden Sq SC,Warrington"," WA1 1QE
+",4016,53.3898933,-2.595266715,2,58-38
+4017,Warrington," U9 Cockhedge SP,Warrington"," WA1 2QQ
+",4017,53.3912306,-2.58786208,2,58-38
+4022,Warrington," WA4 4EZ,"," WA4 4EZ
+",4022,53.2935161,-2.5931696,,58-37
+4024,Warrington," WA1 4AE,"," WA1 4AE
+",4024,53.39835305,-2.543567411,,59-38
+4038,Poplar, Chrisp St," E14 6AQ
+",4038,51.5125174,-0.0138839,,76-17
+4063,Huyton," L36 8HL,1"," L36 8HL
+1",4063,53.37863375,-2.73436558,,57-38
+4067,Cheshire," CW1 6FL,"," CW1 6FL
+",4067,53.08841113,-2.4307349,,59-34
+4069,Shavington," CW2 5UZ,"," CW2 5UZ
+",4069,53.0716858,-2.43638375,,59-34
+4076,Northwich," 8 Leicester St,Northwich"," CW9 5LA
+1",4076,53.2622056,-2.512502013,,59-36
+4083,Warrington," WA4 4EZ,1"," WA4 4EZ
+1",4083,53.33089935,-2.624807367,,58-37
+4091,Railway Road," WN8 8TL,1"," WN8 8TL
+1",4091,53.5909955,-2.771570389,,57-40
+4104,East Lancashire Road," L11 2ST,1"," L11 2ST
+1",4104,53.3606873,-2.855382463,,57-38
+4105,Knowsley," L33 7TU,1"," L33 7TU
+1",4105,23.1105453,69.5629741,2,
+4116,Eccles," 12 The Mall,Eccles"," M30 0EA
+",4116,53.4839131,-2.33637072,2,60-39
+4121,Manchester, U6 Peter House," M1 5AN
+",4121,52.2601366,-7.1098285,,28-25
+4124,Manchester, 15A City Tower," M1 4AJ
+",4124,0.3209259,32.5782507,,
+4127,Hailsham," BN27 4DT,"," BN27 4DT
+",4127,50.88664,0.24002,,78-10
+4153,Godalming," 8 High St,Godalming"," GU7 1AD
+",4153,51.18593035,-0.610629184,,72-13
+4158,Haselmere," GU27 1LE,"," GU27 1LE
+",4158,51.08780549,-0.7329353,,71-12
+4160,Woking Road," GU1 1NH,1"," GU1 1NH
+1",4160,51.3188349,-0.556687571,,72-14
+4169,Stourport-on-Severn," DY13 8YJ,"," DY13 8YJ
+",4169,52.3421592,-2.2765824,,61-26
+4183,Birmingham," B32 4AR,1"," B32 4AR
+1",4183,52.3553508,-2.0395036,,62-26
+4211,Warrington," U27 Birchwood SC,Warrington"," WA3 7PJ
+",4211,53.41548,-2.5265,2,59-38
+4212,Warrington," WA3 6RW,"," WA3 6RW
+",4212,53.41917167,-2.5274096,,59-38
+4213,Lymm," WA13 0SP,"," WA13 0SP
+",4213,53.35932014,-2.5048355,,59-38
+4291,Coventry," 507 Foleshill Rd,Coventry"," CV6 5AU
+",4291,52.4371633,-1.4931322,,66-27
+4300,Bedworth," 32 All Saints Sq,Bedworth"," CV12 8ND
+",4300,52.4793869,-1.4726071,,66-28
+4302,Nuneaton," CV10 7DA,"," CV10 7DA
+",4302,52.50394,-1.47701,,66-28
+4303,Nuneaton," 12 Queens Rd,Nuneaton"," CV11 5JW
+",4303,52.5224828,-1.4724882,,66-28
+4304,Nuneaton," U33 Abbeygate CTR,Nuneaton"," CV11 4HD
+",4304,52.52362,-1.46759,2,66-28
+4313,Tamworth, UM Ventura RP," B78 3JD
+",4313,52.62722872,-1.700663671,2,64-29
+4314,Tamworth," U20 Ankerside SC,Tamworth"," B79 7LG
+",4314,52.63285247,-1.693442071,2,64-29
+4316,Cannock, Cannock Gateway RP," WS11 8XR
+",4316,52.6738387,-2.021690885,,62-30
+4319,Cannock," 1 Market Hall St,Cannock"," WS11 1BU
+",4319,52.6895139,-2.0308956,2,62-30
+4342,Orpington," 113 Cotmandene Cres,St Pauls Cray"," BR5 2RB
+1",4342,51.40367016,0.106179479,3,77-15
+4348,Hermitage," RG18 9XX,"," RG18 9XX
+",4348,51.4489583,-1.31105275,,67-16
+4361,Cocksford Down," SO21 3BD,1"," SO21 3BD
+1",4361,51.1827514,-1.260391749,,67-13
+4381,Ilminster," TA19 9PT,2"," TA19 9PT
+2",4381,51.0136817,-2.867359,,57-11
+4382,Kirkcaldy," U5 The Mercat CTR,Kirkcaldy"," KY1 1NU
+",4382,56.10943005,-3.15811425,2,55-69
+4383,Fife," KY2 5DS,"," KY2 5DS
+",4383,56.127579,-3.172003,,54-69
+4384,Kirkcaldy," U2 Fife Central RP,Kirkcaldy"," KY2 6QL
+",4384,56.13471848,-3.200191777,2,54-69
+4386,Glenrothes," KY6 1PD,"," KY6 1PD
+",4386,56.19543,-3.19871,,54-70
+4390,Dunfermline, U3 Pittsburgh RP," KY11 8DX
+",4390,56.06631,-3.40401,2,53-68
+4392,Dunfermline," Turnstone Rd,Dunfermline"," KY11 8EG
+1",4392,56.0612288,-3.4056619,,53-68
+4395,Dalgety Bay," U1 Hillend IP,Dalgety Bay"," KY11 9AB
+1",4395,56.04187861,-3.359812629,3,53-68
+4415,Sittingbourne," ME10 1QB,2"," ME10 1QB
+2",4415,51.4149714,0.7584717,,81-16
+4417,Minster On Sea," ME12 3EN,2"," ME12 3EN
+2",4417,51.4149714,0.7584717,,81-16
+4420,Newton Aycliffe, U1 Ayclfe IP," DL5 6AD
+",4420,54.60778,-1.56385,2,65-52
+4421,Newton Aycliffe," DL1 3NL,"," DL1 3NL
+",4421,54.58450357,-1.563531933,,65-51
+4422,Ferryhill," 17 Market St,Ferryhill"," DL17 8JN
+",4422,54.68907125,-1.556129007,,65-53
+4423,Bishop Auckland," U2 Newgate SC,Bishop Auckland"," DL14 7JQ
+",4423,54.6646415,-1.67536812,2,65-52
+4424,Darlington," 7 North Rd RP,Darlington"," DL1 2PF
+",4424,fail,fail,,
+4425,Cockerton," 301 Woodland Rd,Cockerton"," DL3 9AA
+",4425,54.5334246,-1.5782197,,65-51
+4426,Durham Road," DL17 8RU,"," DL17 8RU
+",4426,54.70426798,-1.566968225,,65-53
+4427,Darlington," 52 Northgate,Darlington"," DL1 1PR
+",4427,54.5270464,-1.5535082,,65-51
+4428,Darlington," U60 Cornmill SC,Darlington"," DL1 1LT
+",4428,54.52533,-1.55343435,2,65-51
+4429,Darlington," 68 Skinnergate,Darlington"," DL3 7LL
+",4429,54.525267,-1.5573603,,65-51
+4430,Darlington," 19 High Row,Darlington"," DL3 7QQ
+",4430,54.5248353,-1.5556712,,65-51
+4431,Bowburn," Integra 61 Drive Thru,Bowburn"," DH6 5FQ
+",4431,54.72646,-1.52741,2,66-53
+4434,Brandon," U2 Brandon SC,Brandon"," DH7 8NN
+",4434,33.9842861,-80.9600892,,
+4435,Crook," U3 The Royal Corner,Crook"," DL15 9UA
+",4435,54.71493035,-1.746391483,2,64-53
+4436,Wolviston," TS22 5PZ,1"," TS22 5PZ
+1",4436,54.5723929,-1.252114,,67-51
+4439,Barnsley," 20 May Day Green,Barnsley"," S70 1SH
+",4439,53.5526357,-1.4792808,,66-40
+4440,Barnsley," 5 Eldon Arc,Barnsley"," S70 2JP
+",4440,53.55264695,-1.481696621,,66-40
+4441,Barnsley," 3 Peel Sq,Barnsley"," S70 2QT
+",4441,53.5525136,-1.481809523,,66-40
+4442,Barnsley," U2 Old Mill Ln,Barnsley"," S71 1LL
+",4442,53.5570381,-1.4830376,,66-40
+4443,Barnsley, U2 The Co-Op," S71 3TY
+",4443,53.5788919,-1.4793014,2,66-40
+4444,Barnsley," U8 Wombwell Lane RP,Barnsley"," S70 3PB
+",4444,53.53886,-1.43076,2,66-40
+4445,Wombwell," 245 Barnsley Rd,Wombwell"," S73 8DT
+",4445,53.5321965,-1.4127187,,66-39
+4446,Birdwell, U1E Rockingham SS," S70 5SZ
+",4446,39.1311698,-94.63629707,,
+4447,Wombwell," 50 High St,Wombwell"," S73 8BH
+",4447,53.5217793,-1.3974303,,66-39
+4450,Penistone," 1 High St,Penistone"," S36 6BR
+",4450,53.5251312,-1.6305989,,65-39
+4451,Stocksbridge," UA4 Fox Valley RP,Stocksbridge"," S36 2AA
+",4451,53.48268,-1.59064,2,65-39
+4454,Pontefract," 27 Barnsley Rd,Pontefract"," WF9 2RN
+",4454,53.64475075,-1.336052331,,67-41
+4470,Hinckley," U16 Britannia SC,Hinckley"," LE10 1RU
+",4470,52.54218,-1.37192,2,67-28
+4471,Hinckley," 20 Castle St,Hinckley"," LE10 1DB
+",4471,52.5419831,-1.3670618,,67-28
+4482,Rugby," CV23 0EZ,1"," CV23 0EZ
+1",4482,52.3391532,-1.3181633,,67-26
+4487,Coventry," CV3 2ZZ,1"," CV3 2ZZ
+1",4487,52.3093287,-1.5288717,,66-26
+4488,Markfield," LE67 9PU,1"," LE67 9PU
+1",4488,52.70041087,-1.305116433,3,67-30
+4489,Coventry," CV1 1DG,1"," CV1 1DG
+1",4489,52.3003721,-1.5544146,,65-26
+4518,Bradford," Lister Hills,Listerhills"," BD7 1ND
+",4518,53.79247,-1.77307,2,64-42
+4520,Outlet: Bradford," 45 Great Horton Rd,Bradford"," BD7 1AZ
+",4520,53.7790455,-1.7881416,,64-42
+4523,Bradford, 3 Interchange," BD1 1TU
+",4523,35.5122935,-97.5155403,,
+4524,Bradford," U4 Kirkgate SC,Bradford"," BD1 1QY
+",4524,53.79482,-1.75507,2,64-42
+4525,Bradford," 43 Bank St,Bradford"," BD1 1PU
+",4525,41.9589114,-78.65358327,,
+4526,Bradford," 23 Broadway,Bradford"," BD1 1HA
+",4526,53.8468414,-1.8270856,,64-43
+4558,Wishaw," 398A Coltness Rd,Wishaw"," ML2 8JZ
+",4558,55.7855922,-3.9142114,,49-65
+4606,Birmingham," 105 Bristol St,Birmingham"," B15 2DZ
+",4606,52.4726448,-1.8994933,,63-27
+4655,Crosshands," UC Heol Stanllyd,Crosshands"," SA14 6RB
+",4655,51.7937451,-4.0765019,2,48-20
+4667,Carmarthen," U3 Parc Pensarn,Carmarthan"," SA31 2BG
+1",4667,37.0915258,-121.8551164,2,
+4669,Carmarthen," 11 Red St,Carmarthen"," SA31 1QL
+1",4669,51.856894,-4.3081541,,47-21
+4691,Moreton," 243 Hoylake Rd,Moreton"," CH46 0PF
+",4691,53.3984943,-3.118789,,55-38
+4692,Birkenhead," Pavements SC,Birkenhead"," CH41 2ZL
+",4692,53.3889704,-3.0267388,2,55-38
+4703,Liverpool, U14 Central Station," L1 1JT
+",4703,39.2939714,-80.8256612,,
+4704,Liverpool," 21 Bold St,Liverpool"," L1 4DN
+",4704,53.4037567,-2.9794329,,56-38
+4721,Kings Heath," 134 High St,Kings Heath"," B14 7LG
+",4721,52.4375956,-1.8926859,,63-27
+4730,Ilkeston," 33 Bath St,Ilkeston"," DE7 8AH
+",4730,52.9728758,-1.309065981,,67-33
+4867,Richmond," DL10 6PQ,"," DL10 6PQ
+",4867,54.44386883,-1.6668066,,65-50
+4876,Richmond," 14 Market Pl,Richmond"," DL10 4PX
+1",4876,54.309425,-1.8291123,,64-48
+4902,Bollingbroke Road," LN11 0WA,1"," LN11 0WA
+1",4902,53.38279127,-0.0116579,3,76-38
+4903,Hedon," HU12 8DJ,1"," HU12 8DJ
+1",4903,53.7397565,-0.2126123,3,74-42
+4910,Barton Upon Humber," DN18 5TB,1"," DN18 5TB
+1",4910,53.72241625,-0.42299066,,73-42
+4914,Mablethorpe," 37 High St,Mablethorpe"," LN12 1AX
+2",4914,53.3413923,0.2606007,,78-37
+4917,Ashby," 18 Broadway,Ashby"," DN16 2SN
+2",4917,53.5666218,-0.6489407,,72-40
+4919,Winchester," SO21 1PP,"," SO21 1PP
+",4919,51.11970823,-1.25482945,,67-12
+4931,Southampton," SO31 7ZE,1"," SO31 7ZE
+1",4931,50.94985205,-1.187894475,,68-10
+4980,Castle Donington," DE74 2TN,"," DE74 2TN
+",4980,52.82202035,-1.30815001,,67-31
+5012,Chigwell," 197 Manford Way,Chigwell"," IG7 4DJ
+",5012,51.6082847,0.1069349,,77-18
+5081,Bedfordshire," SG18 9SN,"," SG18 9SN
+",5081,52.0680428,-0.2406008,,74-23
+5115,Kings Langley," WD4 8HR,1"," WD4 8HR
+1",5115,51.7503994,-0.327492911,,74-19
+5118,Sunderland," U1 Union St,Sunderland"," SR1 3BT
+",5118,54.903966,-1.4495195,,66-55
+5120,Sunderland," U28 The Bridges SC,Sunderland"," SR1 3LB
+",5120,54.9059112,-1.38573836,2,67-55
+5121,Sunderland," 18 Fawcett St,Sunderland"," SR1 1RH
+",5121,54.9061707,-1.3814009,,67-55
+5125,Sunderland," U7 The Green,Sunderland"," SR5 2JE
+",5125,54.9198552,-1.4038553,,66-55
+5127,Fulwell," 29 Sea Rd,Fulwell"," SR6 9BS
+",5127,54.9297143,-1.380132,,67-55
+5169,Hampshire," PO11 0LG,1"," PO11 0LG
+1",5169,50.8110805,-1.0893859,,69-9
+5174,London Road," GU31 4AT,2"," GU31 4AT
+2",5174,51.0973481,-0.943085239,,70-12
+5213,London Road," GU31 4AT,"," GU31 4AT
+",5213,51.0100257,-0.928512767,,70-11
+5230,Ledbury," 2 High St,Ledbury"," HR8 1DS
+1",5230,52.03702095,-2.42248898,,60-23
+5231,Malvern," 326 Worcester Rd,Malvern"," WR14 1BD
+1",5231,52.1335369,-2.3031229,,60-24
+5232,Worcester," WR4 0SX,2"," WR4 0SX
+2",5232,52.1570682,-2.1596752,,61-24
+5233,Calcutt Service Station," SN6 6JR,2"," SN6 6JR
+2",5233,51.5657249,-1.78534,,64-17
+5234,Trunk Road," HR9 7QJ,2"," HR9 7QJ
+2",5234,51.9273691,-2.5691993,3,59-21
+5235,Worcester," 59 High St,Worcester"," WR1 2QA
+2",5235,42.58811715,-71.80183173,,
+5236,Warndon," U5 Berkeley Way,Warnden"," WR4 9FB
+2",5236,52.21316059,-2.178227029,3,61-25
+5237,Worcester," U1A Blackpole RP,Worcester"," WR3 8PQ
+2",5237,52.2122846,-2.2001828,3,61-25
+5260,Addlestone," 94 Station Rd,Addlestone"," KT15 2AD
+",5260,51.3745556,-0.4816186,,73-15
+5276,Clockhouse Lane," TW14 8RD,1"," TW14 8RD
+1",5276,fail,fail,,
+5277,Southern Perimeter Road," TW6 3PF,1"," TW6 3PF
+1",5277,51.4664837,-0.4236954,,73-16
+5318,Rugby," 19 Market Pl,Rugby"," CV21 3DU
+",5318,52.3735589,-1.263741094,,67-26
+5319,Rugby," CV23 0EZ,"," CV23 0EZ
+",5319,52.4107229,-1.25073502,,67-27
+5322,Daventry," U20 Bowen Sq,Daventry"," NN11 4DR
+",5322,52.258059,-1.1615507,,68-25
+5328,Broughton Astley," LE9 6NQ,1"," LE9 6NQ
+1",5328,52.5824253,-1.1334763,,68-29
+5339,Hampshire," SP11 0PN,"," SP11 0PN
+",5339,51.21466,-1.5317099,,66-13
+5341,Tidworth," SP9 7LA,"," SP9 7LA
+",5341,51.23885,-1.66436,,65-14
+5344,Amesbury," SP4 7AS,1"," SP4 7AS
+1",5344,44.479526,10.9933408,2,
+5347,Longhedge," SP4 6SA,1"," SP4 6SA
+1",5347,51.10518,-1.79296,3,64-12
+5381,Derby," DE1 2RU,"," DE1 2RU
+",5381,52.91659161,-1.463751856,,66-33
+5390,Belper," 40 King St,Belper"," DE56 1PL
+",5390,53.0231567,-1.4821229,,66-34
+5434,North Orbital Road," WD25 7LW,1"," WD25 7LW
+1",5434,51.7503994,-0.327492911,,74-19
+5441,Dumfries," DG1 3SE,"," DG1 3SE
+",5441,55.06816303,-3.5539265,,52-57
+5444,Wigton," 3 King St,Wigton"," CA7 9DT
+2",5444,54.82502985,-3.16118655,,55-54
+5445,Maryport," 67 Senhouse St,Maryport"," CA15 6BU
+2",5445,54.7139533,-3.4976367,,52-53
+5446,Carlisle," U1 Kingstown IE,Carlisle"," CA3 0ET
+2",5446,54.92513875,-2.947322725,3,56-55
+5447,Carlisle, U3 Globe Ln," CA3 8NX
+2",5447,50.8046926,4.3277797,,
+5448,Carlisle," 131 Denton St,Carlisle"," CA2 5EN
+2",5448,54.8866037,-2.9402217,,56-55
+5449,Carlisle," 8 Devonshire St,Carlisle"," CA3 8LP
+2",5449,54.8928397,-2.9340691,,56-55
+5450,Workington," 19 Murray Rd,Workington"," CA14 2AD
+2",5450,54.643631,-3.5474903,,52-52
+5451,Workington," Washington Square SC,Workington"," CA14 3DZ
+2",5451,54.64334735,-3.545380855,,52-52
+5452,Cockermouth," 54 Main St,Cockermouth"," CA13 9LU
+2",5452,54.6638165,-3.3650876,,53-52
+5518,Brentford," 203 High St,Brentford"," TW8 8AH
+",5518,51.4837969,-0.3046136,,74-16
+5538,Aberdare," 3A Riverside RP,Aberdare"," CF44 0AH
+",5538,51.70193825,-3.4200166,2,53-19
+5625,Gosforth," 133 High St,Gosforth"," NE3 1HA
+",5625,55.0045582,-1.6204217,,65-56
+5631,Newcastle upon Tyne," NE13 8BZ,"," NE13 8BZ
+",5631,55.03762384,-1.710283122,,64-56
+5633,Hereford," 53 Broad St,Hereford"," HR4 9AB
+",5633,52.0553039,-2.7173782,,58-23
+5634,Hereford," 14 Commercial St,Hereford"," HR1 2DB
+",5634,52.0570589,-2.7137177,,58-23
+5637,Ross-on-Wye," HR9 6DW,1"," HR9 6DW
+1",5637,51.8505637,-2.6618893,3,58-20
+5638,Monmouth," 53 Monnow St,Monmouth"," NP25 3EW
+1",5638,51.8110908,-2.7172502,,58-20
+5639,Ludlow," SY8 4AL,1"," SY8 4AL
+1",5639,52.31286,-2.70599,3,58-26
+5641,Monmouth Service Area," NP25 4BG,1"," NP25 4BG
+1",5641,51.7727736,-2.8134858,3,57-20
+5642,Monmouth Service Area," NP25 4BG,2"," NP25 4BG
+2",5642,51.7727736,-2.8134858,3,57-20
+5643,Ludlow," 10 King St,Ludlow"," SY8 1AQ
+2",5643,42.16361237,-72.46421008,,
+5676,Bingley," 5 Rise SC,Bingley"," BD16 1GL
+",5676,53.84718424,-1.836407557,2,63-43
+5677,Ilkley," U3 Brook St,Ilkley"," LS29 8DA
+",5677,53.9247591,-1.8232246,,64-44
+5678,Shipley," 32 Market Sq,Shipley"," BD18 3QJ
+",5678,53.832995,-1.7771716,,64-43
+5679,Bradford," U5 The Parkside CTR,Bradford"," BD9 4JR
+",5679,53.81625967,-1.773562086,2,64-43
+5683,Bradford," 172 Norman Lane,Bradford"," BD2 2JU
+",5683,53.8234165,-1.7286846,,64-43
+5684,Bradford," U19C Forster Square RP,Bradford"," BD1 4RN
+",5684,53.80082523,-1.754219833,2,64-43
+5690,Bradford, Greengates RP," BD10 0QS
+",5690,51.0336946,-0.6640644,,71-11
+5691,Skipton," BD23 1UD,"," BD23 1UD
+",5691,53.96450052,-2.04199585,,62-44
+5692,Otley," 36 Market Pl,Otley"," LS21 3AQ
+",5692,53.9053528,-1.6938527,,64-44
+5693,Dunfermline," U3 Kingsgate SC,Dunfermline"," KY12 7QA
+",5693,56.07239,-3.45953,2,53-68
+5694,Dunfermline," 92 High St,Dunfermline"," KY12 7DP
+",5694,56.0715386,-3.4605131,,53-68
+5710,Fife," KY2 5DS,1"," KY2 5DS
+1",5710,56.127579,-3.172003,3,54-69
+5718,Glenrothes," KY6 1PD,1"," KY6 1PD
+1",5718,56.19543,-3.19871,3,54-70
+5728,Fife," KY2 5DS,2"," KY2 5DS
+2",5728,56.127579,-3.172003,3,54-69
+5745,Crawley Avenue," RH10 8BA,1"," RH10 8BA
+1",5745,51.11210605,-0.186799139,,75-12
+5752,Bognor Regis," PO21 5DS,2"," PO21 5DS
+2",5752,50.803045,-0.6989079,3,71-9
+5792,Buntingford," SG9 9EG,1"," SG9 9EG
+1",5792,52.0304483,-0.1104383,,75-22
+5884,Camerley," GU15 2QL,1"," GU15 2QL
+1",5884,51.2444542,-0.7534895,,71-14
+5909,Rainham," ME8 8PQ,2"," ME8 8PQ
+2",5909,51.395591,0.514987145,,79-15
+6003,Wallingford," OX10 0EG,1"," OX10 0EG
+1",6003,51.60074405,-1.125263829,,68-18
+6011,Buckingham," MK18 1RY,2"," MK18 1RY
+2",6011,51.9886946,-0.9874023,3,69-22
+6012,Banbury," OX15 4AB,2"," OX15 4AB
+2",6012,52.0117105,-1.343970635,,67-22
+6036,Wrexham, Ruabon Park SS," LL14 6EQ
+",6036,52.98374775,-3.046058016,,55-33
+6039,Clwyld," CH7 1UE,1"," CH7 1UE
+1",6039,53.1686583,-3.1356383,3,55-35
+6042,Blacon," CH1 5PN,1"," CH1 5PN
+1",6042,53.1937069,-2.9434158,,56-36
+6043,Mold," CH7 6HB,1"," CH7 6HB
+1",6043,39.2294094,-88.4479959,2,
+6045,Chester," CH2 1JF,1"," CH2 1JF
+1",6045,53.1937069,-2.9434158,,56-36
+6047,Deeside Industrial Estate," CH5 2NN,1"," CH5 2NN
+1",6047,53.34840845,-2.998135563,,56-37
+6049,Chester," CH1 6JS,1"," CH1 6JS
+1",6049,53.1937069,-2.9434158,,56-36
+6052,Chester," CH2 4LU,1"," CH2 4LU
+1",6052,53.3606873,-2.855382463,,57-38
+6064,Spaldwick," PE28 0TD,1"," PE28 0TD
+1",6064,52.34132,-0.34161,3,74-26
+6065,Kettering Road," NN14 1SS,1"," NN14 1SS
+1",6065,52.41459276,-0.790212575,3,71-27
+6073,Whitby," 16 Station Sq,Whitby"," YO21 1DU
+1",6073,54.4850944,-0.6160156,,72-50
+6138,Penkridge," U11 Boscomoor SC,Penkridge"," ST19 5NS
+",6138,52.71737032,-2.11823026,2,62-30
+6139,Staffordshire," ST19 5PR,"," ST19 5PR
+",6139,52.6918303,-2.121165,,62-30
+6144,Essington," WV11 2AT,1"," WV11 2AT
+1",6144,52.6370246,-2.0745135,,62-29
+6147,Wolverhampton," WV10 7ER,1"," WV10 7ER
+1",6147,52.6393226,-2.0954513,,62-29
+6148,Cannock," WS11 9NA,1"," WS11 9NA
+1",6148,52.6655353,-1.958595906,,63-30
+6155,Glossop," 25 High St West,Glossop"," SK13 8AZ
+",6155,53.4432506,-1.9506954,,63-38
+6179,Carlisle," CA4 0NT,"," CA4 0NT
+",6179,54.7983863,-2.872128,,56-54
+6182,Penrith," CA11 0DT,1"," CA11 0DT
+1",6182,54.661782,-2.7588796,,57-52
+6259,Manchester," 93 Piccadilly,Manchester"," M1 2DA
+",6259,53.480137,-2.2334927,,61-39
+6262,Manchester," 16 Gateway House,Manchester"," M1 2GH
+",6262,53.47803782,-2.231627583,2,61-39
+6270,Newtown," Pool Rd,Newtown"," SY16 1DW
+1",6270,52.5208383,-3.2801062,,54-28
+6275,Craven Arms, U1 Craven Ctr," SY7 9PX
+1",6275,53.4213659,-2.6089972,,58-38
+6279,Apley," TF1 6FQ,2"," TF1 6FQ
+2",6279,52.7136135,-2.5020138,3,59-30
+6280,Ludlow," SY8 4AL,2"," SY8 4AL
+2",6280,52.31286,-2.70599,3,58-26
+6283,Llandrindod Wells," Station Cres,Llandrindod Wells"," LD1 5BB
+2",6283,52.2413578,-3.3781028,,53-25
+6284,Telford," TF1 6QJ,2"," TF1 6QJ
+2",6284,52.717081,-2.4767374,3,59-30
+6292,96 Old Brumby Street," DN16 2AW,"," DN16 2AW
+",6292,53.57503165,-0.6555199,,71-40
+6295,Goole," 5 Wesley Sq,Goole"," DN14 5EZ
+1",6295,53.70542983,-0.8714651,3,70-41
+6297,Hatfield," DN8 5GS,1"," DN8 5GS
+1",6297,53.4785644,-1.0105774,,69-39
+6306,Armthorpe," Armthorpe SC,Armthorpe"," DN3 3AN
+1",6306,53.53673,-1.06219,3,69-40
+6308,Doncaster," U16 The Wheatley Hall RP,Doncaster"," DN2 4PE
+1",6308,53.54314,-1.09981,3,68-40
+6349,Pontefract," 18 Market Pl,Pontefract"," WF8 1AT
+",6349,53.69161035,-1.3110415,,67-41
+6350,Knottingley," WF11 0AF,"," WF11 0AF
+",6350,53.69769807,-1.266632,,67-41
+6351,Castleford," G14 Jct 32 SC,Castleford"," WF10 4FR
+",6351,53.71235657,-1.339082429,2,67-42
+6353,Castleford," 64 Carlton St,Castleford"," WF10 1DB
+",6353,53.72613185,-1.352774977,,67-42
+6363,Doncaster," DN6 8LR,"," DN6 8LR
+",6363,53.5884036,-1.215076033,,68-40
+6472,Bradley Stoke," U2 Willow Brook Ctr,Bradley Stoke"," BS32 8EF
+",6472,51.53513735,-2.548752525,2,59-17
+6474,Filton," BS34 5TN,"," BS34 5TN
+",6474,51.5232199,-2.58860995,,58-17
+6475,Bristol," U5 Gloucester Rd Nth,Filton"," BS7 0SH
+",6475,51.50256543,-2.5794426,2,58-17
+6476,Bristol," 8 Arnside Rd,Southmead"," BS10 6AT
+",6476,51.5037185,-2.60228995,,58-17
+6478,Henbury," 175 Crow Ln,Henbury"," BS10 7DR
+",6478,51.50948175,-2.620279084,,58-17
+6487,Bristol," 44 Ridingleaze,Bristol"," BS11 0QE
+1",6487,51.50154365,-2.658580415,,58-17
+6549,Harrogate," 7 Cambridge Rd,Harrogate"," HG1 1PB
+",6549,53.993499,-1.5412921,,65-45
+6551,Wetherby," LS22 5GT,"," LS22 5GT
+",6551,53.9468303,-1.3686154,,67-44
+6554,Leeds," LS19 7UA,"," LS19 7UA
+",6554,53.8716,-1.66436,,65-43
+6555,Otley Road," LS16 8AA,1"," LS16 8AA
+1",6555,53.869692,-1.6623678,,65-43
+6556,Yeadon," 43 High St,Yeadon"," LS19 7SP
+1",6556,53.8662501,-1.6838428,,65-43
+6558,Leeds, Chapel Allerton," LS7 4NY
+1",6558,53.8290348,-1.5383224,,66-43
+6560,Hosforth," 33 Town St,Hosforth"," LS18 5LJ
+1",6560,53.83743343,-1.64155405,3,65-43
+6561,Outlet: Leeds," 1 Hollin Pk Pde,Leeds"," LS8 3AS
+1",6561,53.8209253,-1.4955775,,66-43
+6567,Bramley," U5 Bramley SC,Bramley"," LS13 2ET
+1",6567,53.81182304,-1.626788508,3,65-43
+6570,Witham," CM8 3HB,"," CM8 3HB
+",6570,51.82046,0.6772899,,81-20
+6596,Knutsford," WA16 0TL,"," WA16 0TL
+",6596,53.3006458,-2.4026581,,60-37
+6600,Lymm," WA13 0SP,1"," WA13 0SP
+1",6600,53.3237653,-2.607387138,,58-37
+6607,Warrington," WA1 4AE,1"," WA1 4AE
+1",6607,53.4531757,-2.613283476,,58-39
+6608,Stoke-On-Trent," ST7 1UP,1"," ST7 1UP
+1",6608,53.0930615,-2.298042224,,60-35
+6668,Sheffield," 100 The Moor,Sheffield"," S1 4PB
+",6668,53.3752809,-1.474608,,66-38
+6671,Sheffield," Hillsborough Exchange,Hillsborough"," S6 4GY
+",6671,53.4034038,-1.501836358,,66-38
+6677,Sheffield, UJ St James RP," S8 8BR
+",6677,32.2794584,-106.7690815,,
+6774,Bourne," PE10 0DY,2"," PE10 0DY
+2",6774,52.7557179,-0.3682318,3,73-31
+6782,Grantham," NG33 5JR,2"," NG33 5JR
+2",6782,52.906508,-0.643027,,72-32
+6784,Caerphilly," U29 Castle Court SC,Caerphilly"," CF83 1NU
+",6784,51.5758052,-3.2173017,2,54-17
+6785,Caerphilly," 47 Cardiff Rd,Caerphilly"," CF83 1FP
+",6785,51.5736908,-3.220441794,,54-17
+6788,Caerphilly," UC Castle View SC,Caerphilly"," CF83 1SN
+",6788,51.5704619,-3.241537,2,54-17
+6789,Cardiff," U1 Thornhill Rd,Cardiff"," CF14 6RG
+",6789,51.5367306,-3.2061694,,54-17
+6802,Pontyclun," CF72 8SA,"," CF72 8SA
+",6802,51.50853,-3.3068,,54-17
+6804,Looking for your nearest shop to get your Greggs fix? Don’t worry," we’ve got you covered! Just enter your location in the search bar or use the map to find your flakey favourites.,Greggs homepage,View all products,Allergens & Nutrition,FIND A SHOP,WAYS TO ORDER,GIFT CARDS,GREGGS APP,FAQS,NEWS,Hartle"," we’ve got you covered! Just enter your location in the search bar or use the map to find your flakey favourites.
+Greggs homepage
+View all products
+Allergens & Nutrition
+FIND A SHOP
+WAYS TO ORDER
+GIFT CARDS
+GREGGS APP
+FAQS
+NEWS
+Hartle",6804,fail,fail,,
+6807,Sandwich," CT13 9FA,"," CT13 9FA
+",6807,51.28735,1.33735,,85-14
+6836,Horsham," 27 West St,Horsham"," RH12 1PB
+1",6836,51.0630532,-0.3316147,,74-12
+6844,Worcester," WR4 0SX,"," WR4 0SX
+",6844,52.1875085,-2.1713656,,61-24
+6848,Stourport-on-Severn," DY13 8YJ,1"," DY13 8YJ
+1",6848,52.3421592,-2.2765824,3,61-26
+6861,Rednal, 10 Arden Rd," B45 0JA
+1",6861,52.2331594,0.129781317,,77-25
+6896,Glasgow," G65 9AE,"," G65 9AE
+",6896,55.9773325,-4.0670925,,48-67
+6958,Exeter," EX6 7XS,1"," EX6 7XS
+1",6958,50.716704,-3.4990655,,52-8
+6960,Exeter," EX2 7HF,1"," EX2 7HF
+1",6960,50.716704,-3.4990655,,52-8
+6963,Devon," PL6 8LE,2"," PL6 8LE
+2",6963,50.36970655,-4.127857624,,48-4
+6966,Plymouth," PL2 2BG,2"," PL2 2BG
+2",6966,50.36970655,-4.127857624,,48-4
+6969,Chippenham," SN14 6UY,"," SN14 6UY
+",6969,51.4786308,-2.1296744,,62-16
+6970,Chippenham," SN14 6LB,"," SN14 6LB
+",6970,51.5111202,-2.15831575,,61-17
+6983,Rodbourne Road," SN2 1DH,1"," SN2 1DH
+1",6983,51.5656208,-1.7853111,,64-17
+7194,Durham," 1 North Rd,Durham"," DH1 4SH
+",7194,54.7786688,-1.583814048,,65-54
+7195,Durham," 2 Saddler St,Durham"," DH1 3NP
+",7195,54.7766877,-1.575170068,,65-54
+7196,Durham," 1B Dryburn View,Durham"," DH1 5AP
+",7196,54.79284325,-1.590829525,2,65-54
+7240,Bedminster," BS3 4JY,"," BS3 4JY
+",7240,51.44383535,-2.59467015,,58-16
+7251,Bristol," U7 Lescren Way,Avonmouth"," BS11 8DG
+",7251,51.5018848,-2.6823809,,58-17
+7253,Nailsea," 16 Colliers Wlk,Nailsea"," BS48 1RG
+",7253,51.43277745,-2.759129051,,57-16
+7261,Heaton," 209 Chillingham Rd,Newcastle Upon Tyne"," NE6 5LL
+",7261,54.9868342,-1.5774244,,65-56
+7341,Wellington," 1 New St,Wellington"," TF1 1LU
+",7341,52.7008024,-2.5182629,,59-30
+7342,Apley," TF1 6FQ,"," TF1 6FQ
+",7342,52.7136135,-2.5020138,,59-30
+7343,Telford," TF1 6QJ,"," TF1 6QJ
+",7343,52.717081,-2.4767374,,59-30
+7345,Wolverhampton," WV7 3EX,"," WV7 3EX
+",7345,52.64966,-2.3039,,60-29
+7349,Bridgnorth," WV15 6AP,1"," WV15 6AP
+1",7349,52.5280999,-2.4029597,3,60-28
+7352,Staffordshire," ST19 5PR,1"," ST19 5PR
+1",7352,52.8041025,-2.122829282,,62-31
+7452,96 Old Brumby Street," DN16 2AW,2"," DN16 2AW
+2",7452,53.57503165,-0.6555199,3,71-40
+7454,Doncaster," Waterdale SC,Doncaster"," DN1 3JZ
+",7454,53.5213811,-1.1294562,,68-39
+7455,Doncaster," 19 Baxtergate,Doncaster"," DN1 1LD
+",7455,53.52412205,-1.134664509,2,68-39
+7456,Doncaster," U114 Frenchgate SC,Doncaster"," DN1 1TT
+",7456,53.5225503,-1.13760525,2,68-39
+7457,Doncaster, U16 Food Mall," DN1 1LB
+",7457,53.5232426,-1.1391516,,68-39
+7458,Doncaster, U1 White Rose RC," DN4 5AJ
+",7458,53.51503,-1.12866,2,68-39
+7459,Doncaster," U56 Lakeside Vlg Outlet,Doncaster"," DN4 5PH
+",7459,53.5074745,-1.1131752,2,68-39
+7463,Denaby Main," Hill Top Rd,Denaby Main"," DN12 4TJ
+",7463,53.4782602,-1.2513156,,67-39
+7466,Hatfield," DN8 5GS,"," DN8 5GS
+",7466,53.59218233,-0.99237905,,69-40
+7473,Rotherham," S66 9LA,1"," S66 9LA
+1",7473,53.4280444,-1.2481644,,67-38
+7647,Swaffam," PE37 7TZ,2"," PE37 7TZ
+2",7647,52.6523977,0.7245032,3,81-30
+7649,Llandudno," 73 Mostyn St,Llandudno"," LL30 2NN
+",7649,53.32419145,-3.829145117,,50-37
+7650,Bodelwydda," LL18 5XW,"," LL18 5XW
+",7650,53.26801365,-3.5185503,,52-36
+7651,Rhyl, U8 Marina Quay," LL18 1LQ
+",7651,-16.8039016,145.7068177,,
+7652,Rhyl," 73 High St,Rhyl"," LL18 1TH
+1",7652,53.32082885,-3.489781061,,52-37
+7654,Bangor," LL57 4BG,1"," LL57 4BG
+1",7654,53.14068005,-4.181973908,,48-35
+7655,Bangor," 266 High St,Bangor"," LL57 1PB
+1",7655,53.2271158,-4.1247388,,48-36
+7656,Holywell," CH8 8RF,1"," CH8 8RF
+1",7656,53.2732814,-3.30707025,3,54-37
+7659,Clwyld," CH7 1UE,2"," CH7 1UE
+2",7659,53.15869115,-3.137285326,,55-35
+7660,Mold," CH7 6HB,2"," CH7 6HB
+2",7660,53.15869115,-3.137285326,,55-35
+7697,Edinburgh," EH6 6NX,1"," EH6 6NX
+1",7697,44.506988,-109.2641216,3,
+7744,Bangor," LL57 4BG,"," LL57 4BG
+",7744,53.20324032,-4.1064096,,48-36
+7746,Bodelwydda," LL18 5XW,2"," LL18 5XW
+2",7746,53.3230441,-3.4910875,,52-37
+7771,Clevedon," 3 Station Rd,Clevedon"," BS21 6NH
+",7771,51.4357592,-2.8528521,,57-16
+7777,Portishead," 66 High St,Portishead"," BS20 6EH
+1",7777,51.48310605,-2.769267691,,57-16
+7873,Leicester," LE4 7PB,1"," LE4 7PB
+1",7873,52.7309006,-1.1090864,,68-30
+7884,Ruddington," NG11 6LJ,1"," NG11 6LJ
+1",7884,52.9592754,-1.1361943,,68-33
